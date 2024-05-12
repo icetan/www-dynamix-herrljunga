@@ -4,7 +4,6 @@ title: |
   Terminsstart med den där irriterande kvarten borttagen
 date:   2022-01-12 15:04:26 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2022-01-12_15-04-26_UTC.jpg
 background: /instagram/dynamixherrljunga/2022-01-12_15-04-26_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-01-12_15-04-26_UTC.jpg
 ---

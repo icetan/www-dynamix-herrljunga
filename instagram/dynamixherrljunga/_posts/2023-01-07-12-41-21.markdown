@@ -4,7 +4,6 @@ title: |
   Välkomna att träna Brazilian jiu-jitsu och Sport ju-jutsu
 date:   2023-01-07 12:41:21 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2023-01-07_12-41-21_UTC_1.jpg
 background: /instagram/dynamixherrljunga/2023-01-07_12-41-21_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2023-01-07_12-41-21_UTC_1.jpg
 ---

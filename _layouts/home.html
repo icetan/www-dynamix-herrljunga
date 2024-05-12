@@ -37,7 +37,7 @@ layout: default
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <div style="width: 150px; height: 150px; float: left; margin: 0 1em 0.5em 0; background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}'); background-size: cover; background-position: center center;">&nbsp;
+            <div style="width: 150px; height: 150px; float: right; margin: 0 0  0.5em 1em; background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}'); background-size: cover; background-position: center center;">&nbsp;
             </div>
             <h2 class="post-title">{{ post.title }}</h2>
             {% if post.subtitle %}
@@ -46,14 +46,7 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta" style="clear: both;">Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
-            on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+          <p class="post-meta" style="clear: both;">Skriven {% include to_date.html date=post.date format='%-de %B, %Y' %}
           </p>
         </article>
 

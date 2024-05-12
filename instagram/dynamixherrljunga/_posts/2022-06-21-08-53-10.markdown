@@ -4,7 +4,6 @@ title: |
   Lördagen 30/7 får vi besök av @alecbaulding för ett endagarsseminarie
 date:   2022-06-21 08:53:10 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2022-06-21_08-53-10_UTC.jpg
 background: /instagram/dynamixherrljunga/2022-06-21_08-53-10_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-06-21_08-53-10_UTC.jpg
 ---

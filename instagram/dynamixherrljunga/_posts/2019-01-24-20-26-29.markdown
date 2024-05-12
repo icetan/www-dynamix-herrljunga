@@ -1,14 +1,13 @@
 ---
 layout: post
 title: |
-  #bjj #dynamixherrljunga #colorsleeve
+  
 date:   2019-01-24 20:26:29 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2019-01-24_20-26-29_UTC.jpg
 background: /instagram/dynamixherrljunga/2019-01-24_20-26-29_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-01-24_20-26-29_UTC.jpg
 ---
-#bjj #dynamixherrljunga #colorsleeve
+
 
 
 

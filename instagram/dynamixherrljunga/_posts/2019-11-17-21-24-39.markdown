@@ -4,7 +4,6 @@ title: |
   Dag 2 på Swedish Open
 date:   2019-11-17 21:24:39 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_1.jpg
 background: /instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_1.jpg
 ---

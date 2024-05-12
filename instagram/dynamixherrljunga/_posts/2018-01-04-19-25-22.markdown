@@ -4,7 +4,6 @@ title: |
   Ibland är man för långsam för att hinna få till en ny gruppbild
 date:   2018-01-04 19:25:22 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2018-01-04_19-25-22_UTC.jpg
 background: /instagram/dynamixherrljunga/2018-01-04_19-25-22_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-01-04_19-25-22_UTC.jpg
 ---

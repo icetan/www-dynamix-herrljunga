@@ -4,7 +4,6 @@ title: |
   BJJ vuxengruppen måndagar 19
 date:   2022-09-19 18:51:13 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2022-09-19_18-51-13_UTC.jpg
 background: /instagram/dynamixherrljunga/2022-09-19_18-51-13_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-09-19_18-51-13_UTC.jpg
 ---

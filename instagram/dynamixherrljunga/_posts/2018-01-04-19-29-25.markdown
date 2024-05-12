@@ -4,7 +4,6 @@ title: |
   Vår trogne medlem Joakim tog fina kort på gårdagens bjj-pass som på ett bra sätt visar hur kul det var
 date:   2018-01-04 19:29:25 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg
 background: /instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg
 ---

@@ -1,14 +1,13 @@
 ---
 layout: post
 title: |
-  #bjj #dynamixherrljunga #dynamixfightingsports
+  
 date:   2021-09-16 20:01:36 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2021-09-16_20-01-36_UTC.jpg
 background: /instagram/dynamixherrljunga/2021-09-16_20-01-36_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2021-09-16_20-01-36_UTC.jpg
 ---
-#bjj #dynamixherrljunga #dynamixfightingsports
+
 
 
 

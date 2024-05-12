@@ -4,7 +4,6 @@ title: |
   Imorgon börjar terminen
 date:   2022-01-23 16:48:03 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2022-01-23_16-48-03_UTC.jpg
 background: /instagram/dynamixherrljunga/2022-01-23_16-48-03_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-01-23_16-48-03_UTC.jpg
 ---

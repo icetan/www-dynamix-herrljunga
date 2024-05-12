@@ -17,14 +17,13 @@ for txt in "${txt_files[@]}"; do
 ---
 layout: post
 title: |
-  $(cat "$txt" | grep -o '^[^.,!?]*' | head -n1)
+  $(cat "$txt" | grep -o '^[^.,!?#]*' | head -n1)
 date:   $date_ $time_ +0000
 categories: instagram
-image: /${image_files[0]}
 background: /${image_files[0]}
 thumbnail: /${image_files[0]}
 ---
-$(cat "$txt")
+$(cat "$txt" | sed 's/#.*$//')
 
 $(for img in "${image_files[@]}"; do
     echo

@@ -4,7 +4,6 @@ title: |
   Peter & Emma var iväg och tränade hos Borås Geappling
 date:   2018-10-13 13:08:59 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg
 background: /instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg
 ---

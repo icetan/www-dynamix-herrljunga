@@ -4,7 +4,6 @@ title: |
   Idag var Peter och Tobbe på en mycket inspirerande föreläsning/träning med @mattiassunneborn Explosiv träning
 date:   2019-12-07 12:14:58 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2019-12-07_12-14-58_UTC.jpg
 background: /instagram/dynamixherrljunga/2019-12-07_12-14-58_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-12-07_12-14-58_UTC.jpg
 ---

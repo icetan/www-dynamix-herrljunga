@@ -4,7 +4,6 @@ title: |
   Söndagsmys
 date:   2018-01-21 16:04:20 +0000
 categories: instagram
-image: /instagram/dynamixherrljunga/2018-01-21_16-04-20_UTC.jpg
 background: /instagram/dynamixherrljunga/2018-01-21_16-04-20_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-01-21_16-04-20_UTC.jpg
 ---

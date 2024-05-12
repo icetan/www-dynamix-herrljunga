@@ -1,0 +1,44 @@
+# Strings for dates
+# language English
+abbreviated_weekday:
+  - mån
+  - tis
+  - ons
+  - tor
+  - fre
+  - lör
+  - sön
+full_weekday:
+  - måndag
+  - tisdag
+  - onsdag
+  - torsdag
+  - fredag
+  - lördag
+  - söndag
+abbreviated_month:
+  - jan
+  - feb
+  - mar
+  - apr
+  - maj
+  - jun
+  - jul
+  - aug
+  - sep
+  - okt
+  - nov
+  - dec
+full_month:
+  - januari
+  - februari
+  - mars
+  - april
+  - maj
+  - juni
+  - juli
+  - augusti
+  - september
+  - oktober
+  - november
+  - december
