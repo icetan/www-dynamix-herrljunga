@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Vi ses väl ikväll
+date:   2018-11-26 10:16:01 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg
+---
+Vi ses väl ikväll? @dynamixherrljunga #dynamixherrljunga
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg' class='img-fluid' />

@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Fullpackat på årets kickoff
+date:   2018-02-17 22:27:28 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2018-02-17_22-27-28_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-02-17_22-27-28_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-02-17_22-27-28_UTC.jpg
+---
+Fullpackat på årets kickoff. #dynamixkickoff2018
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-02-17_22-27-28_UTC.jpg' class='img-fluid' />

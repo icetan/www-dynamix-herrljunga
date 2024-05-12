@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: Inlägg
-background: '/img/hej-banner.png'
 ---
 
 {% for post in paginator.posts %}

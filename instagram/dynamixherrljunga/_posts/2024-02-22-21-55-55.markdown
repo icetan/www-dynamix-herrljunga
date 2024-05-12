@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Albin till blått
+date:   2024-02-22 21:55:55 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2024-02-22_21-55-55_UTC.jpg
+background: /instagram/dynamixherrljunga/2024-02-22_21-55-55_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-02-22_21-55-55_UTC.jpg
+---
+Albin till blått. This is the way! #dynamixherrljunga #dynamixfightingsports #bjj
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2024-02-22_21-55-55_UTC.jpg' class='img-fluid' />

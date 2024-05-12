@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Bra uppslutning ikväll
+date:   2023-05-15 19:32:48 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2023-05-15_19-32-48_UTC.jpg
+background: /instagram/dynamixherrljunga/2023-05-15_19-32-48_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-05-15_19-32-48_UTC.jpg
+---
+Bra uppslutning ikväll! #bjj #sportjujutsu #dynamixherrljunga #dynamixfightingsports
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-05-15_19-32-48_UTC.jpg' class='img-fluid' />

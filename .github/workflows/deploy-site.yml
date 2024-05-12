@@ -6,6 +6,9 @@ on:
     branches:
       - master
       - main
+  schedule:
+    # Runs at 01:20am UTC every day (see https://crontab.guru)
+    - cron: '20 1 * * *'
 
 permissions:
   contents: read
@@ -22,10 +25,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: cachix/install-nix-action@v24
-      - id: set-matrix
-        name: Build Jekyll Site
+
+      - name: Pull Instagram Posts
+        run: |
+          nix develop . --command ./bin/update-instagram.sh
+
+      - name: Generate Posts
+        run: |
+          nix develop . --command ./bin/gen-posts.sh
+
+      - name: Build Jekyll Site
         run: |
           nix develop . --command ./bin/build.sh
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -41,4 +53,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-

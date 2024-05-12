@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Mma #dynamixherrljunga
+date:   2014-02-20 18:20:24 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2014-02-20_18-20-24_UTC.jpg
+background: /instagram/dynamixherrljunga/2014-02-20_18-20-24_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2014-02-20_18-20-24_UTC.jpg
+---
+Mma #dynamixherrljunga
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2014-02-20_18-20-24_UTC.jpg' class='img-fluid' />

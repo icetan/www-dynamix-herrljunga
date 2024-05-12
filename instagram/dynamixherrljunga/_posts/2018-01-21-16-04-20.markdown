@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Söndagsmys
+date:   2018-01-21 16:04:20 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2018-01-21_16-04-20_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-01-21_16-04-20_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-01-21_16-04-20_UTC.jpg
+---
+Söndagsmys
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-21_16-04-20_UTC.jpg' class='img-fluid' />

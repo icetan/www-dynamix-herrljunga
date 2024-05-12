@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Kvällens bjj i bilder
+date:   2018-02-22 20:31:33 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2018-02-22_20-31-33_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-02-22_20-31-33_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-02-22_20-31-33_UTC.jpg
+---
+Kvällens bjj i bilder. Se va kul det är! #dynamixherrljunga #bjj #braträning
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-02-22_20-31-33_UTC.jpg' class='img-fluid' />

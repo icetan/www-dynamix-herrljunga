@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Tobbe är klar
+date:   2018-02-18 09:29:36 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg
+---
+Tobbe är klar! #faxiapreta #bjj #dynamixherrljunga
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg' class='img-fluid' />

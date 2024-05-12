@@ -23,6 +23,8 @@
               buildInputs = [
                 (pkgs.ruby.withPackages (ps: with ps; [ jekyll ]))
                 pkgs.instaloader
+                pkgs.yq
+                pkgs.gnugrep
               ];
               shellHook = ''
                 echo hello

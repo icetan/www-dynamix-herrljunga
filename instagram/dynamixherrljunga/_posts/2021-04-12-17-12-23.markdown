@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Barnträning med reducerat antal
+date:   2021-04-12 17:12:23 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2021-04-12_17-12-23_UTC.jpg
+background: /instagram/dynamixherrljunga/2021-04-12_17-12-23_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2021-04-12_17-12-23_UTC.jpg
+---
+Barnträning med reducerat antal. #dynamixherrljunga #bjj
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-04-12_17-12-23_UTC.jpg' class='img-fluid' />

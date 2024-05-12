@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Då kör vi
+date:   2018-04-23 16:06:24 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2018-04-23_16-06-24_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-04-23_16-06-24_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-04-23_16-06-24_UTC.jpg
+---
+Då kör vi! #bjj #mittlivsommelker #dynamixherrljunga #dynamixfightingsports #neverrest #embrace
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-04-23_16-06-24_UTC.jpg' class='img-fluid' />

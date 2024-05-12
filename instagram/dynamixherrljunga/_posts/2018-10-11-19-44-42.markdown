@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Passeringar var temat på kvällens bjj
+date:   2018-10-11 19:44:42 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2018-10-11_19-44-42_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-10-11_19-44-42_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-10-11_19-44-42_UTC.jpg
+---
+Passeringar var temat på kvällens bjj.
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-10-11_19-44-42_UTC.jpg' class='img-fluid' />

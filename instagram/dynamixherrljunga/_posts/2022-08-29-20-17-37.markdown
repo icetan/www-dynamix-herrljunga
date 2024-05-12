@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  Höstterminen är igång
+date:   2022-08-29 20:17:37 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2022-08-29_20-17-37_UTC.jpg
+background: /instagram/dynamixherrljunga/2022-08-29_20-17-37_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-08-29_20-17-37_UTC.jpg
+---
+Höstterminen är igång....
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-08-29_20-17-37_UTC.jpg' class='img-fluid' />

@@ -1,0 +1,15 @@
+---
+layout: post
+title: |
+  @hampan_wall med dagens medaljskörd
+date:   2018-10-13 15:27:38 +0000
+categories: instagram
+image: /instagram/dynamixherrljunga/2018-10-13_15-27-38_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-10-13_15-27-38_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-10-13_15-27-38_UTC.jpg
+---
+@hampan_wall med dagens medaljskörd. Brons i newaza och silver i fighting på Nordic cup i Nacka. Grattis Hampus!
+
+
+
+<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-10-13_15-27-38_UTC.jpg' class='img-fluid' />
