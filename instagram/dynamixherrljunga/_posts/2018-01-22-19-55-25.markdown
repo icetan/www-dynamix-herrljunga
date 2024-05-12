@@ -2,12 +2,14 @@
 layout: post
 title: |
   Dagens pass var nej
+excerpt: |
+  Dagens pass var nej. Dagens teknik var    
 date:   2018-01-22 19:55:25 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg
 ---
-Dagens pass var nej. Dagens teknik var 
+Dagens pass var nej. Dagens teknik var [#leglasso](https://www.instagram.com/explore/tags/leglasso/)  [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 
 
 

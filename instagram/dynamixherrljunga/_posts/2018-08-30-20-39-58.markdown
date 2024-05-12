@@ -2,12 +2,14 @@
 layout: post
 title: |
   20 barn som körde räkor idag
+excerpt: |
+  20 barn som körde räkor idag.   
 date:   2018-08-30 20:39:58 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-08-30_20-39-58_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-08-30_20-39-58_UTC.jpg
 ---
-20 barn som körde räkor idag. 
+20 barn som körde räkor idag. [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#shrimp](https://www.instagram.com/explore/tags/shrimp/)
 
 
 

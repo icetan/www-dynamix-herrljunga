@@ -13,17 +13,23 @@ for txt in "${txt_files[@]}"; do
   time_=$(cut -d_ -f2 <<<"$base_name" | tr - :)
   post_file="$POST_DIR/$date_-$(echo "$time_" | tr : -).markdown"
   mapfile -t image_files < <(find "$SRC_DIR" -name "${base_name}*.jpg")
+  post_text=$(cat "$txt")
   cat > "$post_file" <<EOF
 ---
 layout: post
 title: |
-  $(cat "$txt" | grep -o '^[^.,!?#]*' | head -n1)
+  $(echo "$post_text" | grep -o '^[^.,!?#]*' | head -n1)
+excerpt: |
+$(echo "$post_text" | sed -e 's,#[^\t ][^\t ]*,,g' -e 's,^,  ,')
 date:   $date_ $time_ +0000
 categories: instagram
 background: /${image_files[0]}
 thumbnail: /${image_files[0]}
 ---
-$(cat "$txt" | sed 's/#.*$//')
+$(echo "$post_text" | sed \
+  -e 's,#\([^\t ][^\t ]*\),[#\1](https://www.instagram.com/explore/tags/\1/),g' \
+  -e 's,\(^\| \)@\([^\t ][^\t ]*\),\1[@\2](https://www.instagram.com/\2/),g'
+)
 
 $(for img in "${image_files[@]}"; do
     echo

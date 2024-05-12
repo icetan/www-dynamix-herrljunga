@@ -2,12 +2,14 @@
 layout: post
 title: |
   Kvällens BJJ
+excerpt: |
+  Kvällens BJJ. "Bra pass, kul att instruera" sa @farbrorpete   
 date:   2022-09-08 18:51:38 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2022-09-08_18-51-38_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-09-08_18-51-38_UTC.jpg
 ---
-Kvällens BJJ. "Bra pass, kul att instruera" sa @farbrorpete 
+Kvällens BJJ. "Bra pass, kul att instruera" sa [@farbrorpete](https://www.instagram.com/farbrorpete/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 
 
 

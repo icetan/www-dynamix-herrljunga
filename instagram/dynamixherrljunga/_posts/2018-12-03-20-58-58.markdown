@@ -2,12 +2,14 @@
 layout: post
 title: |
   Full fart på kvällens pass
+excerpt: |
+  Full fart på kvällens pass.   
 date:   2018-12-03 20:58:58 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_1.jpg
 ---
-Full fart på kvällens pass. 
+Full fart på kvällens pass. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#sjj](https://www.instagram.com/explore/tags/sjj/)
 
 
 

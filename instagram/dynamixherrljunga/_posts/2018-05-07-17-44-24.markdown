@@ -2,12 +2,14 @@
 layout: post
 title: |
   Måndagsbjj😁 så suddig så vi inte kan identifieras 
+excerpt: |
+  Måndagsbjj😁 så suddig så vi inte kan identifieras      
 date:   2018-05-07 17:44:24 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-05-07_17-44-24_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-05-07_17-44-24_UTC.jpg
 ---
-Måndagsbjj😁 så suddig så vi inte kan identifieras 
+Måndagsbjj😁 så suddig så vi inte kan identifieras [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#mittlivsommelker](https://www.instagram.com/explore/tags/mittlivsommelker/) [#bjjbffs](https://www.instagram.com/explore/tags/bjjbffs/) [##fullcontactpyjamaparty](https://www.instagram.com/explore/tags/#fullcontactpyjamaparty/) [#steponpass](https://www.instagram.com/explore/tags/steponpass/)
 
 
 

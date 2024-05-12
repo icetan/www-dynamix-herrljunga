@@ -2,6 +2,8 @@
 layout: post
 title: |
   Dag 2 på Swedish Open
+excerpt: |
+  Dag 2 på Swedish Open. Guld till Naim och Elise, silver till Litea och brons till Olle och Peter. En bra dag för vår lilla klubb på Skandinaviens största bjj-tävling.
 date:   2019-11-17 21:24:39 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_1.jpg

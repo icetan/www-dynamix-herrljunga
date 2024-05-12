@@ -2,12 +2,14 @@
 layout: post
 title: |
   Kvällens pass och vi jobbade 
+excerpt: |
+  Kvällens pass och vi jobbade        
 date:   2018-04-09 19:00:59 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-04-09_19-00-59_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-04-09_19-00-59_UTC_1.jpg
 ---
-Kvällens pass och vi jobbade 
+Kvällens pass och vi jobbade [#overunder](https://www.instagram.com/explore/tags/overunder/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#pyjamapartybjj](https://www.instagram.com/explore/tags/pyjamapartybjj/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#bjj4life](https://www.instagram.com/explore/tags/bjj4life/) [#bjjlifestyle](https://www.instagram.com/explore/tags/bjjlifestyle/) [#mittlivsommelker](https://www.instagram.com/explore/tags/mittlivsommelker/) [#snyggarenaken](https://www.instagram.com/explore/tags/snyggarenaken/)
 
 
 

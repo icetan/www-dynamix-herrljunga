@@ -2,12 +2,14 @@
 layout: post
 title: |
   Olle & Clara
+excerpt: |
+  Olle & Clara, 11 ears old. @nicholasmeregali & @jonthomasbjj  is the inspiration. 😊  
 date:   2021-06-10 18:27:00 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2021-06-10_18-27-00_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2021-06-10_18-27-00_UTC.jpg
 ---
-Olle & Clara, 11 ears old. @nicholasmeregali & @jonthomasbjj  is the inspiration. 😊 
+Olle & Clara, 11 ears old. [@nicholasmeregali](https://www.instagram.com/nicholasmeregali/) & [@jonthomasbjj](https://www.instagram.com/jonthomasbjj/)  is the inspiration. 😊 [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 
 
 

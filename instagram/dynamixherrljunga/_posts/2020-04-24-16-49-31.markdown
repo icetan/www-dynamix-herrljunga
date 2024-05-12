@@ -2,12 +2,14 @@
 layout: post
 title: |
   Vi håller tyvärr fortsatt stängt och håller på med andra aktiviteter
+excerpt: |
+  Vi håller tyvärr fortsatt stängt och håller på med andra aktiviteter.   
 date:   2020-04-24 16:49:31 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2020-04-24_16-49-31_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2020-04-24_16-49-31_UTC.jpg
 ---
-Vi håller tyvärr fortsatt stängt och håller på med andra aktiviteter. 
+Vi håller tyvärr fortsatt stängt och håller på med andra aktiviteter. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 
 
 

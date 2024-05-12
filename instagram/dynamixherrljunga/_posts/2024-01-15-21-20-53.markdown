@@ -2,12 +2,14 @@
 layout: post
 title: |
   Besök av @alecbaulding för att kickstarta terminen
+excerpt: |
+  Besök av @alecbaulding för att kickstarta terminen. Mycket uppskattat!    
 date:   2024-01-15 21:20:53 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2024-01-15_21-20-53_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2024-01-15_21-20-53_UTC_1.jpg
 ---
-Besök av @alecbaulding för att kickstarta terminen. Mycket uppskattat! 
+Besök av [@alecbaulding](https://www.instagram.com/alecbaulding/) för att kickstarta terminen. Mycket uppskattat! [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#sjj](https://www.instagram.com/explore/tags/sjj/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 
 
 

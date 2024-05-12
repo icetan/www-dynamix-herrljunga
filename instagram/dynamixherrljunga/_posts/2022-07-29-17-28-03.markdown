@@ -2,12 +2,14 @@
 layout: post
 title: |
   Dan före dan
+excerpt: |
+  Dan före dan.... @alecbaulding in da house.   
 date:   2022-07-29 17:28:03 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2022-07-29_17-28-03_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-07-29_17-28-03_UTC.jpg
 ---
-Dan före dan.... @alecbaulding in da house. 
+Dan före dan.... [@alecbaulding](https://www.instagram.com/alecbaulding/) in da house. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/)
 
 
 

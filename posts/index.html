@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: page
 title: Inlägg
+background: /instagram/dynamixherrljunga/2024-01-15_21-20-53_UTC_1.jpg
 ---
 
 {% for post in paginator.posts %}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+    <div style="width: 150px; height: 150px; float: right; margin: 0 0  0.5em 1em; background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}'); background-size: cover; background-position: center center;">&nbsp;</div>
     <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}
     <h3 class="post-subtitle">{{ post.subtitle }}</h3>
@@ -14,7 +16,7 @@ title: Inlägg
     <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
     {% endif %}
   </a>
-  <p class="post-meta">Skriven {% include to_date.html date=page.date format='%B %d, %Y' %}
+  <p class="post-meta">Skriven {% include to_date.html date=post.date format=' %-de %B %Y' %}
   </p>
 </article>
 
@@ -29,11 +31,11 @@ title: Inlägg
 
   {% if paginator.previous_page %}
   <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Newer<span class="d-none d-md-inline"> Posts</span></a>
+    Nyare<span class="d-none d-md-inline"> Inlägg</span></a>
   {% endif %}
 
   {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Äldre<span class="d-none d-md-inline"> Inlägg</span> &rarr;</a>
   {% endif %}
 
 </div>

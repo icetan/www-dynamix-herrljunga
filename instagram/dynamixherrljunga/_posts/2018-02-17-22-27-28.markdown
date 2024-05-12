@@ -2,12 +2,14 @@
 layout: post
 title: |
   Fullpackat på årets kickoff
+excerpt: |
+  Fullpackat på årets kickoff. 
 date:   2018-02-17 22:27:28 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-02-17_22-27-28_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-02-17_22-27-28_UTC.jpg
 ---
-Fullpackat på årets kickoff. 
+Fullpackat på årets kickoff. [#dynamixkickoff2018](https://www.instagram.com/explore/tags/dynamixkickoff2018/)
 
 
 

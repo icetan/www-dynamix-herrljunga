@@ -2,12 +2,14 @@
 layout: post
 title: |
   Varje tisdag och torsdag våttorkas mattorna
+excerpt: |
+  Varje tisdag och torsdag våttorkas mattorna.  
 date:   2018-03-09 06:21:43 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-03-09_06-21-43_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-03-09_06-21-43_UTC.jpg
 ---
-Varje tisdag och torsdag våttorkas mattorna. 
+Varje tisdag och torsdag våttorkas mattorna. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 
 
 

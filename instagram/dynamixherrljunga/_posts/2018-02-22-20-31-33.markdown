@@ -2,12 +2,14 @@
 layout: post
 title: |
   Kvällens bjj i bilder
+excerpt: |
+  Kvällens bjj i bilder. Se va kul det är!   
 date:   2018-02-22 20:31:33 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-02-22_20-31-33_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-02-22_20-31-33_UTC.jpg
 ---
-Kvällens bjj i bilder. Se va kul det är! 
+Kvällens bjj i bilder. Se va kul det är! [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#braträning](https://www.instagram.com/explore/tags/braträning/)
 
 
 

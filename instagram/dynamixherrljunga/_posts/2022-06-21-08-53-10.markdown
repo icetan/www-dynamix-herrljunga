@@ -2,12 +2,14 @@
 layout: post
 title: |
   Lördagen 30/7 får vi besök av @alecbaulding för ett endagarsseminarie
+excerpt: |
+  Lördagen 30/7 får vi besök av @alecbaulding för ett endagarsseminarie. https://facebook.com/events/s/sommarseminarie-med-alec-bauld/546368330470530/
 date:   2022-06-21 08:53:10 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2022-06-21_08-53-10_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-06-21_08-53-10_UTC.jpg
 ---
-Lördagen 30/7 får vi besök av @alecbaulding för ett endagarsseminarie. https://facebook.com/events/s/sommarseminarie-med-alec-bauld/546368330470530/
+Lördagen 30/7 får vi besök av [@alecbaulding](https://www.instagram.com/alecbaulding/) för ett endagarsseminarie. https://facebook.com/events/s/sommarseminarie-med-alec-bauld/546368330470530/
 
 
 

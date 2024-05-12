@@ -2,12 +2,14 @@
 layout: post
 title: |
   Idag var vi och tävlade på @bjjnation_tournament  med 5 barn och 2 vuxna
+excerpt: |
+  Idag var vi och tävlade på @bjjnation_tournament  med 5 barn och 2 vuxna. Det blev många bra matcher och några medaljer. De som vågar ställa upp och tävla slår alltid de som sitter hemma, så är det.    
 date:   2023-11-25 22:09:30 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2023-11-25_22-09-30_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2023-11-25_22-09-30_UTC_1.jpg
 ---
-Idag var vi och tävlade på @bjjnation_tournament  med 5 barn och 2 vuxna. Det blev många bra matcher och några medaljer. De som vågar ställa upp och tävla slår alltid de som sitter hemma, så är det. 
+Idag var vi och tävlade på [@bjjnation_tournament](https://www.instagram.com/bjjnation_tournament/)  med 5 barn och 2 vuxna. Det blev många bra matcher och några medaljer. De som vågar ställa upp och tävla slår alltid de som sitter hemma, så är det. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 
 
 

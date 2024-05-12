@@ -2,12 +2,14 @@
 layout: post
 title: |
   Dagens pass
+excerpt: |
+  Dagens pass. 9 glada tjejer grymt kört!  
 date:   2014-02-08 11:41:37 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2014-02-08_11-41-37_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2014-02-08_11-41-37_UTC.jpg
 ---
-Dagens pass. 9 glada tjejer grymt kört! 
+Dagens pass. 9 glada tjejer grymt kört! [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#barabrudar](https://www.instagram.com/explore/tags/barabrudar/)
 
 
 

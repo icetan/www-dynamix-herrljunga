@@ -2,12 +2,14 @@
 layout: post
 title: |
   Enter the Matrix
+excerpt: |
+  Enter the Matrix....kul pass med @espenmathiesen
 date:   2022-08-13 15:22:03 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2022-08-13_15-22-03_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-08-13_15-22-03_UTC.jpg
 ---
-Enter the Matrix....kul pass med @espenmathiesen
+Enter the Matrix....kul pass med [@espenmathiesen](https://www.instagram.com/espenmathiesen/)
 
 
 

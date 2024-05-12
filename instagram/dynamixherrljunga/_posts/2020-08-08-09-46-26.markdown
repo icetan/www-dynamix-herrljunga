@@ -2,12 +2,14 @@
 layout: post
 title: |
   Tider sportju-jutsu för nästa termin
+excerpt: |
+  Tider sportju-jutsu för nästa termin.  
 date:   2020-08-08 09:46:26 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2020-08-08_09-46-26_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2020-08-08_09-46-26_UTC.jpg
 ---
-Tider sportju-jutsu för nästa termin. 
+Tider sportju-jutsu för nästa termin. [#sjj](https://www.instagram.com/explore/tags/sjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 
 
 

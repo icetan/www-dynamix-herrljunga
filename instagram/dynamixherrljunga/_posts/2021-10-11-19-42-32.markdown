@@ -2,12 +2,14 @@
 layout: post
 title: |
   Sälarna på barnpasset
+excerpt: |
+  Sälarna på barnpasset.   
 date:   2021-10-11 19:42:32 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2021-10-11_19-42-32_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2021-10-11_19-42-32_UTC.jpg
 ---
-Sälarna på barnpasset. 
+Sälarna på barnpasset. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 
 
 

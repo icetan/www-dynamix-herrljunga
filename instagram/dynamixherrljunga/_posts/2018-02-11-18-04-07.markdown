@@ -2,12 +2,14 @@
 layout: post
 title: |
   
+excerpt: |
+         
 date:   2018-02-11 18:04:07 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-02-11_18-04-07_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-02-11_18-04-07_UTC_1.jpg
 ---
-
+[#Söndagsmys](https://www.instagram.com/explore/tags/Söndagsmys/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#bjjbiff](https://www.instagram.com/explore/tags/bjjbiff/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#flow](https://www.instagram.com/explore/tags/flow/) [#hulkgi](https://www.instagram.com/explore/tags/hulkgi/) [#purplebelt](https://www.instagram.com/explore/tags/purplebelt/) [#purplebeltBJJ](https://www.instagram.com/explore/tags/purplebeltBJJ/)
 
 
 

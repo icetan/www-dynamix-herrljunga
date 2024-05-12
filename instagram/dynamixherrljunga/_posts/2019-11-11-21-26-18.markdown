@@ -2,12 +2,14 @@
 layout: post
 title: |
   Halfguard top
+excerpt: |
+  Halfguard top.. 😊   
 date:   2019-11-11 21:26:18 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-11-11_21-26-18_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-11-11_21-26-18_UTC.jpg
 ---
-Halfguard top.. 😊 
+Halfguard top.. 😊 [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 
 
 

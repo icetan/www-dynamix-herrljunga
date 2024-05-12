@@ -2,12 +2,14 @@
 layout: post
 title: |
   Idag körde vi lite nogi med barngruppen
+excerpt: |
+  Idag körde vi lite nogi med barngruppen. Ovant och konstigt utan dräkt men väldigt kul.  
 date:   2021-05-28 04:50:08 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2021-05-28_04-50-08_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2021-05-28_04-50-08_UTC.jpg
 ---
-Idag körde vi lite nogi med barngruppen. Ovant och konstigt utan dräkt men väldigt kul. 
+Idag körde vi lite nogi med barngruppen. Ovant och konstigt utan dräkt men väldigt kul. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 
 
 

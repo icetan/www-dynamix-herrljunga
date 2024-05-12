@@ -2,12 +2,14 @@
 layout: post
 title: |
   Höstens schema är officiellt
+excerpt: |
+  Höstens schema är officiellt! Vecka 34 startar ordinarie pass. Vecka 35 är nybörjare välkomna!    
 date:   2019-08-12 08:56:36 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-08-12_08-56-36_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-08-12_08-56-36_UTC.jpg
 ---
-Höstens schema är officiellt! Vecka 34 startar ordinarie pass. Vecka 35 är nybörjare välkomna! 
+Höstens schema är officiellt! Vecka 34 startar ordinarie pass. Vecka 35 är nybörjare välkomna! [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#sjj](https://www.instagram.com/explore/tags/sjj/)
 
 
 

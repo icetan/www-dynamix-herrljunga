@@ -2,12 +2,14 @@
 layout: post
 title: |
   1 min sparring mellan @farbrorpete och hans dotter Clara som är 3 stripes grått bälte
+excerpt: |
+  1 min sparring mellan @farbrorpete och hans dotter Clara som är 3 stripes grått bälte. Vissa smygtränar lite på sommaren.   
 date:   2019-07-21 11:09:18 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-07-21_11-09-18_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-07-21_11-09-18_UTC.jpg
 ---
-1 min sparring mellan @farbrorpete och hans dotter Clara som är 3 stripes grått bälte. Vissa smygtränar lite på sommaren. 
+1 min sparring mellan [@farbrorpete](https://www.instagram.com/farbrorpete/) och hans dotter Clara som är 3 stripes grått bälte. Vissa smygtränar lite på sommaren. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/)
 
 
 

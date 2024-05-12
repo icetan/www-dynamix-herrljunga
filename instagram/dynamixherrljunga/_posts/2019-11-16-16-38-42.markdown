@@ -2,12 +2,14 @@
 layout: post
 title: |
   Dag 1 på Swedish Open gav två brons
+excerpt: |
+  Dag 1 på Swedish Open gav två brons. @lindakorpas och @joakimriise74 . Grymt bra jobbat. Imorgon tar vi nya tag.  
 date:   2019-11-16 16:38:42 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-11-16_16-38-42_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-11-16_16-38-42_UTC_1.jpg
 ---
-Dag 1 på Swedish Open gav två brons. @lindakorpas och @joakimriise74 . Grymt bra jobbat. Imorgon tar vi nya tag. 
+Dag 1 på Swedish Open gav två brons. [@lindakorpas](https://www.instagram.com/lindakorpas/) och [@joakimriise74](https://www.instagram.com/joakimriise74/) . Grymt bra jobbat. Imorgon tar vi nya tag. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 
 
 

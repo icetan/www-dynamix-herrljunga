@@ -2,12 +2,14 @@
 layout: post
 title: |
   Vi ses väl ikväll
+excerpt: |
+  Vi ses väl ikväll? @dynamixherrljunga 
 date:   2018-11-26 10:16:01 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg
 ---
-Vi ses väl ikväll? @dynamixherrljunga 
+Vi ses väl ikväll? [@dynamixherrljunga](https://www.instagram.com/dynamixherrljunga/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 
 
 

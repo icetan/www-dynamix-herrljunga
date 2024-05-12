@@ -21,6 +21,8 @@ gem "webrick"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap" ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

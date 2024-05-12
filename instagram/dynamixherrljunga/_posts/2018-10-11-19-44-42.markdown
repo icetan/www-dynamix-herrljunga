@@ -2,6 +2,8 @@
 layout: post
 title: |
   Passeringar var temat på kvällens bjj
+excerpt: |
+  Passeringar var temat på kvällens bjj.
 date:   2018-10-11 19:44:42 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-10-11_19-44-42_UTC.jpg

@@ -2,12 +2,14 @@
 layout: post
 title: |
   Dagens nogi
+excerpt: |
+  Dagens nogi.    
 date:   2018-05-03 19:43:14 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-05-03_19-43-14_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-05-03_19-43-14_UTC_1.jpg
 ---
-Dagens nogi. 
+Dagens nogi. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjj](https://www.instagram.com/explore/tags/bjj/)
 
 
 

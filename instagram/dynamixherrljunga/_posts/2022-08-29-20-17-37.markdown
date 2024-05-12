@@ -2,6 +2,8 @@
 layout: post
 title: |
   Höstterminen är igång
+excerpt: |
+  Höstterminen är igång....
 date:   2022-08-29 20:17:37 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2022-08-29_20-17-37_UTC.jpg

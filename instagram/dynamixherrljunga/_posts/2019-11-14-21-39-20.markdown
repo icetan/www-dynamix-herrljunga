@@ -2,12 +2,14 @@
 layout: post
 title: |
   Vår coolaste grupp
+excerpt: |
+  Vår coolaste grupp. Bra uppslutning ikväll   
 date:   2019-11-14 21:39:20 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-11-14_21-39-20_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-11-14_21-39-20_UTC.jpg
 ---
-Vår coolaste grupp. Bra uppslutning ikväll 
+Vår coolaste grupp. Bra uppslutning ikväll [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 
 
 

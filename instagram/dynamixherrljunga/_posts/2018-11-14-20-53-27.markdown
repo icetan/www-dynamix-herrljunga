@@ -2,12 +2,14 @@
 layout: post
 title: |
   Grymt kämpat idag
+excerpt: |
+  Grymt kämpat idag. 😊👍     
 date:   2018-11-14 20:53:27 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-11-14_20-53-27_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-11-14_20-53-27_UTC_1.jpg
 ---
-Grymt kämpat idag. 😊👍 
+Grymt kämpat idag. 😊👍 [#sportjujutsu](https://www.instagram.com/explore/tags/sportjujutsu/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#riise](https://www.instagram.com/explore/tags/riise/) [#jujutsufighting](https://www.instagram.com/explore/tags/jujutsufighting/)
 
 
 

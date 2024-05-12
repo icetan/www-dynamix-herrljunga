@@ -2,6 +2,8 @@
 layout: post
 title: |
   Idag var vi med och visade upp våra idrotter på Lions Föreningslördag
+excerpt: |
+  Idag var vi med och visade upp våra idrotter på Lions Föreningslördag. Fullt ös mellan 10-15
 date:   2019-08-31 16:14:24 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-08-31_16-14-24_UTC_1.jpg

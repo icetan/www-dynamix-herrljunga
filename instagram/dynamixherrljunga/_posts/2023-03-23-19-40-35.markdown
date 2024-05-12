@@ -2,12 +2,14 @@
 layout: post
 title: |
   Besök från @budoklubbenshindo idag
+excerpt: |
+  Besök från @budoklubbenshindo idag. Trevligt! Välkomna åter!
 date:   2023-03-23 19:40:35 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2023-03-23_19-40-35_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2023-03-23_19-40-35_UTC.jpg
 ---
-Besök från @budoklubbenshindo idag. Trevligt! Välkomna åter!
+Besök från [@budoklubbenshindo](https://www.instagram.com/budoklubbenshindo/) idag. Trevligt! Välkomna åter!
 
 
 

@@ -2,12 +2,14 @@
 layout: post
 title: |
   På måndagar brottar vi ner @tobnik Det är sen gammalt
+excerpt: |
+  På måndagar brottar vi ner @tobnik Det är sen gammalt.   
 date:   2023-10-30 18:07:42 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2023-10-30_18-07-42_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2023-10-30_18-07-42_UTC.jpg
 ---
-På måndagar brottar vi ner @tobnik Det är sen gammalt. 
+På måndagar brottar vi ner [@tobnik](https://www.instagram.com/tobnik/) Det är sen gammalt. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/)
 
 
 

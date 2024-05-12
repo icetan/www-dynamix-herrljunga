@@ -2,12 +2,14 @@
 layout: post
 title: |
   En måndagskväll I dojon😁 
+excerpt: |
+  En måndagskväll I dojon😁     
 date:   2018-03-26 19:25:04 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-03-26_19-25-04_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-03-26_19-25-04_UTC.jpg
 ---
-En måndagskväll I dojon😁 
+En måndagskväll I dojon😁 [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#lejongropen](https://www.instagram.com/explore/tags/lejongropen/) [#growth](https://www.instagram.com/explore/tags/growth/) [#mittlivsommelker](https://www.instagram.com/explore/tags/mittlivsommelker/)
 
 
 

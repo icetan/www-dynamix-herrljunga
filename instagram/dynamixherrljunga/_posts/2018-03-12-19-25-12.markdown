@@ -2,12 +2,14 @@
 layout: post
 title: |
   Kvällens gäng krigade på bra
+excerpt: |
+  Kvällens gäng krigade på bra!       
 date:   2018-03-12 19:25:12 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-03-12_19-25-12_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-03-12_19-25-12_UTC.jpg
 ---
-Kvällens gäng krigade på bra! 
+Kvällens gäng krigade på bra! [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#mittlivsommelker](https://www.instagram.com/explore/tags/mittlivsommelker/) [#purplebeltBJJ](https://www.instagram.com/explore/tags/purplebeltBJJ/) [#purplebelt](https://www.instagram.com/explore/tags/purplebelt/) [#pyjamapartybjj](https://www.instagram.com/explore/tags/pyjamapartybjj/)
 
 
 

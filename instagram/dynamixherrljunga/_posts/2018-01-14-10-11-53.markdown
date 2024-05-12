@@ -2,12 +2,14 @@
 layout: post
 title: |
   Ren och fin Dojo till terminsstart
+excerpt: |
+  Ren och fin Dojo till terminsstart.   
 date:   2018-01-14 10:11:53 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-01-14_10-11-53_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-01-14_10-11-53_UTC.jpg
 ---
-Ren och fin Dojo till terminsstart. 
+Ren och fin Dojo till terminsstart. [#städdag](https://www.instagram.com/explore/tags/städdag/)  [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 
 
 

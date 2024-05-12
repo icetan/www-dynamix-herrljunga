@@ -2,6 +2,8 @@
 layout: post
 title: |
   Träningsschema VT 2024
+excerpt: |
+  Träningsschema VT 2024.
 date:   2024-01-07 15:25:49 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2024-01-07_15-25-49_UTC.jpg

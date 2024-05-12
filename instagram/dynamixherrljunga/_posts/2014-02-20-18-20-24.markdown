@@ -2,12 +2,14 @@
 layout: post
 title: |
   Mma 
+excerpt: |
+  Mma 
 date:   2014-02-20 18:20:24 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2014-02-20_18-20-24_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2014-02-20_18-20-24_UTC.jpg
 ---
-Mma 
+Mma [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 
 
 

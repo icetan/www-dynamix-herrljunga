@@ -2,12 +2,14 @@
 layout: post
 title: |
   Ibland är vår sport lite konstig
+excerpt: |
+  Ibland är vår sport lite konstig.   
 date:   2018-09-15 16:41:49 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-09-15_16-41-49_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-09-15_16-41-49_UTC.jpg
 ---
-Ibland är vår sport lite konstig. 
+Ibland är vår sport lite konstig. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#gubbrövar](https://www.instagram.com/explore/tags/gubbrövar/)
 
 
 

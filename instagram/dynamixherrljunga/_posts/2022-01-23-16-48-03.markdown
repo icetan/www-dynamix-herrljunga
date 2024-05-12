@@ -2,6 +2,8 @@
 layout: post
 title: |
   Imorgon börjar terminen
+excerpt: |
+  Imorgon börjar terminen. OBS! För vuxna gäller föranmälan. Max 10 tränande + instruktör.
 date:   2022-01-23 16:48:03 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2022-01-23_16-48-03_UTC.jpg

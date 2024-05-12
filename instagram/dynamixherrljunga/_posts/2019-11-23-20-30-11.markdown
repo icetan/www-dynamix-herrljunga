@@ -2,6 +2,8 @@
 layout: post
 title: |
   Julavslutning med Jonathan Thomas
+excerpt: |
+  Julavslutning med Jonathan Thomas. 14/12
 date:   2019-11-23 20:30:11 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-11-23_20-30-11_UTC.jpg

@@ -2,12 +2,14 @@
 layout: post
 title: |
   Summercamp är över för i år
+excerpt: |
+  Summercamp är över för i år. Fyra mycket lärorika dagar för @farbrorpete @hampan_wall   
 date:   2019-08-11 13:03:00 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-08-11_13-03-00_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-08-11_13-03-00_UTC.jpg
 ---
-Summercamp är över för i år. Fyra mycket lärorika dagar för @farbrorpete @hampan_wall 
+Summercamp är över för i år. Fyra mycket lärorika dagar för [@farbrorpete](https://www.instagram.com/farbrorpete/) [@hampan_wall](https://www.instagram.com/hampan_wall/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#dynamixsummercamp2019](https://www.instagram.com/explore/tags/dynamixsummercamp2019/)
 
 
 

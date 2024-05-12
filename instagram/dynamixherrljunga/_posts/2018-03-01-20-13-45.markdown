@@ -2,12 +2,14 @@
 layout: post
 title: |
   På torsdagar 17
+excerpt: |
+  På torsdagar 17.45 intar världens bästa gäng dojon. BJJ-kids, ikväll med @farbrorpete @tobnik @emmasaren .  
 date:   2018-03-01 20:13:45 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-03-01_20-13-45_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-03-01_20-13-45_UTC.jpg
 ---
-På torsdagar 17.45 intar världens bästa gäng dojon. BJJ-kids, ikväll med @farbrorpete @tobnik @emmasaren . 
+På torsdagar 17.45 intar världens bästa gäng dojon. BJJ-kids, ikväll med [@farbrorpete](https://www.instagram.com/farbrorpete/) [@tobnik](https://www.instagram.com/tobnik/) [@emmasaren](https://www.instagram.com/emmasaren/) . [#bjj](https://www.instagram.com/explore/tags/bjj/) [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/)
 
 
 

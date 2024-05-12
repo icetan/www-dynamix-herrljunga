@@ -2,12 +2,14 @@
 layout: post
 title: |
   God jul gamla och nya medlemmar
+excerpt: |
+  God jul gamla och nya medlemmar. Vecka 3 kör vi igång igen med samma schema som i höstas. Mer info kommer efter nyår. 
 date:   2019-12-24 12:06:42 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-12-24_12-06-42_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-12-24_12-06-42_UTC.jpg
 ---
-God jul gamla och nya medlemmar. Vecka 3 kör vi igång igen med samma schema som i höstas. Mer info kommer efter nyår. 
+God jul gamla och nya medlemmar. Vecka 3 kör vi igång igen med samma schema som i höstas. Mer info kommer efter nyår. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 
 
 
