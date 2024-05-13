@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inlägg
+title: Uppdateringar
 background: /instagram/dynamixherrljunga/2024-01-15_21-20-53_UTC_1.jpg
 ---
 
@@ -30,12 +30,11 @@ background: /instagram/dynamixherrljunga/2024-01-15_21-20-53_UTC_1.jpg
 <div class="clearfix">
 
   {% if paginator.previous_page %}
-  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Nyare<span class="d-none d-md-inline"> Inlägg</span></a>
+  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nyare</a>
   {% endif %}
 
   {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Äldre<span class="d-none d-md-inline"> Inlägg</span> &rarr;</a>
+  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Äldre &rarr;</a>
   {% endif %}
 
 </div>
