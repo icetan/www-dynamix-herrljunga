@@ -8,3 +8,10 @@
 hr {
   clear: both;
 }
+
+
+@media only screen and (max-width: 576px) {
+  body {
+    font-size: 15px;
+  }
+}

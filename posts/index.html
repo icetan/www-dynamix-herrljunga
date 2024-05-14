@@ -8,7 +8,7 @@ background: /instagram/dynamixherrljunga/2024-01-15_21-20-53_UTC_1.jpg
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-    <div style="width: 150px; height: 150px; float: right; margin: 0 0  0.5em 1em; background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}'); background-size: cover; background-position: center center;">&nbsp;</div>
+    <div class="post-image" style=" background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}');">&nbsp;</div>
     <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}
     <h3 class="post-subtitle">{{ post.subtitle }}</h3>

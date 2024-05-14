@@ -8,6 +8,10 @@ header.masthead {
     position: relative;
     background-size: cover;
 
+    height: 40vw;
+    min-height: 450px;
+    max-height: 100vh;
+
     .overlay {
         position: absolute;
         top: 0;
@@ -27,6 +31,22 @@ header.masthead {
         @media only screen and (min-width: 768px) {
             padding: 200px 0;
         }
+    }
+
+    & + div .page-logo {
+      background-size: contain;
+      background-position: center center;
+      background-repeat: no-repeat;
+      height: 40vw;
+      max-height: 300px;
+      margin-top: -300px;
+      margin-bottom: calc(200px - 20vw);
+
+
+      @media only screen and (min-width: 576px) {
+        margin-bottom: 50px;
+      }
+
     }
 
     .page-heading,

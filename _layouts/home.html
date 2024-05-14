@@ -13,8 +13,9 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
-            <img src="{{ site.baseurl }}{{ site.logo }}" style="width: 300px; position: relative; top: 260px;" />
+            &nbsp;
             <!--
+            <img src="{{ site.baseurl }}{{ site.logo }}" style="width: 300px; position: relative; top: 160px;" />
             <h1>{{ site.title }}</h1>
             -->
             {% if site.description %}
@@ -29,6 +30,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="page-logo" style="background-image: url('{{ site.baseurl }}{{ site.logo }}');">&nbsp;</div>
 
         {{ content }}
 

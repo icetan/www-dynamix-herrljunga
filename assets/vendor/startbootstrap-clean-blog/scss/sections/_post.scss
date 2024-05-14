@@ -19,6 +19,20 @@
             font-weight: 400;
             margin: 0 0 10px;
         }
+
+        >.post-image {
+            width: 150px;
+            height: 150px;
+            float: right;
+            margin: 0 0  0.5em 1em;
+            background-size: cover;
+            background-position: center center;
+
+            @media only screen and (max-width: 576px) {
+              width: 130px;
+              height: 130px;
+            }
+        }
     }
 
     >.post-meta {
