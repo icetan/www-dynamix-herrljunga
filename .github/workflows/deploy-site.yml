@@ -27,6 +27,9 @@ jobs:
       - uses: cachix/install-nix-action@v24
 
       - name: Pull Instagram Posts
+        env:
+          # INSTAGRAM_PASSWORD: ${{ secrets.INSTAGRAM_PASSWORD }}
+          INSTALOADER_SESSION_BASE64: ${{ secrets.INSTALOADER_SESSION_BASE64 }}
         run: |
           nix develop . --command ./bin/update-instagram.sh
 

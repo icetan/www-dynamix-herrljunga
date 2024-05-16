@@ -25,6 +25,7 @@
                 pkgs.instaloader
                 pkgs.yq
                 pkgs.gnugrep
+                pkgs.coreutils
               ];
               shellHook = ''
                 echo hello

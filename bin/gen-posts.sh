@@ -4,7 +4,7 @@ SRC_DIR=instagram/dynamixherrljunga
 POST_DIR="$SRC_DIR/_posts"
 CFG_BASEURL=$(yq -r .baseurl _config.yml)
 
-mapfile -t txt_files < <(find "$SRC_DIR" -name "*.txt")
+mapfile -t txt_files < <(find "$SRC_DIR" -name "*.txt" | LC_ALL=C sort -r)
 
 mkdir -p "$POST_DIR"
 for txt in "${txt_files[@]}"; do
@@ -12,6 +12,12 @@ for txt in "${txt_files[@]}"; do
   date_=$(cut -d_ -f1 <<<"$base_name")
   time_=$(cut -d_ -f2 <<<"$base_name" | tr - :)
   post_file="$POST_DIR/$date_-$(echo "$time_" | tr : -).markdown"
+
+  if [[ -f "$post_file" ]]; then
+    echo >&2 "Stopping early, post has already been generated"
+    break
+  fi
+
   mapfile -t image_files < <(find "$SRC_DIR" -name "${base_name}*.jpg")
   post_text=$(cat "$txt")
   cat > "$post_file" <<EOF
