@@ -8,6 +8,8 @@ date:   2022-08-29 20:17:37 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2022-08-29_20-17-37_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-08-29_20-17-37_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/Ch20UVsD1iL
 ---
 Höstterminen är igång....
 

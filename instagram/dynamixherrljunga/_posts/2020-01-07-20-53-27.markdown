@@ -8,6 +8,8 @@ date:   2020-01-07 20:53:27 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2020-01-07_20-53-27_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2020-01-07_20-53-27_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/B7CFUVsprnJ
 ---
 Träningsschema för våren 2020. Vecka 3 börjar vi! [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#sjj](https://www.instagram.com/explore/tags/sjj/)
 

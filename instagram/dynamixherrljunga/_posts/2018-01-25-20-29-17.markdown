@@ -8,6 +8,8 @@ date:   2018-01-25 20:29:17 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-01-25_20-29-17_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-01-25_20-29-17_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/BeYskWch4Di
 ---
 Bjj nogi. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#nogi](https://www.instagram.com/explore/tags/nogi/) [#funinspandex](https://www.instagram.com/explore/tags/funinspandex/)
 

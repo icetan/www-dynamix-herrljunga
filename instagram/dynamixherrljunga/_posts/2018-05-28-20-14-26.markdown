@@ -8,6 +8,8 @@ date:   2018-05-28 20:14:26 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-05-28_20-14-26_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-05-28_20-14-26_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/BjVYpQ-Fu9D
 ---
 Grattis på 19-årsdagen [@alizadahossein](https://www.instagram.com/alizadahossein/) Hittade en passande t-shirt. 😊🤙
 

@@ -8,6 +8,8 @@ date:   2018-02-22 20:31:33 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-02-22_20-31-33_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-02-22_20-31-33_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/BfgzFa3hSj9
 ---
 Kvällens bjj i bilder. Se va kul det är! [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#braträning](https://www.instagram.com/explore/tags/braträning/)
 

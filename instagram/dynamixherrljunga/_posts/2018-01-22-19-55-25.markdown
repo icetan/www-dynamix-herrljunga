@@ -8,6 +8,8 @@ date:   2018-01-22 19:55:25 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/BeQ6TqBhhqd
 ---
 Dagens pass var nej. Dagens teknik var [#leglasso](https://www.instagram.com/explore/tags/leglasso/)  [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 

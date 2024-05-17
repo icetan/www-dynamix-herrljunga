@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -e
+
+INSTA_PROFILE="${INSTA_PROFILE:-dynamixherrljunga}"
+INSTA_PASSWORD="${INSTA_PASSWORD:?You need to set password for login \'$INSTA_PROFILE\'}"
+SESSION_PATH="$PWD/.sessionfile"
+
+rm -f "$SESSION_PATH"
+
+(cd instagram
+  instaloader >&2 \
+    --login "$INSTA_PROFILE" \
+    --password "$INSTA_PASSWORD" \
+    -f "$SESSION_PATH" \
+    "$INSTA_PROFILE" \
+    --fast-update --count 1 \
+    --no-videos --no-metadata-json --no-compress-json \
+    --no-resume --no-iphone --no-profile-pic
+)
+
+base64 < "$SESSION_PATH"
+rm -f "$SESSION_PATH"

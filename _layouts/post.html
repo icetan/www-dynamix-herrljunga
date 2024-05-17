@@ -11,16 +11,15 @@ layout: default
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="col-lg-8 col-md-10 mx-auto flex">
           <div class="post-heading">
-            <h1>{{ page.title }}</h1>
+            <h1>{{ page.title | strip_html | truncatewords: 7 }}</h1>
             {% if page.subtitle %}
             <h2 class="subheading">{{ page.subtitle }}</h2>
             {% endif %}
             <span class="meta">
-              {% assign is_instagram = page.categories | find:'instagram' %}
-              {% if is_instagram %}
-                <a href="https://www.instagram.com/dynamixherrljunga/">Postad på Instagram {% include to_date.html date=page.date format='%-de %B %Y' %}</a>
+              {% if page.instagram_url %}
+                <a href="{{ page.instagram_url }}">Postad på Instagram {% include to_date.html date=page.date format='%-de %B %Y' %}</a>
               {% else %}
                 Skriven {% include to_date.html date=page.date format='%-de %B %Y' %}
               {% endif %}

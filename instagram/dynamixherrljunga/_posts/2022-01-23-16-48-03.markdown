@@ -8,6 +8,8 @@ date:   2022-01-23 16:48:03 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2022-01-23_16-48-03_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-01-23_16-48-03_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/CZFHCp2M1Ui
 ---
 Imorgon börjar terminen. OBS! För vuxna gäller föranmälan. Max 10 tränande + instruktör.
 

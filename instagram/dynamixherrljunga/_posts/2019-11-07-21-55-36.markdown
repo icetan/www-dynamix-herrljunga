@@ -8,6 +8,8 @@ date:   2019-11-07 21:55:36 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-11-07_21-55-36_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-11-07_21-55-36_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/B4lH8LLJM4d
 ---
 Duktig bjj-grupp som stretade på bra ikväll. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 

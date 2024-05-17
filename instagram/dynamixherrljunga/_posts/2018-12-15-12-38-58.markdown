@@ -8,6 +8,8 @@ date:   2018-12-15 12:38:58 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-12-15_12-38-58_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-12-15_12-38-58_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/BraITKMgSa_
 ---
 Avslutning för barngruppen med [@alecbaulding](https://www.instagram.com/alecbaulding/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 

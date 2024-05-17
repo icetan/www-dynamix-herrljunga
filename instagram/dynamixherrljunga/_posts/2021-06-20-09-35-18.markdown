@@ -8,6 +8,8 @@ date:   2021-06-20 09:35:18 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2021-06-20_09-35-18_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2021-06-20_09-35-18_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/CQVlBMEJR_G
 ---
 Avslutning för barngruppen med träning, glass och bad I poolen. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/)
 

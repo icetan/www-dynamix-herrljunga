@@ -8,6 +8,8 @@ date:   2022-04-25 18:38:39 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2022-04-25_18-38-39_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-04-25_18-38-39_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/CcyM1JLjH0i
 ---
 Bjj-måndag. [#embracethegrind](https://www.instagram.com/explore/tags/embracethegrind/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjj](https://www.instagram.com/explore/tags/bjj/)
 

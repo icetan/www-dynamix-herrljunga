@@ -32,6 +32,10 @@
               width: 130px;
               height: 130px;
             }
+            @media only screen and (min-width: 768px) {
+              width: 200px;
+              height: 200px;
+            }
         }
     }
 

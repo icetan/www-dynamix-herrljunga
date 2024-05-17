@@ -8,6 +8,8 @@ date:   2018-03-29 20:45:32 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-03-29_20-45-32_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-03-29_20-45-32_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bg68gegB5ex
 ---
 Skärtorsdagsträning. Lite snack lite sparring sen kom bjj kidz och tog över... [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 

@@ -8,6 +8,8 @@ date:   2023-01-07 12:41:21 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2023-01-07_12-41-21_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2023-01-07_12-41-21_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/CnHUPInjtfW
 ---
 Välkomna att träna Brazilian jiu-jitsu och Sport ju-jutsu. VU börjar terminen nästa vecka för gamla medlemmar. Från vecka 3 har vi löpande nybörjarintag hela terminen.
 

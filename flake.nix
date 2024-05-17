@@ -24,11 +24,12 @@
                 (pkgs.ruby.withPackages (ps: with ps; [ jekyll ]))
                 pkgs.instaloader
                 pkgs.yq
+                pkgs.jq
                 pkgs.gnugrep
                 pkgs.coreutils
               ];
               shellHook = ''
-                echo hello
+                echo >&2 'Welcome to the Nix shell!'
               '';
             };
           });

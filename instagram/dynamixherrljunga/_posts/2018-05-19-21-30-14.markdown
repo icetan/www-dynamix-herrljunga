@@ -10,6 +10,8 @@ date:   2018-05-19 21:30:14 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-05-19_21-30-14_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-05-19_21-30-14_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bi-WKjVFnqW
 ---
 [@emmasaren](https://www.instagram.com/emmasaren/) gör en grym insats idag med silver i sin viktklass och brons i öppna. Ett olyckligt domslut satte stopp i Öppna...annars....
 2 armbars...

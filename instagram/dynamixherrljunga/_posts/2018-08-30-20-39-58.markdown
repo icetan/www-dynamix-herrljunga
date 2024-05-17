@@ -8,6 +8,8 @@ date:   2018-08-30 20:39:58 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-08-30_20-39-58_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-08-30_20-39-58_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/BnHeSd0lal0
 ---
 20 barn som körde räkor idag. [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#shrimp](https://www.instagram.com/explore/tags/shrimp/)
 

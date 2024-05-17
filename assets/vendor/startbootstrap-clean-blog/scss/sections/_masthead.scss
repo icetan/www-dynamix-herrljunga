@@ -12,6 +12,14 @@ header.masthead {
     min-height: 450px;
     max-height: 100vh;
 
+    div {
+      height: 100%;
+    }
+
+    .flex {
+      display: flex;
+    }
+
     .overlay {
         position: absolute;
         top: 0;
@@ -74,7 +82,12 @@ header.masthead {
         }
     }
 
+    .page-heading,
     .post-heading {
+        margin: auto;
+        padding: unset;
+        height: unset;
+
         h1 {
             font-size: 35px;
         }

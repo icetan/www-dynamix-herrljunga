@@ -1,6 +1,21 @@
 #!/usr/bin/env bash
-set -xe
-SRC_DIR=instagram/dynamixherrljunga
+set -e
+
+while [[ $1 ]]; do
+  case $1 in
+    --fast|-f) regen=1;;
+    --debug|-d) set -x;;
+    -*) echo >&2 "No option: $1"; exit 1;;
+    *) INSTA_PROFILE="$1";;
+  esac
+  shift
+done
+
+INSTA_PROFILE="${INSTA_PROFILE:-dynamixherrljunga}"
+
+echo >&2 "Generating posts for instagram profile: $INSTA_PROFILE"
+
+SRC_DIR=instagram/"$INSTA_PROFILE"
 POST_DIR="$SRC_DIR/_posts"
 CFG_BASEURL=$(yq -r .baseurl _config.yml)
 
@@ -13,9 +28,16 @@ for txt in "${txt_files[@]}"; do
   time_=$(cut -d_ -f2 <<<"$base_name" | tr - :)
   post_file="$POST_DIR/$date_-$(echo "$time_" | tr : -).markdown"
 
-  if [[ -f "$post_file" ]]; then
+  if [[ ! "$regen" && -f "$post_file" ]]; then
     echo >&2 "Stopping early, post has already been generated"
     break
+  fi
+
+  extra_matter=""
+  insta_shortcode=$(xz -dc "$SRC_DIR/$base_name.json.xz" | jq -r .node.shortcode || true)
+  if [[ "$insta_shortcode" ]]; then
+    extra_matter+="
+instagram_url: https://www.instagram.com/$INSTA_PROFILE/p/$insta_shortcode"
   fi
 
   mapfile -t image_files < <(find "$SRC_DIR" -name "${base_name}*.jpg")
@@ -31,6 +53,7 @@ date:   $date_ $time_ +0000
 categories: instagram
 background: /${image_files[0]}
 thumbnail: /${image_files[0]}
+$extra_matter
 ---
 $(echo "$post_text" | sed \
   -e 's,#\([^\t ][^\t ]*\),[#\1](https://www.instagram.com/explore/tags/\1/),g' \

@@ -8,6 +8,8 @@ date:   2023-11-06 20:03:29 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2023-11-06_20-03-29_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2023-11-06_20-03-29_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/CzUTskcsRCl
 ---
 En av de två som tog Bjj:n till Herrljunga, Melker till brunt bälte. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 

@@ -8,6 +8,8 @@ date:   2018-03-05 17:56:42 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-03-05_17-56-42_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-03-05_17-56-42_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bf81__FBn1v
 ---
 [#bjj](https://www.instagram.com/explore/tags/bjj/) [#xpass](https://www.instagram.com/explore/tags/xpass/) [#kneeslice](https://www.instagram.com/explore/tags/kneeslice/)
 

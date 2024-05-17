@@ -8,6 +8,8 @@ date:   2019-04-29 20:20:27 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2019-04-29_20-20-27_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2019-04-29_20-20-27_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bw2kbPWA-lK
 ---
 I helgen var barngruppen och tävlade i Göteborg i Brasseligan i BJJ. Ett jättefint arrangemang av [@condebjjmma_biskopsgarden](https://www.instagram.com/condebjjmma_biskopsgarden/) . Medaljerna haglade över barnen. Saknas på bilden gör Olle, Vilmer och Samir.
 

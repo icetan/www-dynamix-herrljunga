@@ -8,6 +8,8 @@ date:   2018-03-22 20:27:54 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-03-22_20-27-54_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-03-22_20-27-54_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bgo47OYH_IB
 ---
 Giljotiner en masse på kvällens pass. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#guillotine](https://www.instagram.com/explore/tags/guillotine/)
 

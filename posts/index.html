@@ -8,15 +8,26 @@ background: /instagram/dynamixherrljunga/2024-01-15_21-20-53_UTC_1.jpg
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-    <div class="post-image" style=" background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}');">&nbsp;</div>
-    <h2 class="post-title">{{ post.title }}</h2>
-    {% if post.subtitle %}
-    <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+    {% if post.thumbnail %}
+      <div class="post-image" style=" background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}');">&nbsp;</div>
+    {% endif %}
+    {% if post.instagram_url %}
+      <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h4>
     {% else %}
-    <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+      <h3 class="post-title">{{ post.title }}</h3>
+      {% if post.subtitle %}
+      <h4 class="post-subtitle">{{ post.subtitle }}</h4>
+      {% else %}
+      <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h4>
+      {% endif %}
     {% endif %}
   </a>
-  <p class="post-meta">Skriven {% include to_date.html date=post.date format=' %-de %B %Y' %}
+  <p class="post-meta">
+    {% if post.instagram_url %}
+      <a href="{{ post.instagram_url }}">Postad på Instagram {% include to_date.html date=post.date format='%-de %B %Y' %}</a>
+    {% else %}
+      Skriven {% include to_date.html date=post.date format=' %-de %B %Y' %}
+    {% endif %}
   </p>
 </article>
 

@@ -8,6 +8,8 @@ date:   2018-11-17 18:07:08 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-11-17_18-07-08_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-11-17_18-07-08_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/BqSnmKLAA4U
 ---
 Silver för [@farbrorpete](https://www.instagram.com/farbrorpete/) idag på Swedish Open bjj. Imorgon  invaderar minionerna Stenungsund.... [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 

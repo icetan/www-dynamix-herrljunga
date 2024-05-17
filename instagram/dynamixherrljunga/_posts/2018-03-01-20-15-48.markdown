@@ -8,6 +8,8 @@ date:   2018-03-01 20:15:48 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-03-01_20-15-48_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-03-01_20-15-48_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bfyy2QkByUq
 ---
 "När ni svept måste berimbolon komma direkt , innan er motståndare försvarar." [@farbrorpete](https://www.instagram.com/farbrorpete/) talar i för fullt hus på dagens [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/)
 

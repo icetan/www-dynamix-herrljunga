@@ -8,6 +8,8 @@ date:   2020-08-20 19:17:27 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2020-08-20_19-17-27_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2020-08-20_19-17-27_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/CEH1-7gpApu
 ---
 De la riva situpsvep på kvällens träning. Och så lite sparring förstås. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 

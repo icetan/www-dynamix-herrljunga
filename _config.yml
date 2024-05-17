@@ -44,6 +44,8 @@ exclude:
   - flake.lock
   - bin/
   - jekyll/
+  - instagram/dynamixherrljunga/*.txt
+  - instagram/dynamixherrljunga/*.json*
   - node_modules
   - vendor/bundle/
   - vendor/cache/

@@ -8,6 +8,8 @@ date:   2018-10-02 11:22:30 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2018-10-02_11-22-30_UTC.jpg
 thumbnail: /instagram/dynamixherrljunga/2018-10-02_11-22-30_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/BobcuYSF0cN
 ---
 [@mr_miagisanjan](https://www.instagram.com/mr_miagisanjan/) instruerade på passet igår. Mycket inspirerande. [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
 

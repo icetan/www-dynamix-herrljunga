@@ -8,6 +8,8 @@ date:   2022-08-10 09:50:33 +0000
 categories: instagram
 background: /instagram/dynamixherrljunga/2022-08-10_09-50-33_UTC_1.jpg
 thumbnail: /instagram/dynamixherrljunga/2022-08-10_09-50-33_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/ChExc1oDdpy
 ---
 Välkomna nya som gamla medlemmar. Terminsstart vecka 35. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
 
