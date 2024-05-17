@@ -34,7 +34,7 @@ for txt in "${txt_files[@]}"; do
   fi
 
   extra_matter=""
-  insta_shortcode=$(xz -dc "$SRC_DIR/$base_name.json.xz" | jq -r .node.shortcode || true)
+  insta_shortcode=$(jq -r .node.shortcode "$SRC_DIR/$base_name.json" || true)
   if [[ "$insta_shortcode" ]]; then
     extra_matter+="
 instagram_url: https://www.instagram.com/$INSTA_PROFILE/p/$insta_shortcode"
