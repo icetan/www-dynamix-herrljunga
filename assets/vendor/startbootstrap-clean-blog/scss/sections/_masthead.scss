@@ -45,16 +45,15 @@ header.masthead {
       background-size: contain;
       background-position: center center;
       background-repeat: no-repeat;
-      height: 40vw;
-      max-height: 300px;
-      margin-top: -300px;
-      margin-bottom: calc(200px - 20vw);
-
+      height: 200px;
+      margin-top: -235px;
 
       @media only screen and (min-width: 576px) {
-        margin-bottom: 50px;
+        height: 250px;
       }
-
+      @media only screen and (min-width: 768px) {
+        height: 300px;
+      }
     }
 
     .page-heading,
@@ -85,7 +84,7 @@ header.masthead {
     .page-heading,
     .post-heading {
         margin: auto;
-        padding: unset;
+        padding: 2em 0 0 0;
         height: unset;
 
         h1 {
