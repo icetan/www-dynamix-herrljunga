@@ -7,7 +7,7 @@ background: '/img/hej-banner.png'
 
 **Adress till vår träningslokal:** Sveagatan 3, 524 31 Herrljunga
 
-Besök vår [Facebook sida](https://www.facebook.com/dynamix.herrljunga) och
+Besök vår [Facebook-sida](https://www.facebook.com/dynamix.herrljunga) och
 [Instagram](https://instagram.com/dynamixherrljunga).
 
 <!--
