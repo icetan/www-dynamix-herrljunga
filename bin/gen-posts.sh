@@ -29,7 +29,7 @@ for txt in "${txt_files[@]}"; do
   post_file="$POST_DIR/$date_-$(echo "$time_" | tr : -).markdown"
 
   if [[ ! "$regen" && -f "$post_file" ]]; then
-    echo >&2 "Stopping early, post has already been generated"
+    echo >&2 "Stopping early, post '$post_file' already exists"
     break
   fi
 
@@ -42,6 +42,9 @@ instagram_url: https://www.instagram.com/$INSTA_PROFILE/p/$insta_shortcode"
 
   mapfile -t image_files < <(find "$SRC_DIR" -name "${base_name}*.jpg")
   post_text=$(cat "$txt")
+
+  echo >&2 "Creating post: $post_file"
+
   cat > "$post_file" <<EOF
 ---
 layout: post

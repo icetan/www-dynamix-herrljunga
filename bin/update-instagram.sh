@@ -16,7 +16,7 @@ done
 [[ $no_fast ]] || args+=(--fast-update)
 
 INSTA_PROFILE="${INSTA_PROFILE:-dynamixherrljunga}"
-INSTALOADER_SESSION_BASE64="${INSTALOADER_SESSION_BASE64:?Need to set session key as base64 string, use bin/get-instaloader-session}"
+# INSTALOADER_SESSION_BASE64="${INSTALOADER_SESSION_BASE64:?Need to set session key as base64 string, use bin/get-instaloader-session}"
 
 prune_metadata() {
   local json=$(cat "$1")
@@ -26,13 +26,13 @@ export -f prune_metadata
 
 (cd instagram
   instaloader \
-    --login "$INSTA_PROFILE" \
-    -f <(base64 --decode <<<"$INSTALOADER_SESSION_BASE64") \
     "$INSTA_PROFILE" \
     --no-videos --no-resume --no-iphone --no-profile-pic \
     --no-compress-json \
     "${args[@]}" \
-    # -p "$INSTAGRAM_PASSWORD"
+    # --count 1 \
+    # --login "$INSTA_PROFILE" \
+    # -f <(base64 --decode <<<"$INSTALOADER_SESSION_BASE64") \
 
   find "$INSTA_PROFILE" -name "*.json" -exec bash -c '
 json=$(cat "$1")
