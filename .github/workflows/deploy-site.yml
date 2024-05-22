@@ -26,9 +26,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: cachix/install-nix-action@v24
 
-      - name: Make Jekyll Config
-        run: |
-          nix develop . --command ./bin/mk-config.sh
+      # - name: Make Jekyll Config
+      #   run: |
+      #     nix develop . --command ./bin/mk-config.sh
 
       # - name: Pull Instagram Posts
       #   env:
@@ -36,12 +36,12 @@ jobs:
       #   run: |
       #     nix develop . --command ./bin/update-instagram.sh
 
-      - name: Generate Jekyll Posts
-        run: |
-          nix develop . --command ./bin/gen-posts.sh
+      # - name: Generate Jekyll Posts
+      #   run: |
+      #     nix develop . --command ./bin/gen-posts.sh
 
-      # Commit all changed files back to the repository
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      # # Commit all changed files back to the repository
+      # - uses: stefanzweifel/git-auto-commit-action@v5
 
       - name: Build Jekyll Site
         run: |
