@@ -6,8 +6,8 @@ excerpt: |
   Kvällens bjj minus två av våra tjejer.   
 date:   2021-09-09 18:42:24 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2021-09-09_18-42-24_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2021-09-09_18-42-24_UTC.jpg
+background: instagram/dynamixherrljunga/2021-09-09_18-42-24_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2021-09-09_18-42-24_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CTnIBMxDBZ-
 ---

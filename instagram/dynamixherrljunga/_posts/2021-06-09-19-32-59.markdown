@@ -6,8 +6,8 @@ excerpt: |
   Idag hade vi gradering och därmed 3 nya bälten. Erik blått mon-bälte, Arvid gult och Yaroslav orange. Stort tack till Hampus och Linus för hjälp som uke i teknikdelarna och till grymma sparringbyten och till Jonathan som bisittare. Stort grattis till bältena, ni förtjänar dom!! 😊💪🥋    
 date:   2021-06-09 19:32:59 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2021-06-09_19-32-59_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2021-06-09_19-32-59_UTC.jpg
+background: instagram/dynamixherrljunga/2021-06-09_19-32-59_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2021-06-09_19-32-59_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CP6UrEgJpKs
 ---

@@ -6,8 +6,8 @@ excerpt: |
   Idag var några av oss på besök hos @budoklubbenshindo i Mölndal där @farbrorpete instruerade BJJ. Mycket trevligt!   
 date:   2022-03-20 20:53:37 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2022-03-20_20-53-37_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2022-03-20_20-53-37_UTC.jpg
+background: instagram/dynamixherrljunga/2022-03-20_20-53-37_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2022-03-20_20-53-37_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CbVvqK_D_--
 ---

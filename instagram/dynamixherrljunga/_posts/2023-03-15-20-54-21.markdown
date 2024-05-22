@@ -6,8 +6,8 @@ excerpt: |
   Hög tid att slanta upp medlemskap och träningsavgift! Billigt och bra!!
 date:   2023-03-15 20:54:21 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2023-03-15_20-54-21_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2023-03-15_20-54-21_UTC.jpg
+background: instagram/dynamixherrljunga/2023-03-15_20-54-21_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2023-03-15_20-54-21_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Cp0t6jGj1om
 ---

@@ -6,8 +6,8 @@ excerpt: |
   Silver för Gabbe på Nordic Open. Stort grattis till vår "pequiño Luchador" 💥💥    
 date:   2024-03-17 13:32:37 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2024-03-17_13-32-37_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2024-03-17_13-32-37_UTC_1.jpg
+background: instagram/dynamixherrljunga/2024-03-17_13-32-37_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2024-03-17_13-32-37_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/C4nf5PsNzmc
 ---

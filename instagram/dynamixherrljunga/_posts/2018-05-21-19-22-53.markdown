@@ -6,8 +6,8 @@ excerpt: |
           
 date:   2018-05-21 19:22:53 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-05-21_19-22-53_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-05-21_19-22-53_UTC_1.jpg
+background: instagram/dynamixherrljunga/2018-05-21_19-22-53_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2018-05-21_19-22-53_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BjDRLlOljet
 ---

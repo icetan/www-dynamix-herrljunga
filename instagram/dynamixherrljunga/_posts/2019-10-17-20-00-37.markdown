@@ -6,8 +6,8 @@ excerpt: |
   Barngruppens favoritövning. Ge beröm och få beröm.   
 date:   2019-10-17 20:00:37 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2019-10-17_20-00-37_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2019-10-17_20-00-37_UTC.jpg
+background: instagram/dynamixherrljunga/2019-10-17_20-00-37_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2019-10-17_20-00-37_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B3u2CxrpDJl
 ---

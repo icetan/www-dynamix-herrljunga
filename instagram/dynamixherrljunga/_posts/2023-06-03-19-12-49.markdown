@@ -6,8 +6,8 @@ excerpt: |
   Numer traditionsenlig avslutning på Hjortgatan 7. Nya bälten och stripes för alla. En bra dag.    
 date:   2023-06-03 19:12:49 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2023-06-03_19-12-49_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2023-06-03_19-12-49_UTC_1.jpg
+background: instagram/dynamixherrljunga/2023-06-03_19-12-49_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2023-06-03_19-12-49_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CtCh48ZN5hk
 ---

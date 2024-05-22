@@ -6,8 +6,8 @@ excerpt: |
   En helg på kickoff i Stenungsund till ändå. Klubben var på plats med 4 vuxna och 5 barn. Nytt för i år var barnpassen. @farbrorpete och @tobnik var med och instruerade barnen ett pass.    
 date:   2020-02-02 20:34:58 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2020-02-02_20-34-58_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2020-02-02_20-34-58_UTC_1.jpg
+background: instagram/dynamixherrljunga/2020-02-02_20-34-58_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2020-02-02_20-34-58_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B8E_3xVpu8L
 ---

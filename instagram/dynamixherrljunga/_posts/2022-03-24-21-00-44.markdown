@@ -6,8 +6,8 @@ excerpt: |
   Härligt gäng på kvällens BJJ.   
 date:   2022-03-24 21:00:44 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2022-03-24_21-00-44_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2022-03-24_21-00-44_UTC.jpg
+background: instagram/dynamixherrljunga/2022-03-24_21-00-44_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2022-03-24_21-00-44_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CbgDpy8DELW
 ---

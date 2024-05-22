@@ -6,8 +6,8 @@ excerpt: |
   Trevlig sommarträning ikväll för bjj-gruppen. Lite prova på, lite tekniker för de som tränat förut och lite sparring.     
 date:   2019-06-24 20:19:06 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2019-06-24_20-19-06_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2019-06-24_20-19-06_UTC_1.jpg
+background: instagram/dynamixherrljunga/2019-06-24_20-19-06_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2019-06-24_20-19-06_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BzGwyYyCuD_
 ---

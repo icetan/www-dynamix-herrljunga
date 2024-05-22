@@ -6,8 +6,8 @@ excerpt: |
   Fullsatt!    
 date:   2023-04-24 18:45:20 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2023-04-24_18-45-20_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2023-04-24_18-45-20_UTC.jpg
+background: instagram/dynamixherrljunga/2023-04-24_18-45-20_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2023-04-24_18-45-20_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Crbe8mftDSn
 ---

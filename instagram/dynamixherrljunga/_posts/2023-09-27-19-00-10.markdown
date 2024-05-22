@@ -6,8 +6,8 @@ excerpt: |
   Ikväll blev det kontringar i del 1 och 2. Spark-kombos, Te guruma, härlig sparring och lite fys. M.a.o mycket Rörelse, glädje & respekt! ☺️👊  
 date:   2023-09-27 19:00:10 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2023-09-27_19-00-10_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2023-09-27_19-00-10_UTC.jpg
+background: instagram/dynamixherrljunga/2023-09-27_19-00-10_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2023-09-27_19-00-10_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CxtMptgMA87
 ---

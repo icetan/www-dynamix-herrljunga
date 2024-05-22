@@ -6,8 +6,8 @@ excerpt: |
   Bjj no gi ikväll.   
 date:   2019-11-21 21:00:34 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2019-11-21_21-00-34_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2019-11-21_21-00-34_UTC.jpg
+background: instagram/dynamixherrljunga/2019-11-21_21-00-34_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2019-11-21_21-00-34_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B5JExZppU0N
 ---

@@ -6,8 +6,8 @@ excerpt: |
   Succé ikväll för måndagspasset där vi kombinerar bjj och sjj.    
 date:   2018-08-27 19:25:31 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-08-27_19-25-31_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-08-27_19-25-31_UTC.jpg
+background: instagram/dynamixherrljunga/2018-08-27_19-25-31_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2018-08-27_19-25-31_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bm_nYnRl-ab
 ---

@@ -6,8 +6,8 @@ excerpt: |
   Den 1a juni hade vi en lyckad avslutning med besök av @ralcar Två vuxenpass och ett barnpass. Ralf delade med sig av mycket  bra BJJ. Tack!   
 date:   2019-06-21 08:01:37 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2019-06-21_08-01-37_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2019-06-21_08-01-37_UTC_1.jpg
+background: instagram/dynamixherrljunga/2019-06-21_08-01-37_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2019-06-21_08-01-37_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/By9uATliwqs
 ---

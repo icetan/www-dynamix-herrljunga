@@ -6,8 +6,8 @@ excerpt: |
   Härligt pass i sportjujutsu. Grundtekniker blandat med sparring. 😊  
 date:   2020-08-26 19:10:06 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2020-08-26_19-10-06_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2020-08-26_19-10-06_UTC.jpg
+background: instagram/dynamixherrljunga/2020-08-26_19-10-06_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2020-08-26_19-10-06_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CEXR6YiplFy
 ---

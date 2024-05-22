@@ -6,8 +6,8 @@ excerpt: |
   Vuxenavslutning och gött häng.   
 date:   2021-06-20 09:36:44 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2021-06-20_09-36-44_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2021-06-20_09-36-44_UTC_1.jpg
+background: instagram/dynamixherrljunga/2021-06-20_09-36-44_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2021-06-20_09-36-44_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CQVlLpEJCPR
 ---

@@ -6,8 +6,8 @@ excerpt: |
   Barnträning med reducerat antal.  
 date:   2021-04-12 17:12:23 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2021-04-12_17-12-23_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2021-04-12_17-12-23_UTC.jpg
+background: instagram/dynamixherrljunga/2021-04-12_17-12-23_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2021-04-12_17-12-23_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CNkuemPJUWe
 ---

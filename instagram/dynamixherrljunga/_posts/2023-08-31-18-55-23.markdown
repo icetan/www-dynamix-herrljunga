@@ -6,8 +6,8 @@ excerpt: |
   Kvällens Bjj. Kom och träna vet ja! 😁   
 date:   2023-08-31 18:55:23 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2023-08-31_18-55-23_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2023-08-31_18-55-23_UTC.jpg
+background: instagram/dynamixherrljunga/2023-08-31_18-55-23_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2023-08-31_18-55-23_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CwnqpE8sc2f
 ---

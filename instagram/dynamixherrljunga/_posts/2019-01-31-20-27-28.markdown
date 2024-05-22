@@ -6,8 +6,8 @@ excerpt: |
   På torsdagar har vi bjj kids 17.45. Oscar är 6 år och har två stripes på sitt vita bälte.   
 date:   2019-01-31 20:27:28 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2019-01-31_20-27-28_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2019-01-31_20-27-28_UTC.jpg
+background: instagram/dynamixherrljunga/2019-01-31_20-27-28_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2019-01-31_20-27-28_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BtT_DmLAE6e
 ---

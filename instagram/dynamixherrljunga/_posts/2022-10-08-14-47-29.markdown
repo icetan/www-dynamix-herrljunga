@@ -6,8 +6,8 @@ excerpt: |
   Besök hos @jjksamurai i Jönköping idag. Lite träning och möjlighet att gå träningsmatcher.    
 date:   2022-10-08 14:47:29 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2022-10-08_14-47-29_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2022-10-08_14-47-29_UTC_1.jpg
+background: instagram/dynamixherrljunga/2022-10-08_14-47-29_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2022-10-08_14-47-29_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CjdOVVeDLSl
 ---

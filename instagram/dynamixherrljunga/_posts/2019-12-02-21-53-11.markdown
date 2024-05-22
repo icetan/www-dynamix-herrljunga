@@ -6,8 +6,8 @@ excerpt: |
   13 personer tränade kombinerat Sjj/Bjj för @mr_miagisanjan Janne ikväll. Fulländad teknik som vanligt.    
 date:   2019-12-02 21:53:11 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2019-12-02_21-53-11_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2019-12-02_21-53-11_UTC_1.jpg
+background: instagram/dynamixherrljunga/2019-12-02_21-53-11_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2019-12-02_21-53-11_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B5lfiX_pBqm
 ---

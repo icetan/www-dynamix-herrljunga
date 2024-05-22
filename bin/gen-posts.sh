@@ -53,8 +53,8 @@ excerpt: |
 $(echo "$post_text" | sed -e 's,#[^\t ][^\t ]*,,g' -e 's,^,  ,')
 date:   $date_ $time_ +0000
 categories: instagram
-background: /${image_files[0]}
-thumbnail: /${image_files[0]}
+background: ${image_files[0]}
+thumbnail: ${image_files[0]}
 $extra_matter
 ---
 $(echo "$post_text" | sed \

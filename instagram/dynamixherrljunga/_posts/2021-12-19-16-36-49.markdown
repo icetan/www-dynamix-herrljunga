@@ -6,8 +6,8 @@ excerpt: |
   Idag var Enna och Lia och tävlade i Halmstad med Clara dom coach. En mycket kul resa...😊🥰   
 date:   2021-12-19 16:36:49 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2021-12-19_16-36-49_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2021-12-19_16-36-49_UTC.jpg
+background: instagram/dynamixherrljunga/2021-12-19_16-36-49_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2021-12-19_16-36-49_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CXq97r8j0uv
 ---

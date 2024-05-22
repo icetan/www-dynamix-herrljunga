@@ -6,8 +6,8 @@ excerpt: |
   Mma 
 date:   2014-02-20 18:20:24 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2014-02-20_18-20-24_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2014-02-20_18-20-24_UTC.jpg
+background: instagram/dynamixherrljunga/2014-02-20_18-20-24_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2014-02-20_18-20-24_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/kpdGxNh_Pm
 ---

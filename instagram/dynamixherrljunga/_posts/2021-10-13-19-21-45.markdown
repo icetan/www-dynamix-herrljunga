@@ -6,8 +6,8 @@ excerpt: |
   Bra gäng på kvällens sport ju-jutsu.   
 date:   2021-10-13 19:21:45 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2021-10-13_19-21-45_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2021-10-13_19-21-45_UTC.jpg
+background: instagram/dynamixherrljunga/2021-10-13_19-21-45_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2021-10-13_19-21-45_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CU-vjIqDT3P
 ---

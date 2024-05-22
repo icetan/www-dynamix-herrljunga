@@ -6,8 +6,8 @@ excerpt: |
   Guld till Arvid Hellman idag. Arvid vann Jujutsufighting pojkar 13-15 år +65 kg idag på Nordic cup i Nacka. 🎂🎂 Stort grattis!   
 date:   2021-10-31 10:09:55 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2021-10-31_10-09-55_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2021-10-31_10-09-55_UTC.jpg
+background: instagram/dynamixherrljunga/2021-10-31_10-09-55_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2021-10-31_10-09-55_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CVsGtDXjpQ9
 ---

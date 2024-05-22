@@ -6,8 +6,8 @@ excerpt: |
   Lite stängd guard på på kvällens bjj.   
 date:   2018-09-04 20:16:26 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-09-04_20-16-26_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-09-04_20-16-26_UTC_1.jpg
+background: instagram/dynamixherrljunga/2018-09-04_20-16-26_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2018-09-04_20-16-26_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BnUTkb9Fju_
 ---

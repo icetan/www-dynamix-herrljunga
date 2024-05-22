@@ -6,8 +6,8 @@ excerpt: |
   Nytt bälte för Lia och stripes för övriga i barngruppen. Avslutning med skumtomtar och pepparkaka. Vi ses i januari.   
 date:   2022-12-12 21:02:54 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2022-12-12_21-02-54_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2022-12-12_21-02-54_UTC_1.jpg
+background: instagram/dynamixherrljunga/2022-12-12_21-02-54_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2022-12-12_21-02-54_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CmFQ9zHjijW
 ---

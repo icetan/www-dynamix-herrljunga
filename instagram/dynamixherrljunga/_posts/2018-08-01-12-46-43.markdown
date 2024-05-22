@@ -7,8 +7,8 @@ excerpt: |
        
 date:   2018-08-01 12:46:43 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-08-01_12-46-43_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-08-01_12-46-43_UTC.jpg
+background: instagram/dynamixherrljunga/2018-08-01_12-46-43_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2018-08-01_12-46-43_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bl79E4qlJ1J
 ---

@@ -6,8 +6,8 @@ excerpt: |
   Terminens näst sista pass. På lördag är det avslutning. 😊   
 date:   2019-12-09 21:56:25 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2019-12-09_21-56-25_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2019-12-09_21-56-25_UTC_1.jpg
+background: instagram/dynamixherrljunga/2019-12-09_21-56-25_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2019-12-09_21-56-25_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B53heLGpPXm
 ---

@@ -7,8 +7,8 @@ excerpt: |
   Nya bjj grader till @farbrorpete Brunt, @tobnik lila och @myrkontroll till blått. Roligt!
 date:   2018-02-18 13:55:47 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-02-18_13-55-47_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-02-18_13-55-47_UTC.jpg
+background: instagram/dynamixherrljunga/2018-02-18_13-55-47_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2018-02-18_13-55-47_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BfVynOOhsiA
 ---

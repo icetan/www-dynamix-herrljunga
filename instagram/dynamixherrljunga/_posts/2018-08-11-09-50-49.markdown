@@ -6,8 +6,8 @@ excerpt: |
   Dag 3 pass 1 på sommarlägret. Halvguard med @waldozapata Fullt hus och mycket bra.
 date:   2018-08-11 09:50:49 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-08-11_09-50-49_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-08-11_09-50-49_UTC.jpg
+background: instagram/dynamixherrljunga/2018-08-11_09-50-49_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2018-08-11_09-50-49_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BmVY5UBFBbm
 ---

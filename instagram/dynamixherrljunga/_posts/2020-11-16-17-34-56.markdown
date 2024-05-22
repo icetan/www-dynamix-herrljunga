@@ -6,8 +6,8 @@ excerpt: |
   Bjj för barn födda före 2005. Tufft i dessa tider.  
 date:   2020-11-16 17:34:56 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2020-11-16_17-34-56_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2020-11-16_17-34-56_UTC.jpg
+background: instagram/dynamixherrljunga/2020-11-16_17-34-56_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2020-11-16_17-34-56_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CHqQLnYJjei
 ---

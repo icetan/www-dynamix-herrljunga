@@ -6,8 +6,8 @@ excerpt: |
   Vissa pass är bättre än andra. Idag var det riktigt roligt.   
 date:   2018-05-10 21:53:44 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_1.jpg
+background: instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BinNswDluv-
 ---

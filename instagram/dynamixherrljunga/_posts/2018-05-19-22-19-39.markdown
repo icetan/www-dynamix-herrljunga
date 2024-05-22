@@ -6,8 +6,8 @@ excerpt: |
   Ganska nöjda tävlande ändå....🤙
 date:   2018-05-19 22:19:39 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-05-19_22-19-39_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-05-19_22-19-39_UTC.jpg
+background: instagram/dynamixherrljunga/2018-05-19_22-19-39_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2018-05-19_22-19-39_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bi-b0faFRJL
 ---

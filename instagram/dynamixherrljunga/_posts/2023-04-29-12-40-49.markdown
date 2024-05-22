@@ -6,8 +6,8 @@ excerpt: |
   Idag var barnen och tävlade på BJJ Nation i Mölndal. Några tävlade för första gången och visade upp stort mod att gå upp på mattan. Bra kämpat! Andra mer rutinerade visade upp så bra BJJ att coacherna @farbrorpete och @emmasaren höll på att spricka av stolthet. Medaljerna: Silver - Lia, Alexander & Otto, Brons - Gabbe, Pelle, Elise & Elena(grattis till gråbälte). Tack MMA center för en bra tävling!     
 date:   2023-04-29 12:40:49 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2023-04-29_12-40-49_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2023-04-29_12-40-49_UTC_1.jpg
+background: instagram/dynamixherrljunga/2023-04-29_12-40-49_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2023-04-29_12-40-49_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CrntNOZN8Oc
 ---

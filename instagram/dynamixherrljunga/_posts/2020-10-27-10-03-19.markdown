@@ -6,8 +6,8 @@ excerpt: |
   I söndags var vi ett gäng från  klubben och tävlade i jujutsu fighting och ne wasa. I fighting tog Erik och Arvid guld, Linus tog silver, Joel och Joakim fick brons. I ne wasa blev det guld till Hampus, silver till Joakim och brons till Joel. Stort tack till alla och speciellt till våra roadies Jonathan och Edwin. 😊💪 riktigt grymt tävlat!!   
 date:   2020-10-27 10:03:19 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2020-10-27_10-03-19_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2020-10-27_10-03-19_UTC_1.jpg
+background: instagram/dynamixherrljunga/2020-10-27_10-03-19_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2020-10-27_10-03-19_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CG18n6AJSkA
 ---

@@ -6,8 +6,8 @@ excerpt: |
   Kvällens Sportjujutsu-pass! Kombinationer, kontringar i kast, flöde genom alla tre delar. Och sparring!  
 date:   2023-09-13 19:25:20 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2023-09-13_19-25-20_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2023-09-13_19-25-20_UTC_1.jpg
+background: instagram/dynamixherrljunga/2023-09-13_19-25-20_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2023-09-13_19-25-20_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CxJMZ5WsyCa
 ---

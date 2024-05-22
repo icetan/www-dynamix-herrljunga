@@ -6,8 +6,8 @@ excerpt: |
   Fullt ös på kvällens BJJ.   
 date:   2019-09-12 19:33:14 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2019-09-12_19-33-14_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2019-09-12_19-33-14_UTC.jpg
+background: instagram/dynamixherrljunga/2019-09-12_19-33-14_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2019-09-12_19-33-14_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B2UrIbJCKDL
 ---

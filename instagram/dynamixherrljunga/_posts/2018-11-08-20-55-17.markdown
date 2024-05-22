@@ -6,8 +6,8 @@ excerpt: |
   Positionssparring från turtle idag på bjj-passet. Full house.  
 date:   2018-11-08 20:55:17 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-11-08_20-55-17_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-11-08_20-55-17_UTC_1.jpg
+background: instagram/dynamixherrljunga/2018-11-08_20-55-17_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2018-11-08_20-55-17_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bp7vr8eA_90
 ---

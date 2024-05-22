@@ -6,8 +6,8 @@ excerpt: |
   Nästa vecka 34, börjar höstterminen med löpande nybörjarintag.    
 date:   2021-08-18 18:46:51 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2021-08-18_18-46-51_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2021-08-18_18-46-51_UTC.jpg
+background: instagram/dynamixherrljunga/2021-08-18_18-46-51_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2021-08-18_18-46-51_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CSufChbjQHn
 ---

@@ -6,8 +6,8 @@ excerpt: |
   Några få eldsjälar med @sofiawall75 i spetsen ser till att dojon är i stridbart skick till terminsstarten på måndag. 
 date:   2018-08-18 11:31:38 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-08-18_11-31-38_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-08-18_11-31-38_UTC.jpg
+background: instagram/dynamixherrljunga/2018-08-18_11-31-38_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2018-08-18_11-31-38_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bmnl_2cFcjS
 ---

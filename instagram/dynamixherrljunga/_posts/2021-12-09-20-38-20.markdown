@@ -6,8 +6,8 @@ excerpt: |
   En stor dag, terminens sista pass. Stripes till några, nya bälten till dessa. Emma till grått, Liam, Alex, Albin, Elise, Lithéa & Oscar. GRATTIS!!   
 date:   2021-12-09 20:38:20 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2021-12-09_20-38-20_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2021-12-09_20-38-20_UTC.jpg
+background: instagram/dynamixherrljunga/2021-12-09_20-38-20_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2021-12-09_20-38-20_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CXRpn4aD1ee
 ---

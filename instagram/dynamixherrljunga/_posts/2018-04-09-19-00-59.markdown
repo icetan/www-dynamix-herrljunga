@@ -6,8 +6,8 @@ excerpt: |
   Kvällens pass och vi jobbade        
 date:   2018-04-09 19:00:59 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-04-09_19-00-59_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-04-09_19-00-59_UTC_1.jpg
+background: instagram/dynamixherrljunga/2018-04-09_19-00-59_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2018-04-09_19-00-59_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BhXFSWKhBUg
 ---

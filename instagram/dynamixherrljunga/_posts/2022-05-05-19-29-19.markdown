@@ -6,8 +6,8 @@ excerpt: |
   Kvällens bjj-pass. Passeringar en masse! 4 solar!! 🌞🌞🌞🌞   
 date:   2022-05-05 19:29:19 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2022-05-05_19-29-19_UTC_1.jpg
-thumbnail: /instagram/dynamixherrljunga/2022-05-05_19-29-19_UTC_1.jpg
+background: instagram/dynamixherrljunga/2022-05-05_19-29-19_UTC_1.jpg
+thumbnail: instagram/dynamixherrljunga/2022-05-05_19-29-19_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CdMClBRjFDo
 ---

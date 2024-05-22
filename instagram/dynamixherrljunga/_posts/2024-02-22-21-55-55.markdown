@@ -6,8 +6,8 @@ excerpt: |
   Albin till blått. This is the way!   
 date:   2024-02-22 21:55:55 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2024-02-22_21-55-55_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2024-02-22_21-55-55_UTC.jpg
+background: instagram/dynamixherrljunga/2024-02-22_21-55-55_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2024-02-22_21-55-55_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/C3qmaeQtaYq
 ---

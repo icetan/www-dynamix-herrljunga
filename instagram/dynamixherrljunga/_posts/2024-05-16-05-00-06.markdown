@@ -6,8 +6,8 @@ excerpt: |
   Följ med till Sommarlägret i Varberg ☺️💪
 date:   2024-05-16 05:00:06 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2024-05-16_05-00-06_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2024-05-16_05-00-06_UTC.jpg
+background: instagram/dynamixherrljunga/2024-05-16_05-00-06_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2024-05-16_05-00-06_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/C7BE7-ZtOM-
 ---

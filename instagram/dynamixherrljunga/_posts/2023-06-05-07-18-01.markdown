@@ -6,8 +6,8 @@ excerpt: |
   I samband med avslutningen i lördags graderades Albin till orange bälte. Grattis!   
 date:   2023-06-05 07:18:01 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2023-06-05_07-18-01_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2023-06-05_07-18-01_UTC.jpg
+background: instagram/dynamixherrljunga/2023-06-05_07-18-01_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2023-06-05_07-18-01_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CtGZrWhtgoL
 ---

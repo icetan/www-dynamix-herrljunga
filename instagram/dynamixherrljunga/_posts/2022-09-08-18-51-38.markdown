@@ -6,8 +6,8 @@ excerpt: |
   Kvällens BJJ. "Bra pass, kul att instruera" sa @farbrorpete   
 date:   2022-09-08 18:51:38 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2022-09-08_18-51-38_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2022-09-08_18-51-38_UTC.jpg
+background: instagram/dynamixherrljunga/2022-09-08_18-51-38_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2022-09-08_18-51-38_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CiQabSRjj6I
 ---

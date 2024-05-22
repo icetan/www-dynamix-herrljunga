@@ -6,8 +6,8 @@ excerpt: |
   Summercamp 2022 men Teta. Världsklass som vanligt.   
 date:   2022-08-13 13:15:09 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2022-08-13_13-15-09_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2022-08-13_13-15-09_UTC.jpg
+background: instagram/dynamixherrljunga/2022-08-13_13-15-09_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2022-08-13_13-15-09_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/ChM3QFdD6xI
 ---

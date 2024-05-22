@@ -6,8 +6,8 @@ excerpt: |
   @farbrorpete på seminarie i Stenungsund för att lära sig nya trix till terminens bjj-pass.   
 date:   2018-04-07 16:51:49 +0000
 categories: instagram
-background: /instagram/dynamixherrljunga/2018-04-07_16-51-49_UTC.jpg
-thumbnail: /instagram/dynamixherrljunga/2018-04-07_16-51-49_UTC.jpg
+background: instagram/dynamixherrljunga/2018-04-07_16-51-49_UTC.jpg
+thumbnail: instagram/dynamixherrljunga/2018-04-07_16-51-49_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BhRs6l3B0-l
 ---
