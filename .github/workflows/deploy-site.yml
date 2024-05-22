@@ -26,6 +26,10 @@ jobs:
       - uses: actions/checkout@v4
       - uses: cachix/install-nix-action@v24
 
+      - name: Make Jekyll Config
+        run: |
+          nix develop . --command ./bin/mk-config.sh
+
       # - name: Pull Instagram Posts
       #   env:
       #     INSTALOADER_SESSION_BASE64: ${{ secrets.INSTALOADER_SESSION_BASE64 }}
