@@ -3,7 +3,7 @@ set -e
 
 while [[ $1 ]]; do
   case $1 in
-    --fast|-f) regen=1;;
+    --no-fast|-n) regen=1;;
     --debug|-d) set -x;;
     -*) echo >&2 "No option: $1"; exit 1;;
     *) INSTA_PROFILE="$1";;
@@ -66,7 +66,7 @@ $(echo "$post_text" | sed \
 $(for img in "${image_files[@]}"; do
     echo
     echo
-    echo "<img src='$CFG_BASEURL/$img' class='img-fluid' />"
+    echo "<img src='{{ site.baseurl }}/$img' class='img-fluid' />"
   done)
 EOF
 done
