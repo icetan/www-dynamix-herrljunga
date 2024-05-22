@@ -17,7 +17,6 @@ echo >&2 "Generating posts for instagram profile: $INSTA_PROFILE"
 
 SRC_DIR=instagram/"$INSTA_PROFILE"
 POST_DIR="$SRC_DIR/_posts"
-CFG_BASEURL=$(yq -r .baseurl _config.yml)
 
 mapfile -t txt_files < <(find "$SRC_DIR" -name "*.txt" | LC_ALL=C sort -r)
 
