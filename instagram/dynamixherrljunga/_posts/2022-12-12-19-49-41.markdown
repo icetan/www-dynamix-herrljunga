@@ -15,4 +15,4 @@ Idag har jag graderats till blått bälte i bjj! Det är mycket svett och känsl
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-12-12_19-49-41_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-12_19-49-41_UTC.jpg' class='img-fluid' />

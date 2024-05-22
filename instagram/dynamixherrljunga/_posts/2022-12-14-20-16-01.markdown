@@ -15,10 +15,10 @@ Idag hade vi terminsavslutning i sjj. Joel graderades till orange. Linus vann kl
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_3.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Vår trogne medlem Joakim tog fina kort på gårdagens bjj-pass som på ett bra 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg' class='img-fluid' />

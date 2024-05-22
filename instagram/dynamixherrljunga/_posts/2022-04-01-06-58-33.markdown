@@ -15,4 +15,4 @@ Onsdagens sportjujutsu. Härligt med ungdomar som skapar glädje och utveckling!
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-04-01_06-58-33_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-04-01_06-58-33_UTC.jpg' class='img-fluid' />

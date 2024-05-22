@@ -15,4 +15,4 @@ På måndag vecka 34 drar vi igång höstterminen enligt schema. Gamla som nya m
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-08-17_05-45-26_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-08-17_05-45-26_UTC.jpg' class='img-fluid' />

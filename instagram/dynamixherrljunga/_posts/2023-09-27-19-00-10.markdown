@@ -15,4 +15,4 @@ Ikväll blev det kontringar i del 1 och 2. Spark-kombos, Te guruma, härlig spar
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-09-27_19-00-10_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-09-27_19-00-10_UTC.jpg' class='img-fluid' />

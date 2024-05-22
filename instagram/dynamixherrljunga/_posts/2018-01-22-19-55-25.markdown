@@ -15,4 +15,4 @@ Dagens pass var nej. Dagens teknik var [#leglasso](https://www.instagram.com/exp
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg' class='img-fluid' />

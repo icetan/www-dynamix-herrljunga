@@ -15,4 +15,4 @@ Terminen är igång. Först ut var barnen och sen vuxna. Gemensamt pass för BJJ
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-08-20_19-53-25_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-08-20_19-53-25_UTC.jpg' class='img-fluid' />

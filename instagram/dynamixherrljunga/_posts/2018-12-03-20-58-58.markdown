@@ -15,7 +15,7 @@ Full fart på kvällens pass. [#bjj](https://www.instagram.com/explore/tags/bjj/
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_2.jpg' class='img-fluid' />

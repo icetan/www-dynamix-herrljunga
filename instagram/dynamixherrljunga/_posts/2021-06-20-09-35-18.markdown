@@ -15,4 +15,4 @@ Avslutning för barngruppen med träning, glass och bad I poolen. [#dynamixherrl
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-06-20_09-35-18_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-06-20_09-35-18_UTC.jpg' class='img-fluid' />

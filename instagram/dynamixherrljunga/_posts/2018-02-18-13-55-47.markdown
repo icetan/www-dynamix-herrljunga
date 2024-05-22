@@ -17,4 +17,4 @@ Nya bjj grader till [@farbrorpete](https://www.instagram.com/farbrorpete/) Brunt
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-02-18_13-55-47_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-02-18_13-55-47_UTC.jpg' class='img-fluid' />

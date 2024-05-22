@@ -15,4 +15,4 @@ Det blev nya bälten idag för Henrik, Hampus och Emma. Vi skulle egentligen gra
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-03-08_20-04-02_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-03-08_20-04-02_UTC.jpg' class='img-fluid' />

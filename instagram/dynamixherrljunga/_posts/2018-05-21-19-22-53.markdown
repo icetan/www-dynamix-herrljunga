@@ -15,10 +15,10 @@ instagram_url: https://www.instagram.com/dynamixherrljunga/p/BjDRLlOljet
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-21_19-22-53_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-21_19-22-53_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-21_19-22-53_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-21_19-22-53_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-21_19-22-53_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-21_19-22-53_UTC_3.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Kvällens cirkusartister. [#akrobatikpåhögnivå](https://www.instagram.com/exp
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-22_20-29-51_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-22_20-29-51_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Guld i Ne-waza och silver i fight till Hampus [@hampan_wall](https://www.instagr
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-10-19_16-06-21_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-10-19_16-06-21_UTC.jpg' class='img-fluid' />

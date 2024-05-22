@@ -31,4 +31,4 @@ Vi håller oss till dessa riktlinjer med följande praktiska anpassningar för v
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-01-31_18-53-17_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-01-31_18-53-17_UTC.jpg' class='img-fluid' />

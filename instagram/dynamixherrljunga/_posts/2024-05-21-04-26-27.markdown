@@ -15,4 +15,4 @@ Måndagspasset. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#sjj](https
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2024-05-21_04-26-27_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-05-21_04-26-27_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Nästa helg åker Hampus [@hampan_wall](https://www.instagram.com/hampan_wall/) 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-10-14_19-42-10_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-10-14_19-42-10_UTC.jpg' class='img-fluid' />

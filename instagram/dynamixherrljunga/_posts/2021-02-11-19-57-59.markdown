@@ -15,4 +15,4 @@ Barngruppen är igång och tränar med restriktioner. Måndag vecka 8 börjar vu
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-02-11_19-57-59_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-02-11_19-57-59_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Idag var Enna och Lia och tävlade i Halmstad med Clara dom coach. En mycket kul
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-12-19_16-36-49_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-12-19_16-36-49_UTC.jpg' class='img-fluid' />

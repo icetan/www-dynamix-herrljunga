@@ -15,4 +15,4 @@ Välkomna att träna i höst. Vi inleder med föreningslördag 26/8 och sedan dr
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-08-10_18-54-37_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-08-10_18-54-37_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Sjj-pass ikväll. Bra blandning av tekniker och sparring som avslutades med burp
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-09-30_18-44-47_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-09-30_18-44-47_UTC.jpg' class='img-fluid' />

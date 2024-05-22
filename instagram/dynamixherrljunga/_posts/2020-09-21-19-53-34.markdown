@@ -15,4 +15,4 @@ Bra givande och roligt pass med [@tobnik](https://www.instagram.com/tobnik/) bas
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-09-21_19-53-34_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-09-21_19-53-34_UTC.jpg' class='img-fluid' />

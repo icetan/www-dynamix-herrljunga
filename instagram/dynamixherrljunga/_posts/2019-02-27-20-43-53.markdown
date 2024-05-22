@@ -15,10 +15,10 @@ Idag har [@hampan_wall](https://www.instagram.com/hampan_wall/)  och [@kewinniva
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-02-27_20-43-53_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-02-27_20-43-53_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-02-27_20-43-53_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-02-27_20-43-53_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-02-27_20-43-53_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-02-27_20-43-53_UTC_3.jpg' class='img-fluid' />

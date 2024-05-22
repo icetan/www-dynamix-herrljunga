@@ -15,4 +15,4 @@ Fullt hus ikväll på Sjj/Bjj för Janne som höll ett mycket bra pass. [#sjj](h
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-03-25_21-12-32_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-03-25_21-12-32_UTC.jpg' class='img-fluid' />

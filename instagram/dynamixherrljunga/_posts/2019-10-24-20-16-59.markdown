@@ -15,4 +15,4 @@ Gott om vitbälten på bjj:n ikväll. [#bjj](https://www.instagram.com/explore/t
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-10-24_20-16-59_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-10-24_20-16-59_UTC.jpg' class='img-fluid' />

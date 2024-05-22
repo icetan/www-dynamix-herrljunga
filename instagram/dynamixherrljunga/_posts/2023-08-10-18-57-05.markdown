@@ -15,4 +15,4 @@ Träningsschema för höstterminen med start vecka 35. Välkomna gamla och nya m
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-08-10_18-57-05_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-08-10_18-57-05_UTC.jpg' class='img-fluid' />

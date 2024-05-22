@@ -15,13 +15,13 @@ Bra drag på kvällens bjj. [#dynamixherrljunga](https://www.instagram.com/explo
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-10-18_19-39-52_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-10-18_19-39-52_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-10-18_19-39-52_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-10-18_19-39-52_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-10-18_19-39-52_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-10-18_19-39-52_UTC_3.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-10-18_19-39-52_UTC_4.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-10-18_19-39-52_UTC_4.jpg' class='img-fluid' />

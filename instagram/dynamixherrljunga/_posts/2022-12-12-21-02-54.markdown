@@ -15,7 +15,7 @@ Nytt bälte för Lia och stripes för övriga i barngruppen. Avslutning med skum
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-12-12_21-02-54_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-12_21-02-54_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-12-12_21-02-54_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-12_21-02-54_UTC_2.jpg' class='img-fluid' />

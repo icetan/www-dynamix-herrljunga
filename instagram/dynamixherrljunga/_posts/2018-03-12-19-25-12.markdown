@@ -15,4 +15,4 @@ Kvällens gäng krigade på bra! [#dynamixherrljunga](https://www.instagram.com/
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-03-12_19-25-12_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-12_19-25-12_UTC.jpg' class='img-fluid' />

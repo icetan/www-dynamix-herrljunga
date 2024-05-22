@@ -15,10 +15,10 @@ Kvällens bjj nogi innehöll en hel del benlås, försvar och ett par nedtagning
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-04-19_20-15-49_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-04-19_20-15-49_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-04-19_20-15-49_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-04-19_20-15-49_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-04-19_20-15-49_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-04-19_20-15-49_UTC_3.jpg' class='img-fluid' />

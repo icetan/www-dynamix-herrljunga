@@ -15,4 +15,4 @@ Nästa vecka 34, börjar höstterminen med löpande nybörjarintag. [#bjj](https
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-08-18_18-46-51_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-08-18_18-46-51_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Bara dom tuffa tränar på sommarlovet. Genrep inför första bjj-tävlingen på
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-06-14_17-09-44_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-06-14_17-09-44_UTC.jpg' class='img-fluid' />

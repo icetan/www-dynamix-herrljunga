@@ -15,4 +15,4 @@ Bjj-tider för nästa termin. [#dynamixherrljunga](https://www.instagram.com/exp
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-08-08_09-44-58_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-08-08_09-44-58_UTC.jpg' class='img-fluid' />

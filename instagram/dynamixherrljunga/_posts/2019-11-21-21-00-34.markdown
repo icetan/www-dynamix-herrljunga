@@ -15,4 +15,4 @@ Bjj no gi ikväll. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#nogi](h
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-11-21_21-00-34_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-11-21_21-00-34_UTC.jpg' class='img-fluid' />

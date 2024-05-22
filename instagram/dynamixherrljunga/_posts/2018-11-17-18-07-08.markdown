@@ -15,4 +15,4 @@ Silver för [@farbrorpete](https://www.instagram.com/farbrorpete/) idag på Swed
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-17_18-07-08_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-17_18-07-08_UTC.jpg' class='img-fluid' />

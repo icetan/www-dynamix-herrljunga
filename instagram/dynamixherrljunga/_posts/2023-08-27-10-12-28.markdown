@@ -15,4 +15,4 @@ Klubben har fått ett nytt brunbälte i BJJ. Välförtjänt [@emmasaren](https:/
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-08-27_10-12-28_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-08-27_10-12-28_UTC.jpg' class='img-fluid' />

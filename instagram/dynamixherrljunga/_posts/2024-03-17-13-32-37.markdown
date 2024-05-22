@@ -15,7 +15,7 @@ Silver för Gabbe på Nordic Open. Stort grattis till vår "pequiño Luchador" �
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2024-03-17_13-32-37_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-03-17_13-32-37_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2024-03-17_13-32-37_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-03-17_13-32-37_UTC_2.jpg' class='img-fluid' />

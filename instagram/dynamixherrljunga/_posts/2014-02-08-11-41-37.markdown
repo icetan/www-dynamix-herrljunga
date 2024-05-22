@@ -15,4 +15,4 @@ Dagens pass. 9 glada tjejer grymt kört! [#dynamixherrljunga](https://www.instag
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2014-02-08_11-41-37_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2014-02-08_11-41-37_UTC.jpg' class='img-fluid' />

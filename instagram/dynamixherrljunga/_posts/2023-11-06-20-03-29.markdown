@@ -15,4 +15,4 @@ En av de två som tog Bjj:n till Herrljunga, Melker till brunt bälte. [#bjj](ht
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-11-06_20-03-29_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-11-06_20-03-29_UTC.jpg' class='img-fluid' />

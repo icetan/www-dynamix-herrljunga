@@ -15,4 +15,4 @@ Vedums AIS herrlag på besök i dojon för ett FYS/Kampsportspass under ledning 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-03-19_20-31-43_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-03-19_20-31-43_UTC.jpg' class='img-fluid' />

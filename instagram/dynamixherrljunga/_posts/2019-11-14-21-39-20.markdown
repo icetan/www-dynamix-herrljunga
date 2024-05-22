@@ -15,4 +15,4 @@ Vår coolaste grupp. Bra uppslutning ikväll [#bjjkids](https://www.instagram.co
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-11-14_21-39-20_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-11-14_21-39-20_UTC.jpg' class='img-fluid' />

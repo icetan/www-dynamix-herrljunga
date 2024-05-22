@@ -15,4 +15,4 @@ Passering av spiderguard på dagens pass. [@farbrorpete](https://www.instagram.c
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-18_20-21-29_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-18_20-21-29_UTC.jpg' class='img-fluid' />

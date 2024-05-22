@@ -15,4 +15,4 @@ Idag har vi haft 5 medlemmar som tävlat i fight och ne wasa i Budoklubben Shind
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-01-26_18-29-18_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-01-26_18-29-18_UTC.jpg' class='img-fluid' />

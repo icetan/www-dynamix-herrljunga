@@ -15,4 +15,4 @@ Söndagen bjöd på avslutning för sportju-jutsugänget. [@wadam87](https://www
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-06-10_17-55-44_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-06-10_17-55-44_UTC.jpg' class='img-fluid' />

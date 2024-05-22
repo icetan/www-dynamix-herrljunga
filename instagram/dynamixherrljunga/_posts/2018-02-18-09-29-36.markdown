@@ -15,4 +15,4 @@ Tobbe är klar! [#faxiapreta](https://www.instagram.com/explore/tags/faxiapreta/
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg' class='img-fluid' />

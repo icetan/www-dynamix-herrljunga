@@ -15,4 +15,4 @@ Summercamp 2022 men Teta. Världsklass som vanligt.  [#dynamixherrljunga](https:
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-08-13_13-15-09_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-08-13_13-15-09_UTC.jpg' class='img-fluid' />

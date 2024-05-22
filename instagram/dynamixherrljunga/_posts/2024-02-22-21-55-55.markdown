@@ -15,4 +15,4 @@ Albin till blått. This is the way! [#dynamixherrljunga](https://www.instagram.c
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2024-02-22_21-55-55_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-02-22_21-55-55_UTC.jpg' class='img-fluid' />

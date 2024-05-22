@@ -17,4 +17,4 @@ Lördagen 7april var det tävling i fight och ne wasa i Nybro.  Tävlade gjorde 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-04-08_09-26-06_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-04-08_09-26-06_UTC.jpg' class='img-fluid' />

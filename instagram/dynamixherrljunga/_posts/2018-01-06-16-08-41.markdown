@@ -15,4 +15,4 @@ Vårt nya blåbälte Hossein finslipar x-guardsvep. [#bjj](https://www.instagram
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-06_16-08-41_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-06_16-08-41_UTC.jpg' class='img-fluid' />

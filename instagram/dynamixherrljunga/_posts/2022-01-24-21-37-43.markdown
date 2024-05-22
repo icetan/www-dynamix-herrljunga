@@ -15,4 +15,4 @@ Terminen är igång. Premiär för delade måndagspass med barn från 5 år. Fun
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-01-24_21-37-43_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-01-24_21-37-43_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Idag var Peter och Tobbe på en mycket inspirerande föreläsning/träning med [
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-12-07_12-14-58_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-12-07_12-14-58_UTC.jpg' class='img-fluid' />

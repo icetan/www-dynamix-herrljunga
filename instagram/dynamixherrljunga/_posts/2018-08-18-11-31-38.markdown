@@ -15,4 +15,4 @@ Några få eldsjälar med [@sofiawall75](https://www.instagram.com/sofiawall75/)
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-08-18_11-31-38_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-08-18_11-31-38_UTC.jpg' class='img-fluid' />

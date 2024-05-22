@@ -15,4 +15,4 @@ Extrapass för bjj kids igår. [#dynamixfightingsports](https://www.instagram.co
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-04-23_04-12-21_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-04-23_04-12-21_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Inte många på passet idag men det hindrade inte ifrån att köra igenom grund 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-12-11_19-38-01_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-12-11_19-38-01_UTC.jpg' class='img-fluid' />

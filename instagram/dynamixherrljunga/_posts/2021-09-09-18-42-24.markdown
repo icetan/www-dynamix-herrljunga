@@ -15,4 +15,4 @@ Kvällens bjj minus två av våra tjejer. [#bjj](https://www.instagram.com/explo
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-09-09_18-42-24_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-09-09_18-42-24_UTC.jpg' class='img-fluid' />

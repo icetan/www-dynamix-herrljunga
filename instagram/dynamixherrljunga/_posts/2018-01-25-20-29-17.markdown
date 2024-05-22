@@ -15,4 +15,4 @@ Bjj nogi. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixher
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-25_20-29-17_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-25_20-29-17_UTC.jpg' class='img-fluid' />

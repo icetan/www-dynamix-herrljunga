@@ -15,4 +15,4 @@ Silver för Gabriel i Malmö. Gabbe var vår enda tävlande på Malmö Internati
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-11-12_10-30-16_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-11-12_10-30-16_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Träningsschema för vårterminen 2023. Vi mjukstartar på måndag 9/1 för de s
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-01-06_17-42-18_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-01-06_17-42-18_UTC.jpg' class='img-fluid' />

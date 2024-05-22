@@ -15,4 +15,4 @@ Gött gäng på sparringpasset [#riise](https://www.instagram.com/explore/tags/r
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-03-26_19-49-35_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-03-26_19-49-35_UTC.jpg' class='img-fluid' />

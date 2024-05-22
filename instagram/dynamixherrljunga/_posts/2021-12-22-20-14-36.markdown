@@ -15,4 +15,4 @@ Besök från Floda ikväll på träningen. [@thebarrens92](https://www.instagram
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-12-22_20-14-36_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-12-22_20-14-36_UTC.jpg' class='img-fluid' />

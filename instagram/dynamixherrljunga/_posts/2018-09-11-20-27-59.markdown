@@ -15,4 +15,4 @@ Collar + sleeve ikväll på träningen. [#bjj](https://www.instagram.com/explore
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-09-11_20-27-59_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-09-11_20-27-59_UTC.jpg' class='img-fluid' />

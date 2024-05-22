@@ -15,4 +15,4 @@ På torsdagar har vi bjj kids 17.45. Oscar är 6 år och har två stripes på si
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-01-31_20-27-28_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-01-31_20-27-28_UTC.jpg' class='img-fluid' />

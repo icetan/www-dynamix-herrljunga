@@ -15,10 +15,10 @@ Ett grymt gäng på Dynamix Summercamp. Vi har haft jättebra pass med duktiga i
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-08-13_13-24-55_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-08-13_13-24-55_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-08-13_13-24-55_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-08-13_13-24-55_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-08-13_13-24-55_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-08-13_13-24-55_UTC_3.jpg' class='img-fluid' />

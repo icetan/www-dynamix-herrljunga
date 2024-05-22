@@ -15,4 +15,4 @@ Dag 3 pass 1 på sommarlägret. Halvguard med [@waldozapata](https://www.instagr
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-08-11_09-50-49_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-08-11_09-50-49_UTC.jpg' class='img-fluid' />

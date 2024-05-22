@@ -15,4 +15,4 @@ Kom och träna med oss! Terminsstart vecka 3, löpande nybörjarstart från veck
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2024-01-07_15-24-30_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-01-07_15-24-30_UTC.jpg' class='img-fluid' />

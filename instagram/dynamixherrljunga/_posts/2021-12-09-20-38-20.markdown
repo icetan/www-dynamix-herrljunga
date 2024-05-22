@@ -15,4 +15,4 @@ En stor dag, terminens sista pass. Stripes till några, nya bälten till dessa. 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-12-09_20-38-20_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-12-09_20-38-20_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Sista gemensamma sjj/bjj passet för terminen. Nu är det bara ett sjj pass imor
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-05-27_20-07-59_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-05-27_20-07-59_UTC.jpg' class='img-fluid' />

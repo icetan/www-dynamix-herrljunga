@@ -15,4 +15,4 @@ Måndagsbjj😁 så suddig så vi inte kan identifieras [#dynamixherrljunga](htt
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-07_17-44-24_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-07_17-44-24_UTC.jpg' class='img-fluid' />

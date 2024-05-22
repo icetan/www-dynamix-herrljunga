@@ -15,4 +15,4 @@ Huvudsaken är att man har roligt. Mycket bra pass med Hampus och Linus. 😊�
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-02-26_19-51-56_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-02-26_19-51-56_UTC.jpg' class='img-fluid' />

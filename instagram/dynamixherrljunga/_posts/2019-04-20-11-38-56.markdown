@@ -15,4 +15,4 @@ Påskaftonssparring, det blev till och med lite Mma på slutet. [#dynamixherrlju
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-04-20_11-38-56_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-04-20_11-38-56_UTC.jpg' class='img-fluid' />

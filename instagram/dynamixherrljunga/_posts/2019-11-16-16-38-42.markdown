@@ -15,7 +15,7 @@ Dag 1 på Swedish Open gav två brons. [@lindakorpas](https://www.instagram.com/
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-11-16_16-38-42_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-11-16_16-38-42_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-11-16_16-38-42_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-11-16_16-38-42_UTC_2.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Varje tisdag och torsdag våttorkas mattorna. [#bjj](https://www.instagram.com/e
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-03-09_06-21-43_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-09_06-21-43_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Barnträning med reducerat antal. [#dynamixherrljunga](https://www.instagram.com
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-04-12_17-12-23_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-04-12_17-12-23_UTC.jpg' class='img-fluid' />

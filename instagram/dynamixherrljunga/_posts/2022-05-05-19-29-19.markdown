@@ -15,10 +15,10 @@ Kvällens bjj-pass. Passeringar en masse! 4 solar!! 🌞🌞🌞🌞 [#bjj](http
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-05-05_19-29-19_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-05-05_19-29-19_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-05-05_19-29-19_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-05-05_19-29-19_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-05-05_19-29-19_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-05-05_19-29-19_UTC_3.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Dagens ”Anders visar lätta kast” 😊👍👍 [#dynamixherrljunga](https://
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-12-10_20-43-59_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-12-10_20-43-59_UTC.jpg' class='img-fluid' />

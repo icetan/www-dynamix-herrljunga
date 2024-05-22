@@ -15,4 +15,4 @@ Bjj-kids var många ikväll som vanligt. Klubbens absolut största träningsgrup
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-08-29_21-05-53_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-08-29_21-05-53_UTC.jpg' class='img-fluid' />

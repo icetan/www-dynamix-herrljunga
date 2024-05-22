@@ -15,4 +15,4 @@ El pequiño luchador slår till igen med guld i gi och silver nogi på Battle of
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2024-05-19_19-49-51_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-05-19_19-49-51_UTC.jpg' class='img-fluid' />

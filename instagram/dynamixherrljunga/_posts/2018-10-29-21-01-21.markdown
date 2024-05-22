@@ -15,4 +15,4 @@ Försvar mot over/under och lite singel legs hanns med idag på bjj/sjj-passet. 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-10-29_21-01-21_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-10-29_21-01-21_UTC.jpg' class='img-fluid' />

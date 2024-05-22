@@ -15,10 +15,10 @@ Härligt måndagspass 😊 Allt från grunder i kast, singleleg, till svep från
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_3.jpg' class='img-fluid' />

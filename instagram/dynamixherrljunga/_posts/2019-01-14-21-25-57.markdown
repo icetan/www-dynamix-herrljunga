@@ -15,7 +15,7 @@ Terminsstart för vuxengruppen med gemensamt pass för bjj och sjj. [#dynamixher
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-01-14_21-25-57_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-01-14_21-25-57_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-01-14_21-25-57_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-01-14_21-25-57_UTC_2.jpg' class='img-fluid' />

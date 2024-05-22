@@ -15,4 +15,4 @@ Efter barnen kommer dom vuxna. Bjj all night. [#kimuratoback](https://www.instag
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-03-01_20-44-34_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-01_20-44-34_UTC.jpg' class='img-fluid' />

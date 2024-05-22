@@ -15,4 +15,4 @@ Succé ikväll för måndagspasset där vi kombinerar bjj och sjj. [#dynamixfigh
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-08-27_19-25-31_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-08-27_19-25-31_UTC.jpg' class='img-fluid' />

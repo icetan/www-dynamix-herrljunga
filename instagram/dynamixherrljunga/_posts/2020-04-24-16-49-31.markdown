@@ -15,4 +15,4 @@ Vi håller tyvärr fortsatt stängt och håller på med andra aktiviteter. [#bjj
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-04-24_16-49-31_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-04-24_16-49-31_UTC.jpg' class='img-fluid' />

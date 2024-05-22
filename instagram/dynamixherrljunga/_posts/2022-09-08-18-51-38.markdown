@@ -15,4 +15,4 @@ Kvällens BJJ. "Bra pass, kul att instruera" sa [@farbrorpete](https://www.insta
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-09-08_18-51-38_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-09-08_18-51-38_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ God jul gamla och nya medlemmar. Vecka 3 kör vi igång igen med samma schema so
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-12-24_12-06-42_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-12-24_12-06-42_UTC.jpg' class='img-fluid' />

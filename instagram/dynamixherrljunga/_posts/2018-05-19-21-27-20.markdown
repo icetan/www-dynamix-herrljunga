@@ -15,4 +15,4 @@ Guld till [@alizadahossein](https://www.instagram.com/alizadahossein/) i sin vik
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-19_21-27-20_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-19_21-27-20_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Vårt nya blåbälte i BJJ, Linus Ingmarsson.  [@ingemarssonlinus](https://www.i
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-09-28_19-06-06_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-09-28_19-06-06_UTC.jpg' class='img-fluid' />

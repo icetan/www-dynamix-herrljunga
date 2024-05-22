@@ -15,4 +15,4 @@ Brons till Gabbe idag på Bjj Nation kids. Bra jobbat Gabriel!! [#bjjkids](https
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-03-04_09-38-58_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-03-04_09-38-58_UTC.jpg' class='img-fluid' />

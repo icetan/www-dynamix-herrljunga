@@ -15,4 +15,4 @@ instagram_url: https://www.instagram.com/dynamixherrljunga/p/BhRs6l3B0-l
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-04-07_16-51-49_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-04-07_16-51-49_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ BJJ vuxengruppen måndagar 19.00
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-09-19_18-51-13_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-09-19_18-51-13_UTC.jpg' class='img-fluid' />

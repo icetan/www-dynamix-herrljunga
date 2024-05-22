@@ -15,4 +15,4 @@ Passeringar var temat på kvällens bjj.
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-10-11_19-44-42_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-10-11_19-44-42_UTC.jpg' class='img-fluid' />

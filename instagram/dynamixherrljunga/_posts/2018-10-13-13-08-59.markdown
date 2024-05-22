@@ -15,4 +15,4 @@ Peter & Emma var iväg och tränade hos Borås Geappling. Tack [@borasgrappling]
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg' class='img-fluid' />

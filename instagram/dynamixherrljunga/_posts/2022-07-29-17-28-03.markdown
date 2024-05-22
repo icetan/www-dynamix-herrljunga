@@ -15,4 +15,4 @@ Dan före dan.... [@alecbaulding](https://www.instagram.com/alecbaulding/) in da
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-07-29_17-28-03_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-07-29_17-28-03_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ På torsdagar 17.45 intar världens bästa gäng dojon. BJJ-kids, ikväll med [@
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-03-01_20-13-45_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-01_20-13-45_UTC.jpg' class='img-fluid' />

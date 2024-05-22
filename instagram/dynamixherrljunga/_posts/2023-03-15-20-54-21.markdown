@@ -15,4 +15,4 @@ Hög tid att slanta upp medlemskap och träningsavgift! Billigt och bra!!
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-03-15_20-54-21_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-03-15_20-54-21_UTC.jpg' class='img-fluid' />

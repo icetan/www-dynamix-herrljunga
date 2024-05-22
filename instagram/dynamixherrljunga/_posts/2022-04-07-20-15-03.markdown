@@ -15,4 +15,4 @@ Ibland på BJJ:n så händer det att vi känner oss tuffa. [#bjj](https://www.in
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-04-07_20-15-03_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-04-07_20-15-03_UTC.jpg' class='img-fluid' />

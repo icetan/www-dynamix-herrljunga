@@ -15,4 +15,4 @@ Terminen är igång! Härligt pass med dessa två ungdomar 😊👍 [#sportjujut
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-01-22_19-50-30_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-01-22_19-50-30_UTC.jpg' class='img-fluid' />

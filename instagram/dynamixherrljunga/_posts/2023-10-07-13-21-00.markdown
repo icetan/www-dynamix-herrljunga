@@ -15,13 +15,13 @@ Bästa gänget som representerade vår klubb på bästa sätt idag på [#bjjkids
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-10-07_13-21-00_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-10-07_13-21-00_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-10-07_13-21-00_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-10-07_13-21-00_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-10-07_13-21-00_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-10-07_13-21-00_UTC_3.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-10-07_13-21-00_UTC_4.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-10-07_13-21-00_UTC_4.jpg' class='img-fluid' />

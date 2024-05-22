@@ -15,4 +15,4 @@ En måndagskväll I dojon😁 [#dynamixherrljunga](https://www.instagram.com/exp
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-03-26_19-25-04_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-26_19-25-04_UTC.jpg' class='img-fluid' />

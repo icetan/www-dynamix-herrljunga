@@ -15,7 +15,7 @@ Idag har Linus Graderats till blått bälte i Sportjujutsu! [#mölndalfightcamp]
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_2.jpg' class='img-fluid' />

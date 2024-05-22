@@ -15,4 +15,4 @@ Grej of the day - bjj [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dyna
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-02-26_20-41-37_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-02-26_20-41-37_UTC.jpg' class='img-fluid' />

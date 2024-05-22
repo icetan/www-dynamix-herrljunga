@@ -15,4 +15,4 @@ Fyra glada och nöjda personer efter dagens pass sjj. Tack [@mr_miagisanjan](htt
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-09-02_19-45-19_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-09-02_19-45-19_UTC.jpg' class='img-fluid' />

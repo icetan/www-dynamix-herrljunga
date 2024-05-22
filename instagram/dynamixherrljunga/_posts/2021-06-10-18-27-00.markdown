@@ -15,4 +15,4 @@ Olle & Clara, 11 ears old. [@nicholasmeregali](https://www.instagram.com/nichola
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-06-10_18-27-00_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-06-10_18-27-00_UTC.jpg' class='img-fluid' />

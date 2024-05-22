@@ -15,4 +15,4 @@ Bjj-gruppen på kick off i Bålsta. Grymt bra träning för [@erios_tetabjj](htt
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-02-16_17-22-08_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-02-16_17-22-08_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Kvällens sjj! Kombinationer i serie 1, till förflyttning/balansbrytning i seri
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-09-21_19-25-27_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-09-21_19-25-27_UTC.jpg' class='img-fluid' />

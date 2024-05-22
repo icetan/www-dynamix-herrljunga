@@ -15,4 +15,4 @@ Blev både teknik och lek på sjj-passet. Surfa är roligt ☺️ [#dynamixherrl
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-04-07_07-48-06_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-04-07_07-48-06_UTC.jpg' class='img-fluid' />

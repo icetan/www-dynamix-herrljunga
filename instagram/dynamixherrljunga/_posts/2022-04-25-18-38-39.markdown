@@ -15,4 +15,4 @@ Bjj-måndag. [#embracethegrind](https://www.instagram.com/explore/tags/embraceth
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-04-25_18-38-39_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-04-25_18-38-39_UTC.jpg' class='img-fluid' />

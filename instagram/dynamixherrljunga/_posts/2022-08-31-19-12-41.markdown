@@ -15,4 +15,4 @@ Då var sportjujutsu igång för terminen!! ☺️🥋💪 [#dynamixherrljunga](
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-08-31_19-12-41_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-08-31_19-12-41_UTC.jpg' class='img-fluid' />

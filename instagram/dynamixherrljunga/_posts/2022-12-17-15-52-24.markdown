@@ -15,4 +15,4 @@ Tävlingsdebut för Love idag. Väl kämpat! [#dynamixherrljunga](https://www.in
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-12-17_15-52-24_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-17_15-52-24_UTC.jpg' class='img-fluid' />

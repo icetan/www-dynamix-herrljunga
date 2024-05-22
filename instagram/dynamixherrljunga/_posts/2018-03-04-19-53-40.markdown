@@ -15,4 +15,4 @@ Vissa söndagar har vi extra träning för det bjj-kids som förbereder sig för
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-03-04_19-53-40_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-04_19-53-40_UTC.jpg' class='img-fluid' />

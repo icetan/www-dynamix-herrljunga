@@ -15,4 +15,4 @@ Julavslutning med Jonathan Thomas. 14/12
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-11-23_20-30-11_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-11-23_20-30-11_UTC.jpg' class='img-fluid' />

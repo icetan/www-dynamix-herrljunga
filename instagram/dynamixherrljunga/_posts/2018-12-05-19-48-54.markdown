@@ -15,4 +15,4 @@ Grymt kört idag!! Många kast (höger & vänster) riktigt goa sparkar och slag.
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-12-05_19-48-54_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-12-05_19-48-54_UTC.jpg' class='img-fluid' />

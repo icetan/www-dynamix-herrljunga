@@ -15,10 +15,10 @@ Gradering och avslutningsdag med finbesök. [#bjj](https://www.instagram.com/exp
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_3.jpg' class='img-fluid' />

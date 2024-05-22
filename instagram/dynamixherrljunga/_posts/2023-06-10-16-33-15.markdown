@@ -15,10 +15,10 @@ Terminens sista tävling på övertid. Elena brons, Gabbe 4a i dagens tuffaste b
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_3.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ På måndagar brottar vi ner [@tobnik](https://www.instagram.com/tobnik/) Det ä
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-10-30_18-07-42_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-10-30_18-07-42_UTC.jpg' class='img-fluid' />

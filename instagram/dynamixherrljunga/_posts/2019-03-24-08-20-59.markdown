@@ -15,4 +15,4 @@ Brons till [@alizadahossein](https://www.instagram.com/alizadahossein/) i Nordic
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-03-24_08-20-59_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-03-24_08-20-59_UTC.jpg' class='img-fluid' />

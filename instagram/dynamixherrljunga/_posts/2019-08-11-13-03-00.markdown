@@ -15,4 +15,4 @@ Summercamp är över för i år. Fyra mycket lärorika dagar för [@farbrorpete]
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-08-11_13-03-00_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-08-11_13-03-00_UTC.jpg' class='img-fluid' />

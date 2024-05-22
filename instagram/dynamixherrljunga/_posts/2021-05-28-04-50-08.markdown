@@ -15,4 +15,4 @@ Idag körde vi lite nogi med barngruppen. Ovant och konstigt utan dräkt men vä
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-05-28_04-50-08_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-05-28_04-50-08_UTC.jpg' class='img-fluid' />

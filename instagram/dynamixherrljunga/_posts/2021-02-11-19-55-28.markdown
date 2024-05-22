@@ -15,4 +15,4 @@ Barngruppen är igång och tränar med begränsat antal och re
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-02-11_19-55-28_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-02-11_19-55-28_UTC.jpg' class='img-fluid' />

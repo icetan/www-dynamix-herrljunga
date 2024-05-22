@@ -15,4 +15,4 @@ Dag 1 på kickoffen klar. [#dynamixherrljunga](https://www.instagram.com/explore
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-02-01_17-40-14_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-02-01_17-40-14_UTC.jpg' class='img-fluid' />

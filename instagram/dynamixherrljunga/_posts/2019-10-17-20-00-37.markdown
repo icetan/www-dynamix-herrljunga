@@ -15,4 +15,4 @@ Barngruppens favoritövning. Ge beröm och få beröm. [#bjj](https://www.instag
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-10-17_20-00-37_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-10-17_20-00-37_UTC.jpg' class='img-fluid' />

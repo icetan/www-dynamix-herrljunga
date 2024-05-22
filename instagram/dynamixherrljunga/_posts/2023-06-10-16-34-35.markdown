@@ -15,4 +15,4 @@ Dagens gladaste bronsmedalj, Elena Velin. [#dynamixherrljunga](https://www.insta
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-06-10_16-34-35_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-06-10_16-34-35_UTC.jpg' class='img-fluid' />

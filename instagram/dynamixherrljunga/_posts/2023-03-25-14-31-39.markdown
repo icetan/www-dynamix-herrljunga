@@ -15,10 +15,10 @@ Idag tävlade Love, Arvid, Henrik och Miguel på Nordic Open i Nacka! Brons till
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_3.jpg' class='img-fluid' />

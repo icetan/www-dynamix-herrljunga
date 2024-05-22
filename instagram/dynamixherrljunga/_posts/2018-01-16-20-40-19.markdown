@@ -15,4 +15,4 @@ Då var terminen igång även för Sport jujutsu. Ett härligt gäng av både ny
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-16_20-40-19_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-16_20-40-19_UTC.jpg' class='img-fluid' />

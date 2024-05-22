@@ -15,4 +15,4 @@ Skärtorsdagsträning. Lite snack lite sparring sen kom bjj kidz och tog över..
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-03-29_20-45-32_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-29_20-45-32_UTC.jpg' class='img-fluid' />

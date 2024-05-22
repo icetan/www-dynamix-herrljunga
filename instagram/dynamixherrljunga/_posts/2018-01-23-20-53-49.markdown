@@ -15,4 +15,4 @@ Kvällens Sjj-deltagare. Mycket bra pass. Mycket bra deltagare. 10/10 ura mawash
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-23_20-53-49_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-23_20-53-49_UTC.jpg' class='img-fluid' />

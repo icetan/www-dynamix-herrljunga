@@ -15,10 +15,10 @@ Andra dagen på Swedish Open. Guld till Ashmed, silver till Jacob och brons till
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-18_17-27-20_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-18_17-27-20_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-18_17-27-20_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-18_17-27-20_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-18_17-27-20_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-18_17-27-20_UTC_3.jpg' class='img-fluid' />

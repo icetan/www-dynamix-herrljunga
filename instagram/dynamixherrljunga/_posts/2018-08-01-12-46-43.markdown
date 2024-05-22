@@ -17,4 +17,4 @@ Kom och träna med oss! Terminsstart v.34 för medlemmar och löpande nybörjari
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-08-01_12-46-43_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-08-01_12-46-43_UTC.jpg' class='img-fluid' />

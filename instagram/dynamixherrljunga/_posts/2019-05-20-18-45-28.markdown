@@ -15,4 +15,4 @@ Välbesökt sjj/bjj pass ikväll som leds av vår mest meriterade instruktör [@
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-05-20_18-45-28_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-05-20_18-45-28_UTC.jpg' class='img-fluid' />

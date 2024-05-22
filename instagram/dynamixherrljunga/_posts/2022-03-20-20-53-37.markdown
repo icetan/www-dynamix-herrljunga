@@ -15,4 +15,4 @@ Idag var några av oss på besök hos [@budoklubbenshindo](https://www.instagram
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-03-20_20-53-37_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-03-20_20-53-37_UTC.jpg' class='img-fluid' />

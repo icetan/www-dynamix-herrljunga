@@ -15,4 +15,4 @@ Besök från [@budoklubbenshindo](https://www.instagram.com/budoklubbenshindo/) 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-03-23_19-40-35_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-03-23_19-40-35_UTC.jpg' class='img-fluid' />

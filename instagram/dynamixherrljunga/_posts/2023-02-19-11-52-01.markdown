@@ -15,4 +15,4 @@ Gabbe och Elena på Bjj-nation i Mölndal idag. Silver och Brons. Bra jobbat!! [
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-02-19_11-52-01_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-02-19_11-52-01_UTC.jpg' class='img-fluid' />

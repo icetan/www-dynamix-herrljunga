@@ -15,4 +15,4 @@ Giljotiner en masse på kvällens pass. [#bjj](https://www.instagram.com/explore
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-03-22_20-27-54_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-22_20-27-54_UTC.jpg' class='img-fluid' />

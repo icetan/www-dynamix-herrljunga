@@ -15,7 +15,7 @@ Lite stängd guard på på kvällens bjj. [#dynamixfightingsports](https://www.i
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-09-04_20-16-26_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-09-04_20-16-26_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-09-04_20-16-26_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-09-04_20-16-26_UTC_2.jpg' class='img-fluid' />

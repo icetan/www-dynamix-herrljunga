@@ -15,4 +15,4 @@ Ibland är vår sport lite konstig. [#bjj](https://www.instagram.com/explore/tag
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-09-15_16-41-49_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-09-15_16-41-49_UTC.jpg' class='img-fluid' />

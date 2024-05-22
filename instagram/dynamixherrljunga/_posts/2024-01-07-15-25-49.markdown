@@ -15,4 +15,4 @@ Träningsschema VT 2024.
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2024-01-07_15-25-49_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-01-07_15-25-49_UTC.jpg' class='img-fluid' />

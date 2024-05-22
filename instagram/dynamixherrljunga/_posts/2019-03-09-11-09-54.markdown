@@ -15,4 +15,4 @@ Lördagssparring 10.00. 3 farbröder och en pöjk. Gott liv! [#dynamixherrljunga
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-03-09_11-09-54_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-03-09_11-09-54_UTC.jpg' class='img-fluid' />

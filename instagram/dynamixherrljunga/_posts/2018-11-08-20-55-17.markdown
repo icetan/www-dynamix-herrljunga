@@ -15,7 +15,7 @@ Positionssparring från turtle idag på bjj-passet. Full house. [#bjj](https://w
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-08_20-55-17_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-08_20-55-17_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-08_20-55-17_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-08_20-55-17_UTC_2.jpg' class='img-fluid' />

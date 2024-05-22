@@ -15,4 +15,4 @@ Då kör vi! [#bjj](https://www.instagram.com/explore/tags/bjj/) [#mittlivsommel
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-04-23_16-06-24_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-04-23_16-06-24_UTC.jpg' class='img-fluid' />

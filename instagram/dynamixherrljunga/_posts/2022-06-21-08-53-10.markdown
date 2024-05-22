@@ -15,4 +15,4 @@ Lördagen 30/7 får vi besök av [@alecbaulding](https://www.instagram.com/alecb
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-06-21_08-53-10_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-06-21_08-53-10_UTC.jpg' class='img-fluid' />

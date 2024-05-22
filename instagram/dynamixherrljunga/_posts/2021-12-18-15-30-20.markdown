@@ -15,4 +15,4 @@ Tävling i Halmstad för Hampus idag. Två knappa förluster men väldigt bra k�
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-12-18_15-30-20_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-12-18_15-30-20_UTC.jpg' class='img-fluid' />

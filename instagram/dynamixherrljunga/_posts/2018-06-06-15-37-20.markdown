@@ -15,4 +15,4 @@ Vår bjj-instruktör [@farbrorpete](https://www.instagram.com/farbrorpete/) mott
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-06-06_15-37-20_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-06-06_15-37-20_UTC.jpg' class='img-fluid' />

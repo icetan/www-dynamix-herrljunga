@@ -15,10 +15,10 @@ Idag graderades [@migue_alro](https://www.instagram.com/migue_alro/) till blått
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-05-12_19-47-25_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-05-12_19-47-25_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-05-12_19-47-25_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-05-12_19-47-25_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-05-12_19-47-25_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-05-12_19-47-25_UTC_3.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ I samband med avslutningen i lördags graderades Albin till orange bälte. Gratt
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-06-05_07-18-01_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-06-05_07-18-01_UTC.jpg' class='img-fluid' />

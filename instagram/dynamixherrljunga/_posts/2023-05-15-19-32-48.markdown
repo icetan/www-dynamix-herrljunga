@@ -15,4 +15,4 @@ Bra uppslutning ikväll! [#bjj](https://www.instagram.com/explore/tags/bjj/) [#s
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-05-15_19-32-48_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-05-15_19-32-48_UTC.jpg' class='img-fluid' />

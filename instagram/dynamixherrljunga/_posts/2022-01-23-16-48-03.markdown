@@ -15,4 +15,4 @@ Imorgon börjar terminen. OBS! För vuxna gäller föranmälan. Max 10 tränande
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-01-23_16-48-03_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-01-23_16-48-03_UTC.jpg' class='img-fluid' />

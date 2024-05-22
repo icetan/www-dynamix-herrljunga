@@ -15,4 +15,4 @@ Igår hade vi besök av Christoffer och Björn från Samuraj/Shindo. Så roligt 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-12_06-51-55_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-12_06-51-55_UTC.jpg' class='img-fluid' />

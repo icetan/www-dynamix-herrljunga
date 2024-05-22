@@ -15,4 +15,4 @@ Sälarna på barnpasset. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#d
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-10-11_19-42-32_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-10-11_19-42-32_UTC.jpg' class='img-fluid' />

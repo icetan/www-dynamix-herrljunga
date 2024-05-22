@@ -15,4 +15,4 @@ Kick off idag och imorgon för [@farbrorpete](https://www.instagram.com/farbrorp
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-05-14_15-51-38_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-05-14_15-51-38_UTC.jpg' class='img-fluid' />

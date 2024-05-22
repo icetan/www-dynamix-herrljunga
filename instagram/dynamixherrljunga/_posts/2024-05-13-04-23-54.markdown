@@ -15,4 +15,4 @@ På helgens SJJ läger graderades Linus Ingmarsaon till grönt bälte av Adam fe
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2024-05-13_04-23-54_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-05-13_04-23-54_UTC.jpg' class='img-fluid' />

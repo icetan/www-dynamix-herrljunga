@@ -15,4 +15,4 @@ Halvguard och kimura på näst sista bjj-passet innan sommaravslutningen på lö
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-06-04_20-27-57_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-06-04_20-27-57_UTC.jpg' class='img-fluid' />

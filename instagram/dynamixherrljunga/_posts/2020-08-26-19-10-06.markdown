@@ -15,4 +15,4 @@ Härligt pass i sportjujutsu. Grundtekniker blandat med sparring. 😊 [#dynamix
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-08-26_19-10-06_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-08-26_19-10-06_UTC.jpg' class='img-fluid' />

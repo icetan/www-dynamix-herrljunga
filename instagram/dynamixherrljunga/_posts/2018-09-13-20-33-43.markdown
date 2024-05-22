@@ -15,7 +15,7 @@ På torsdagskvällar 17.45 - 18.45 tränar dom coolaste bjj. [#bjjkidz](https://
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-09-13_20-33-43_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-09-13_20-33-43_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-09-13_20-33-43_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-09-13_20-33-43_UTC_2.jpg' class='img-fluid' />

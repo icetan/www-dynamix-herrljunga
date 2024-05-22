@@ -15,4 +15,4 @@ Enter the Matrix....kul pass med [@espenmathiesen](https://www.instagram.com/esp
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-08-13_15-22-03_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-08-13_15-22-03_UTC.jpg' class='img-fluid' />

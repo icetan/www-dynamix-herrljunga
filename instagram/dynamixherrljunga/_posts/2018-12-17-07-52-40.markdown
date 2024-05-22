@@ -15,4 +15,4 @@ Ett härligt gäng som tränade för Jan Olsson och Johan Blomdahl, på terminsa
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-12-17_07-52-40_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-12-17_07-52-40_UTC.jpg' class='img-fluid' />

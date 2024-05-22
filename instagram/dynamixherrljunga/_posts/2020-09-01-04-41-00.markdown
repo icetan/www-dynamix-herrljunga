@@ -15,4 +15,4 @@ Härligt måndagspass. Singel & doubleleg, armbar & stryp med [@farbrorpete](htt
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-09-01_04-41-00_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-09-01_04-41-00_UTC.jpg' class='img-fluid' />

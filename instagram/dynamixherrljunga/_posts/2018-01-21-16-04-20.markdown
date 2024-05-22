@@ -15,4 +15,4 @@ Söndagsmys
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-21_16-04-20_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-21_16-04-20_UTC.jpg' class='img-fluid' />

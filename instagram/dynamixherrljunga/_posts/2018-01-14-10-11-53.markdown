@@ -15,4 +15,4 @@ Ren och fin Dojo till terminsstart. [#städdag](https://www.instagram.com/explor
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-14_10-11-53_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-14_10-11-53_UTC.jpg' class='img-fluid' />

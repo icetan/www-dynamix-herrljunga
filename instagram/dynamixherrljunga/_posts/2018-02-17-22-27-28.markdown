@@ -15,4 +15,4 @@ Fullpackat på årets kickoff. [#dynamixkickoff2018](https://www.instagram.com/e
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-02-17_22-27-28_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-02-17_22-27-28_UTC.jpg' class='img-fluid' />

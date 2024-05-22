@@ -15,4 +15,4 @@ Det tuffaste vi har att sätta in .... i masterklasserna. 😊 [#dynamixherrljun
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2023-11-09_19-36-07_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-11-09_19-36-07_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Nima till lila och Tobbe till brunt på kvällens pass. [#dynamixherrljunga](htt
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-01-27_20-10-56_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-01-27_20-10-56_UTC.jpg' class='img-fluid' />

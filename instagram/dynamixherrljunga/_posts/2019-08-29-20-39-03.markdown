@@ -15,13 +15,13 @@ Tjejer i majoritet på kvällens bjj pass. [#dynamixherrljunga](https://www.inst
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-08-29_20-39-03_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-08-29_20-39-03_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-08-29_20-39-03_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-08-29_20-39-03_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-08-29_20-39-03_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-08-29_20-39-03_UTC_3.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-08-29_20-39-03_UTC_4.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-08-29_20-39-03_UTC_4.jpg' class='img-fluid' />

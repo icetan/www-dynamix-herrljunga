@@ -15,4 +15,4 @@ I helgen var barngruppen och tävlade i Göteborg i Brasseligan i BJJ. Ett jätt
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2019-04-29_20-20-27_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-04-29_20-20-27_UTC.jpg' class='img-fluid' />

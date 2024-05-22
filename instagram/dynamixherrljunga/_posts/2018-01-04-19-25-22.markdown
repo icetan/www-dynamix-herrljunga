@@ -15,4 +15,4 @@ Ibland är man för långsam för att hinna få till en ny gruppbild. 😁
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-01-04_19-25-22_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-04_19-25-22_UTC.jpg' class='img-fluid' />

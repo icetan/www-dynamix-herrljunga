@@ -15,4 +15,4 @@ Glad påsk önskar [#dynamixherrljunga](https://www.instagram.com/explore/tags/d
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-03-31_09-09-34_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-31_09-09-34_UTC.jpg' class='img-fluid' />

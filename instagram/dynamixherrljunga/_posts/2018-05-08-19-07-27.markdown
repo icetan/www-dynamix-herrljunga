@@ -15,13 +15,13 @@ Underbart att träna även om vädret lockar för uteaktiviteter. Man blir glad 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-08_19-07-27_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-08_19-07-27_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-08_19-07-27_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-08_19-07-27_UTC_2.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-08_19-07-27_UTC_3.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-08_19-07-27_UTC_3.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-08_19-07-27_UTC_4.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-08_19-07-27_UTC_4.jpg' class='img-fluid' />

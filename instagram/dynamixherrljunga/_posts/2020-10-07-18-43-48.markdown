@@ -15,4 +15,4 @@ Onsdag = sportjujutsu. Härligt pass av Janne. Tack alla som är med, ni är gry
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-10-07_18-43-48_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-10-07_18-43-48_UTC.jpg' class='img-fluid' />

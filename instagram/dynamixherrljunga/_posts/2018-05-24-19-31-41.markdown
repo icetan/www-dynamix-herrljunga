@@ -15,4 +15,4 @@ När solen skiner tränar bara dom tuffa. 😊 [#bjj](https://www.instagram.com/
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-05-24_19-31-41_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-24_19-31-41_UTC.jpg' class='img-fluid' />

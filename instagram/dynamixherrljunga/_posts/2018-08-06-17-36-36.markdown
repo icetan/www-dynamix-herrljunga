@@ -15,4 +15,4 @@ Extraträning efter dansuppvärmning iaf för Melker och Tobbe [#bjj](https://ww
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-08-06_17-36-36_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-08-06_17-36-36_UTC.jpg' class='img-fluid' />

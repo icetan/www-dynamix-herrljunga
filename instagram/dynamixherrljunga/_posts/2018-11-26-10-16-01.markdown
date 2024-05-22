@@ -15,4 +15,4 @@ Vi ses väl ikväll? [@dynamixherrljunga](https://www.instagram.com/dynamixherrl
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg' class='img-fluid' />

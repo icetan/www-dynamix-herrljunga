@@ -15,4 +15,4 @@ Välbesökt pass bjj/sjj för [@farbrorpete](https://www.instagram.com/farbrorpe
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2020-10-05_19-13-24_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-10-05_19-13-24_UTC.jpg' class='img-fluid' />

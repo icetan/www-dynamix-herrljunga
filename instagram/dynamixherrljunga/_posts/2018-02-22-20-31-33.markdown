@@ -15,4 +15,4 @@ Kvällens bjj i bilder. Se va kul det är! [#dynamixherrljunga](https://www.inst
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-02-22_20-31-33_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-02-22_20-31-33_UTC.jpg' class='img-fluid' />

@@ -15,4 +15,4 @@ Följ med till Sommarlägret i Varberg ☺️💪
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2024-05-16_05-00-06_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-05-16_05-00-06_UTC.jpg' class='img-fluid' />

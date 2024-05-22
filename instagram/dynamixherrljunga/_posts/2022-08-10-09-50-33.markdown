@@ -15,7 +15,7 @@ Välkomna nya som gamla medlemmar. Terminsstart vecka 35. [#dynamixherrljunga](h
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-08-10_09-50-33_UTC_1.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-08-10_09-50-33_UTC_1.jpg' class='img-fluid' />
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-08-10_09-50-33_UTC_2.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-08-10_09-50-33_UTC_2.jpg' class='img-fluid' />

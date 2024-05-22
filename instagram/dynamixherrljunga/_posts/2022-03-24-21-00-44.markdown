@@ -15,4 +15,4 @@ Härligt gäng på kvällens BJJ. [#dynamixherrljunga](https://www.instagram.com
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2022-03-24_21-00-44_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-03-24_21-00-44_UTC.jpg' class='img-fluid' />

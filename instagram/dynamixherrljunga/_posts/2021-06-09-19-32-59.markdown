@@ -15,4 +15,4 @@ Idag hade vi gradering och därmed 3 nya bälten. Erik blått mon-bälte, Arvid 
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2021-06-09_19-32-59_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-06-09_19-32-59_UTC.jpg' class='img-fluid' />

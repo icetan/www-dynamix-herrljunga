@@ -15,4 +15,4 @@ Kvällens bjj-pass. Starkt att vara fyra stycken trots all frånvaro. På torsda
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-04-16_17-39-01_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-04-16_17-39-01_UTC.jpg' class='img-fluid' />

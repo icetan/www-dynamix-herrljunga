@@ -15,4 +15,4 @@ Elise och Olle tillbaka på mattan dagen efter Swedish Open. Härlig inställnin
 
 
 
-<img src='/www-dynamix-herrljunga/instagram/dynamixherrljunga/2018-11-19_20-38-47_UTC.jpg' class='img-fluid' />
+<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-19_20-38-47_UTC.jpg' class='img-fluid' />
