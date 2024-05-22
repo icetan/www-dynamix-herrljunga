@@ -6,8 +6,8 @@ excerpt: |
   Härligt måndagspass 😊 Allt från grunder i kast, singleleg, till svep från stängd guard. Och härlig sparring. 😊🤙    
 date:   2018-11-06 08:38:04 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bp1RurjgloQ
 ---
@@ -15,10 +15,10 @@ Härligt måndagspass 😊 Allt från grunder i kast, singleleg, till svep från
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_3.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-11-06_08-38-04_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

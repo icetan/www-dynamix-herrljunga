@@ -6,8 +6,8 @@ excerpt: |
   Fullt hus på måndagspasset.    
 date:   2018-11-12 21:20:48 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-11-12_21-20-48_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2018-11-12_21-20-48_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2018-11-12_21-20-48_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-11-12_21-20-48_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BqGFyUQgWnI
 ---
@@ -15,10 +15,10 @@ Fullt hus på måndagspasset. [#bjj](https://www.instagram.com/explore/tags/bjj/
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-12_21-20-48_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-11-12_21-20-48_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-12_21-20-48_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-11-12_21-20-48_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-12_21-20-48_UTC_3.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-11-12_21-20-48_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

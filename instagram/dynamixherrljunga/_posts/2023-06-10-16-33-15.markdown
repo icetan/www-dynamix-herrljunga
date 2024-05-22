@@ -6,8 +6,8 @@ excerpt: |
   Terminens sista tävling på övertid. Elena brons, Gabbe 4a i dagens tuffaste bracket alla kategorier, Miguel brons. Dessa tre tävlande höll klubbens fana högt idag!    
 date:   2023-06-10 16:33:15 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CtURMX0t9_9
 ---
@@ -15,10 +15,10 @@ Terminens sista tävling på övertid. Elena brons, Gabbe 4a i dagens tuffaste b
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_3.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-06-10_16-33-15_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

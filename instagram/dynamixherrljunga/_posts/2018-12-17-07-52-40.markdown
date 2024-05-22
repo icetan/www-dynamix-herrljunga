@@ -6,8 +6,8 @@ excerpt: |
   Ett härligt gäng som tränade för Jan Olsson och Johan Blomdahl, på terminsavslutningen i sjj. Stort tack till alla och god jul önskar Dynamix Herrljunga   
 date:   2018-12-17 07:52:40 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-12-17_07-52-40_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-12-17_07-52-40_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-12-17_07-52-40_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-12-17_07-52-40_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BrexH7LgFCT
 ---
@@ -15,4 +15,4 @@ Ett härligt gäng som tränade för Jan Olsson och Johan Blomdahl, på terminsa
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-12-17_07-52-40_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-12-17_07-52-40_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

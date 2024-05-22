@@ -6,8 +6,8 @@ excerpt: |
   Härligt måndagspass. Singel & doubleleg, armbar & stryp med @farbrorpete    
 date:   2020-09-01 04:41:00 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2020-09-01_04-41-00_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2020-09-01_04-41-00_UTC.jpg
+background: /instagram/dynamixherrljunga/2020-09-01_04-41-00_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2020-09-01_04-41-00_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CElLOJUJMLo
 ---
@@ -15,4 +15,4 @@ Härligt måndagspass. Singel & doubleleg, armbar & stryp med [@farbrorpete](htt
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-09-01_04-41-00_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-09-01_04-41-00_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

@@ -6,8 +6,8 @@ excerpt: |
   Nima till lila och Tobbe till brunt på kvällens pass.     
 date:   2022-01-27 20:10:56 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2022-01-27_20-10-56_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2022-01-27_20-10-56_UTC.jpg
+background: /instagram/dynamixherrljunga/2022-01-27_20-10-56_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-01-27_20-10-56_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CZPxcCAs3h6
 ---
@@ -15,4 +15,4 @@ Nima till lila och Tobbe till brunt på kvällens pass. [#dynamixherrljunga](htt
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-01-27_20-10-56_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-01-27_20-10-56_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

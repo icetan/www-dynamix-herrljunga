@@ -6,8 +6,8 @@ excerpt: |
   Idag hade vi över 25 ungar på barnpasset och @tobiasramsmo graderades till blått bälte på vuxenpasset.   
 date:   2021-10-07 19:37:56 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2021-10-07_19-37-56_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2021-10-07_19-37-56_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2021-10-07_19-37-56_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2021-10-07_19-37-56_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CUvUoX-D-JH
 ---
@@ -15,7 +15,7 @@ Idag hade vi över 25 ungar på barnpasset och [@tobiasramsmo](https://www.insta
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-10-07_19-37-56_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-10-07_19-37-56_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-10-07_19-37-56_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-10-07_19-37-56_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

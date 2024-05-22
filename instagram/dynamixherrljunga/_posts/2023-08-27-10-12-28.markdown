@@ -6,8 +6,8 @@ excerpt: |
   Klubben har fått ett nytt brunbälte i BJJ. Välförtjänt @emmasaren !! Emma graderades under vår uppvisningsträning på Herrljungafestivalen mitt på Storgatan.   
 date:   2023-08-27 10:12:28 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-08-27_10-12-28_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2023-08-27_10-12-28_UTC.jpg
+background: /instagram/dynamixherrljunga/2023-08-27_10-12-28_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-08-27_10-12-28_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CwcbntFsmZA
 ---
@@ -15,4 +15,4 @@ Klubben har fått ett nytt brunbälte i BJJ. Välförtjänt [@emmasaren](https:/
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-08-27_10-12-28_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-08-27_10-12-28_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

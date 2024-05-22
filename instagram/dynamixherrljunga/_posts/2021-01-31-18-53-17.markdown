@@ -14,8 +14,8 @@ excerpt: |
   - Rullande schema för städning / desinficering av mattorna efter varje pass.
 date:   2021-01-31 18:53:17 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2021-01-31_18-53-17_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2021-01-31_18-53-17_UTC.jpg
+background: /instagram/dynamixherrljunga/2021-01-31_18-53-17_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2021-01-31_18-53-17_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CKuFkqgJmAT
 ---
@@ -31,4 +31,4 @@ Vi håller oss till dessa riktlinjer med följande praktiska anpassningar för v
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-01-31_18-53-17_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-01-31_18-53-17_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

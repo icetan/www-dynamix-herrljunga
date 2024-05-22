@@ -6,8 +6,8 @@ excerpt: |
   Kvällens Bjj-pass. Så härligt att få upp några av våra ungdomar i vuxengruppen på måndagar. Bra jobbat!!   
 date:   2022-02-28 20:02:19 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2022-02-28_20-02-19_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2022-02-28_20-02-19_UTC.jpg
+background: /instagram/dynamixherrljunga/2022-02-28_20-02-19_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-02-28_20-02-19_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CaiJ47HseWA
 ---
@@ -15,4 +15,4 @@ Kvällens Bjj-pass. Så härligt att få upp några av våra ungdomar i vuxengru
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-02-28_20-02-19_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-02-28_20-02-19_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

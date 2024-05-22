@@ -6,8 +6,8 @@ excerpt: |
   Sjj-pass ikväll. Bra blandning av tekniker och sparring som avslutades med burpies till Thunderstruck! Bra kämpat allihopa!   
 date:   2020-09-30 18:44:47 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2020-09-30_18-44-47_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2020-09-30_18-44-47_UTC.jpg
+background: /instagram/dynamixherrljunga/2020-09-30_18-44-47_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2020-09-30_18-44-47_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CFxW1juJjlu
 ---
@@ -15,4 +15,4 @@ Sjj-pass ikväll. Bra blandning av tekniker och sparring som avslutades med burp
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-09-30_18-44-47_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-09-30_18-44-47_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

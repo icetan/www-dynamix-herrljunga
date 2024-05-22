@@ -6,8 +6,8 @@ excerpt: |
    
 date:   2014-02-07 18:37:40 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2014-02-07_18-37-40_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2014-02-07_18-37-40_UTC.jpg
+background: /instagram/dynamixherrljunga/2014-02-07_18-37-40_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2014-02-07_18-37-40_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/kIAv5Oh_Fi
 ---
@@ -15,4 +15,4 @@ instagram_url: https://www.instagram.com/dynamixherrljunga/p/kIAv5Oh_Fi
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2014-02-07_18-37-40_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2014-02-07_18-37-40_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

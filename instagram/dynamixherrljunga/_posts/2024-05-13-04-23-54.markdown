@@ -6,8 +6,8 @@ excerpt: |
   På helgens SJJ läger graderades Linus Ingmarsaon till grönt bälte av Adam feån Shindo. Grattis.   
 date:   2024-05-13 04:23:54 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2024-05-13_04-23-54_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2024-05-13_04-23-54_UTC.jpg
+background: /instagram/dynamixherrljunga/2024-05-13_04-23-54_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-05-13_04-23-54_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/C65SaNOCTnl
 ---
@@ -15,4 +15,4 @@ På helgens SJJ läger graderades Linus Ingmarsaon till grönt bälte av Adam fe
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-05-13_04-23-54_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2024-05-13_04-23-54_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

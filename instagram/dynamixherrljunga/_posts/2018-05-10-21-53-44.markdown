@@ -6,8 +6,8 @@ excerpt: |
   Vissa pass är bättre än andra. Idag var det riktigt roligt.   
 date:   2018-05-10 21:53:44 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BinNswDluv-
 ---
@@ -15,13 +15,13 @@ Vissa pass är bättre än andra. Idag var det riktigt roligt. [#dynamixherrljun
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_3.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_4.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-05-10_21-53-44_UTC_4.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

@@ -6,8 +6,8 @@ excerpt: |
   Idag var flera av våra duktiga bjj kids i Göteborg och tävlade på BJJ Nation. 4 brons, ett silver och många modiga insatser blev det. Bra jobbat BJJ-kids!    
 date:   2021-11-07 19:23:34 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CV_HoQ1AFa-
 ---
@@ -15,16 +15,16 @@ Idag var flera av våra duktiga bjj kids i Göteborg och tävlade på BJJ Nation
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_3.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_4.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_4.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_5.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-11-07_19-23-34_UTC_5.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

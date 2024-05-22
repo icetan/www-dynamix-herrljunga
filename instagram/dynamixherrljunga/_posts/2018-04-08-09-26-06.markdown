@@ -7,8 +7,8 @@ excerpt: |
   //Joakim. Coach/materialare   
 date:   2018-04-08 09:26:06 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-04-08_09-26-06_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-04-08_09-26-06_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-04-08_09-26-06_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-04-08_09-26-06_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BhTes_YBAhL
 ---
@@ -17,4 +17,4 @@ Lördagen 7april var det tävling i fight och ne wasa i Nybro.  Tävlade gjorde 
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-04-08_09-26-06_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-04-08_09-26-06_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

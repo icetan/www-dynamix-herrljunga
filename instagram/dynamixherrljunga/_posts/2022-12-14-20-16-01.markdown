@@ -6,8 +6,8 @@ excerpt: |
   Idag hade vi terminsavslutning i sjj. Joel graderades till orange. Linus vann klubbtävlingen. Sen blev det julmust och pepparkakor!! Tack för denna termin, ni är grymma!!   
 date:   2022-12-14 20:16:01 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CmKVMOCjPop
 ---
@@ -15,10 +15,10 @@ Idag hade vi terminsavslutning i sjj. Joel graderades till orange. Linus vann kl
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_3.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-12-14_20-16-01_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

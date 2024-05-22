@@ -6,8 +6,8 @@ excerpt: |
   Glad påsk önskar   
 date:   2018-03-31 09:09:34 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-03-31_09-09-34_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-03-31_09-09-34_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-03-31_09-09-34_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-03-31_09-09-34_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bg-2c2xhcye
 ---
@@ -15,4 +15,4 @@ Glad påsk önskar [#dynamixherrljunga](https://www.instagram.com/explore/tags/d
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-31_09-09-34_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-03-31_09-09-34_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

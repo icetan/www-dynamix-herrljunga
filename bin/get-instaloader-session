@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
+INSTA_PROFILE="${INSTA_PROFILE:-$(yq -r .instagram_username _config.yml)}"
 INSTA_PROFILE="${INSTA_PROFILE:-dynamixherrljunga}"
 INSTA_PASSWORD="${INSTA_PASSWORD:?You need to set password for login \'$INSTA_PROFILE\'}"
 SESSION_PATH="$PWD/.sessionfile"

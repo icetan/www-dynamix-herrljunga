@@ -6,8 +6,8 @@ excerpt: |
   Sista gemensamma sjj/bjj passet för terminen. Nu är det bara ett sjj pass imorgon och sen avslutning på lördag med @ralcar .    
 date:   2019-05-27 20:07:59 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2019-05-27_20-07-59_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2019-05-27_20-07-59_UTC.jpg
+background: /instagram/dynamixherrljunga/2019-05-27_20-07-59_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2019-05-27_20-07-59_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bx-pQdbCiTS
 ---
@@ -15,4 +15,4 @@ Sista gemensamma sjj/bjj passet för terminen. Nu är det bara ett sjj pass imor
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-05-27_20-07-59_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-05-27_20-07-59_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

@@ -11,6 +11,7 @@ while [[ $1 ]]; do
   shift
 done
 
+INSTA_PROFILE="${INSTA_PROFILE:-$(yq -r .instagram_username _config.yml)}"
 INSTA_PROFILE="${INSTA_PROFILE:-dynamixherrljunga}"
 
 echo >&2 "Generating posts for instagram profile: $INSTA_PROFILE"
@@ -53,8 +54,8 @@ excerpt: |
 $(echo "$post_text" | sed -e 's,#[^\t ][^\t ]*,,g' -e 's,^,  ,')
 date:   $date_ $time_ +0000
 categories: instagram
-background: ${image_files[0]}
-thumbnail: ${image_files[0]}
+background: /${image_files[0]}
+thumbnail: /${image_files[0]}
 $extra_matter
 ---
 $(echo "$post_text" | sed \
@@ -65,7 +66,7 @@ $(echo "$post_text" | sed \
 $(for img in "${image_files[@]}"; do
     echo
     echo
-    echo "<img src='{{ site.baseurl }}/$img' class='img-fluid' />"
+    echo "<img src='{{ '/$img' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />"
   done)
 EOF
 done

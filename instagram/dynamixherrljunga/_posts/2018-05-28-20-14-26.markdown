@@ -6,8 +6,8 @@ excerpt: |
   Grattis på 19-årsdagen @alizadahossein Hittade en passande t-shirt. 😊🤙
 date:   2018-05-28 20:14:26 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-05-28_20-14-26_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-05-28_20-14-26_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-05-28_20-14-26_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-05-28_20-14-26_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BjVYpQ-Fu9D
 ---
@@ -15,4 +15,4 @@ Grattis på 19-årsdagen [@alizadahossein](https://www.instagram.com/alizadahoss
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-28_20-14-26_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-05-28_20-14-26_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

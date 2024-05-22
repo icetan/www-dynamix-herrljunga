@@ -6,8 +6,8 @@ excerpt: |
   Silver för @farbrorpete idag på Swedish Open bjj. Imorgon  invaderar minionerna Stenungsund....  
 date:   2018-11-17 18:07:08 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-11-17_18-07-08_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-11-17_18-07-08_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-11-17_18-07-08_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-11-17_18-07-08_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BqSnmKLAA4U
 ---
@@ -15,4 +15,4 @@ Silver för [@farbrorpete](https://www.instagram.com/farbrorpete/) idag på Swed
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-17_18-07-08_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-11-17_18-07-08_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

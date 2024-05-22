@@ -6,8 +6,8 @@ excerpt: |
   Kominerat SJJ och BJJ för Janne ikväll.    
 date:   2020-01-27 20:37:09 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2020-01-27_20-37-09_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2020-01-27_20-37-09_UTC.jpg
+background: /instagram/dynamixherrljunga/2020-01-27_20-37-09_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2020-01-27_20-37-09_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B71jWehJ8BI
 ---
@@ -15,4 +15,4 @@ Kominerat SJJ och BJJ för Janne ikväll. [#sjj](https://www.instagram.com/explo
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-01-27_20-37-09_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-01-27_20-37-09_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

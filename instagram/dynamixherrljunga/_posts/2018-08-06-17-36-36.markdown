@@ -6,8 +6,8 @@ excerpt: |
   Extraträning efter dansuppvärmning iaf för Melker och Tobbe   
 date:   2018-08-06 17:36:36 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-08-06_17-36-36_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-08-06_17-36-36_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-08-06_17-36-36_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-08-06_17-36-36_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BmJWObLlswn
 ---
@@ -15,4 +15,4 @@ Extraträning efter dansuppvärmning iaf för Melker och Tobbe [#bjj](https://ww
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-08-06_17-36-36_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-08-06_17-36-36_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

@@ -6,8 +6,8 @@ excerpt: |
   Tävlingsdebut för Love idag. Väl kämpat!    @thats_it_mannen0
 date:   2022-12-17 15:52:24 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2022-12-17_15-52-24_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2022-12-17_15-52-24_UTC.jpg
+background: /instagram/dynamixherrljunga/2022-12-17_15-52-24_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-12-17_15-52-24_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CmRlaEAjrKq
 ---
@@ -15,4 +15,4 @@ Tävlingsdebut för Love idag. Väl kämpat! [#dynamixherrljunga](https://www.in
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-12-17_15-52-24_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-12-17_15-52-24_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

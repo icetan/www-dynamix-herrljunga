@@ -6,8 +6,8 @@ excerpt: |
   Dagens pass. 9 glada tjejer grymt kört!  
 date:   2014-02-08 11:41:37 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2014-02-08_11-41-37_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2014-02-08_11-41-37_UTC.jpg
+background: /instagram/dynamixherrljunga/2014-02-08_11-41-37_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2014-02-08_11-41-37_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/kJ17b0h_P6
 ---
@@ -15,4 +15,4 @@ Dagens pass. 9 glada tjejer grymt kört! [#dynamixherrljunga](https://www.instag
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2014-02-08_11-41-37_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2014-02-08_11-41-37_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

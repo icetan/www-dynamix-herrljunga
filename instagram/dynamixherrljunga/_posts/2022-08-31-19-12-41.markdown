@@ -6,8 +6,8 @@ excerpt: |
   Då var sportjujutsu igång för terminen!! ☺️🥋💪  
 date:   2022-08-31 19:12:41 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2022-08-31_19-12-41_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2022-08-31_19-12-41_UTC.jpg
+background: /instagram/dynamixherrljunga/2022-08-31_19-12-41_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-08-31_19-12-41_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Ch72edvDT5F
 ---
@@ -15,4 +15,4 @@ Då var sportjujutsu igång för terminen!! ☺️🥋💪 [#dynamixherrljunga](
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-08-31_19-12-41_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-08-31_19-12-41_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

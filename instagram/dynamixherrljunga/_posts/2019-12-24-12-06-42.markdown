@@ -6,8 +6,8 @@ excerpt: |
   God jul gamla och nya medlemmar. Vecka 3 kör vi igång igen med samma schema som i höstas. Mer info kommer efter nyår. 
 date:   2019-12-24 12:06:42 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2019-12-24_12-06-42_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2019-12-24_12-06-42_UTC.jpg
+background: /instagram/dynamixherrljunga/2019-12-24_12-06-42_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2019-12-24_12-06-42_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B6dF6G2pbi0
 ---
@@ -15,4 +15,4 @@ God jul gamla och nya medlemmar. Vecka 3 kör vi igång igen med samma schema so
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-12-24_12-06-42_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-12-24_12-06-42_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

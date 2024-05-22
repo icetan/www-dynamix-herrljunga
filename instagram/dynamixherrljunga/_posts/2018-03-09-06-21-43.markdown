@@ -6,8 +6,8 @@ excerpt: |
   Varje tisdag och torsdag våttorkas mattorna.  
 date:   2018-03-09 06:21:43 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-03-09_06-21-43_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-03-09_06-21-43_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-03-09_06-21-43_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-03-09_06-21-43_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BgF5wRJHZpv
 ---
@@ -15,4 +15,4 @@ Varje tisdag och torsdag våttorkas mattorna. [#bjj](https://www.instagram.com/e
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-09_06-21-43_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-03-09_06-21-43_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

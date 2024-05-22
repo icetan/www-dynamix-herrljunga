@@ -6,8 +6,8 @@ excerpt: |
   De la riva situpsvep på kvällens träning. Och så lite sparring förstås.   
 date:   2020-08-20 19:17:27 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2020-08-20_19-17-27_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2020-08-20_19-17-27_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2020-08-20_19-17-27_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2020-08-20_19-17-27_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CEH1-7gpApu
 ---
@@ -15,7 +15,7 @@ De la riva situpsvep på kvällens träning. Och så lite sparring förstås. [#
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-08-20_19-17-27_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-08-20_19-17-27_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-08-20_19-17-27_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-08-20_19-17-27_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

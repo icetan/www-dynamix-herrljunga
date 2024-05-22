@@ -6,8 +6,8 @@ excerpt: |
   När solen skiner tränar bara dom tuffa. 😊   
 date:   2018-05-24 19:31:41 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-05-24_19-31-41_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-05-24_19-31-41_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-05-24_19-31-41_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-05-24_19-31-41_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BjLAkoXFPzu
 ---
@@ -15,4 +15,4 @@ När solen skiner tränar bara dom tuffa. 😊 [#bjj](https://www.instagram.com/
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-24_19-31-41_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-05-24_19-31-41_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

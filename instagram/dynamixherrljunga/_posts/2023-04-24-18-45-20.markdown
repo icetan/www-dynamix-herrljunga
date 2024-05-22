@@ -6,8 +6,8 @@ excerpt: |
   Fullsatt!    
 date:   2023-04-24 18:45:20 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-04-24_18-45-20_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2023-04-24_18-45-20_UTC.jpg
+background: /instagram/dynamixherrljunga/2023-04-24_18-45-20_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-04-24_18-45-20_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Crbe8mftDSn
 ---
@@ -15,4 +15,4 @@ Fullsatt! [#bjj](https://www.instagram.com/explore/tags/bjj/) [#sportjujutsu](ht
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-04-24_18-45-20_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-04-24_18-45-20_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

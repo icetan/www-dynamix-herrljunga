@@ -6,8 +6,8 @@ excerpt: |
   Grym bjj-grupp som körde spiderguard.   
 date:   2018-01-18 20:17:12 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-01-18_20-17-12_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-01-18_20-17-12_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-01-18_20-17-12_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-01-18_20-17-12_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BeGpnsEBZVi
 ---
@@ -15,4 +15,4 @@ Grym bjj-grupp som körde spiderguard. [#bjj](https://www.instagram.com/explore/
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-18_20-17-12_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-01-18_20-17-12_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

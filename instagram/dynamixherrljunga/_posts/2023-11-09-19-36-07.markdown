@@ -6,8 +6,8 @@ excerpt: |
   Det tuffaste vi har att sätta in .... i masterklasserna. 😊   
 date:   2023-11-09 19:36:07 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-11-09_19-36-07_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2023-11-09_19-36-07_UTC.jpg
+background: /instagram/dynamixherrljunga/2023-11-09_19-36-07_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-11-09_19-36-07_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Czb-8pnsNKb
 ---
@@ -15,4 +15,4 @@ Det tuffaste vi har att sätta in .... i masterklasserna. 😊 [#dynamixherrljun
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-11-09_19-36-07_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-11-09_19-36-07_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

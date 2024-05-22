@@ -6,8 +6,8 @@ excerpt: |
   Fem glada och lite trötta har deltagit på Dynamix Sportjujutsu Camp hos Shindo i helgen.
 date:   2022-09-11 10:54:21 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2022-09-11_10-54-21_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2022-09-11_10-54-21_UTC.jpg
+background: /instagram/dynamixherrljunga/2022-09-11_10-54-21_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-09-11_10-54-21_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CiXSMHfDsLi
 ---
@@ -15,4 +15,4 @@ Fem glada och lite trötta har deltagit på Dynamix Sportjujutsu Camp hos Shindo
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-09-11_10-54-21_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-09-11_10-54-21_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

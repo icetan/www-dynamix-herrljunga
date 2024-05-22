@@ -15,7 +15,7 @@ layout: default
           <div class="page-heading">
             &nbsp;
             <!--
-            <img src="{{ site.baseurl }}{{ site.logo }}" style="width: 300px; position: relative; top: 160px;" />
+            <img src="{{ site.logo | prepend: site.baseurl | replace: '//', '/' }}" style="width: 300px; position: relative; top: 160px;" />
             <h1>{{ site.title }}</h1>
             -->
             {% if site.description %}
@@ -30,7 +30,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-        <div class="page-logo" style="background-image: url('{{ site.baseurl }}{{ site.logo }}');">&nbsp;</div>
+        <div class="page-logo" style="background-image: url('{{ site.logo | prepend: site.baseurl | replace: '//', '/' }}');">&nbsp;</div>
 
         {{ content }}
 
@@ -43,7 +43,7 @@ layout: default
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             {% if post.thumbnail %}
-              <div class="post-image" style="background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}');">&nbsp;</div>
+              <div class="post-image" style="background-image: url('{{ post.thumbnail | prepend: site.baseurl | replace: '//', '/' }}');">&nbsp;</div>
             {% endif %}
             {% if post.instagram_url %}
               <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h4>

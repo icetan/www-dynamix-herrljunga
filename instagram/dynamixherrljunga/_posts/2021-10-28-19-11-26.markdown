@@ -6,8 +6,8 @@ excerpt: |
   Besök från Shindo på BJJ-passet. Mycket trevligt!   
 date:   2021-10-28 19:11:26 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2021-10-28_19-11-26_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2021-10-28_19-11-26_UTC.jpg
+background: /instagram/dynamixherrljunga/2021-10-28_19-11-26_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2021-10-28_19-11-26_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CVlWSrdj_Iw
 ---
@@ -15,4 +15,4 @@ Besök från Shindo på BJJ-passet. Mycket trevligt! [#bjj](https://www.instagra
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-10-28_19-11-26_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-10-28_19-11-26_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

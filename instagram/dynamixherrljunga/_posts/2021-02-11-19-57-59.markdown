@@ -6,8 +6,8 @@ excerpt: |
   Barngruppen är igång och tränar med restriktioner. Måndag vecka 8 börjar vuxenträningarna med samma koncept.   
 date:   2021-02-11 19:57:59 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2021-02-11_19-57-59_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2021-02-11_19-57-59_UTC.jpg
+background: /instagram/dynamixherrljunga/2021-02-11_19-57-59_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2021-02-11_19-57-59_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CLKhu96DU6e
 ---
@@ -15,4 +15,4 @@ Barngruppen är igång och tränar med restriktioner. Måndag vecka 8 börjar vu
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-02-11_19-57-59_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-02-11_19-57-59_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

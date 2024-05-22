@@ -6,8 +6,8 @@ excerpt: |
   Nya bälten till sportju-jutsu gruppen efter väl genomförd gradering. Hans tog gult, Hampus och Linus tog orange, Noa grönt och Joakim brunt på ett strålande sätt.   
 date:   2018-06-06 15:34:26 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-06-06_15-34-26_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-06-06_15-34-26_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-06-06_15-34-26_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-06-06_15-34-26_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BjsDwQIFIvF
 ---
@@ -15,4 +15,4 @@ Nya bälten till sportju-jutsu gruppen efter väl genomförd gradering. Hans tog
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-06-06_15-34-26_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-06-06_15-34-26_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

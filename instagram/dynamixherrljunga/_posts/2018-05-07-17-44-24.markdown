@@ -6,8 +6,8 @@ excerpt: |
   Måndagsbjj😁 så suddig så vi inte kan identifieras      
 date:   2018-05-07 17:44:24 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-05-07_17-44-24_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-05-07_17-44-24_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-05-07_17-44-24_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-05-07_17-44-24_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BifCx7hhAMG
 ---
@@ -15,4 +15,4 @@ Måndagsbjj😁 så suddig så vi inte kan identifieras [#dynamixherrljunga](htt
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-07_17-44-24_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-05-07_17-44-24_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

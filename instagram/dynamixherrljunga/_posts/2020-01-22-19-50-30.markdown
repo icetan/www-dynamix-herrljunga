@@ -6,8 +6,8 @@ excerpt: |
   Terminen är igång! Härligt pass med dessa två ungdomar 😊👍    
 date:   2020-01-22 19:50:30 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2020-01-22_19-50-30_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2020-01-22_19-50-30_UTC.jpg
+background: /instagram/dynamixherrljunga/2020-01-22_19-50-30_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2020-01-22_19-50-30_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B7omCY7JNsF
 ---
@@ -15,4 +15,4 @@ Terminen är igång! Härligt pass med dessa två ungdomar 😊👍 [#sportjujut
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-01-22_19-50-30_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-01-22_19-50-30_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

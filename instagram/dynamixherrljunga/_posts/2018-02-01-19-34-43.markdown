@@ -6,8 +6,8 @@ excerpt: |
   Bra  ikväll o fina  @farbrorpete    
 date:   2018-02-01 19:34:43 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-02-01_19-34-43_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-02-01_19-34-43_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-02-01_19-34-43_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-02-01_19-34-43_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Beqn4z5BDCU
 ---
@@ -15,4 +15,4 @@ Bra [#bjj](https://www.instagram.com/explore/tags/bjj/) ikväll o fina [#escapef
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-02-01_19-34-43_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-02-01_19-34-43_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

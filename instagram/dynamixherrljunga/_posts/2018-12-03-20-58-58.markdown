@@ -6,8 +6,8 @@ excerpt: |
   Full fart på kvällens pass.   
 date:   2018-12-03 20:58:58 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bq8H-ulAAmx
 ---
@@ -15,7 +15,7 @@ Full fart på kvällens pass. [#bjj](https://www.instagram.com/explore/tags/bjj/
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-12-03_20-58-58_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

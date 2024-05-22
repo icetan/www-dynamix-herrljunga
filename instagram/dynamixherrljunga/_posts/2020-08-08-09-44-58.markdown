@@ -6,8 +6,8 @@ excerpt: |
   Bjj-tider för nästa termin.   
 date:   2020-08-08 09:44:58 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2020-08-08_09-44-58_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2020-08-08_09-44-58_UTC.jpg
+background: /instagram/dynamixherrljunga/2020-08-08_09-44-58_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2020-08-08_09-44-58_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CDn67grJAun
 ---
@@ -15,4 +15,4 @@ Bjj-tider för nästa termin. [#dynamixherrljunga](https://www.instagram.com/exp
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-08-08_09-44-58_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-08-08_09-44-58_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

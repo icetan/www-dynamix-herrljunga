@@ -6,8 +6,8 @@ excerpt: |
   Bjj-gruppen på kick off i Bålsta. Grymt bra träning för @erios_tetabjj @renatinho82 . Tack!   
 date:   2019-02-16 17:22:08 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2019-02-16_17-22-08_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2019-02-16_17-22-08_UTC.jpg
+background: /instagram/dynamixherrljunga/2019-02-16_17-22-08_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2019-02-16_17-22-08_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bt82yMUAt1v
 ---
@@ -15,4 +15,4 @@ Bjj-gruppen på kick off i Bålsta. Grymt bra träning för [@erios_tetabjj](htt
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-02-16_17-22-08_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-02-16_17-22-08_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

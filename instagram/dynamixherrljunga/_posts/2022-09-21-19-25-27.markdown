@@ -6,8 +6,8 @@ excerpt: |
   Kvällens sjj! Kombinationer i serie 1, till förflyttning/balansbrytning i serie 2. Fokus och lite ”jävlar anamma”! Och sparring ☺️💪  
 date:   2022-09-21 19:25:27 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2022-09-21_19-25-27_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2022-09-21_19-25-27_UTC.jpg
+background: /instagram/dynamixherrljunga/2022-09-21_19-25-27_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-09-21_19-25-27_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Cix8oXSjg3A
 ---
@@ -15,4 +15,4 @@ Kvällens sjj! Kombinationer i serie 1, till förflyttning/balansbrytning i seri
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-09-21_19-25-27_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-09-21_19-25-27_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

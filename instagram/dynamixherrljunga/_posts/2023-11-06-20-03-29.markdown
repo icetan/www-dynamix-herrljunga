@@ -6,8 +6,8 @@ excerpt: |
   En av de två som tog Bjj:n till Herrljunga, Melker till brunt bälte.   
 date:   2023-11-06 20:03:29 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-11-06_20-03-29_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2023-11-06_20-03-29_UTC.jpg
+background: /instagram/dynamixherrljunga/2023-11-06_20-03-29_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-11-06_20-03-29_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CzUTskcsRCl
 ---
@@ -15,4 +15,4 @@ En av de två som tog Bjj:n till Herrljunga, Melker till brunt bälte. [#bjj](ht
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-11-06_20-03-29_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-11-06_20-03-29_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

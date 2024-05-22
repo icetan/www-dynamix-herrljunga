@@ -6,8 +6,8 @@ excerpt: |
   Kvällens Sjj-deltagare. Mycket bra pass. Mycket bra deltagare. 10/10 ura mawash.   
 date:   2018-01-23 20:53:49 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-01-23_20-53-49_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-01-23_20-53-49_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-01-23_20-53-49_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-01-23_20-53-49_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BeTlyUEh6pj
 ---
@@ -15,4 +15,4 @@ Kvällens Sjj-deltagare. Mycket bra pass. Mycket bra deltagare. 10/10 ura mawash
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-23_20-53-49_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-01-23_20-53-49_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

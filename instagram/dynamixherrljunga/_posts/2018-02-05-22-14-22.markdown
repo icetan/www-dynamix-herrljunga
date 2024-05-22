@@ -6,8 +6,8 @@ excerpt: |
   Extra ronder när alla gått hem med @alizadahossein och @farbrorpete   
 date:   2018-02-05 22:14:22 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-02-05_22-14-22_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-02-05_22-14-22_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-02-05_22-14-22_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-02-05_22-14-22_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Be1NPUHh95H
 ---
@@ -15,4 +15,4 @@ Extra ronder när alla gått hem med [@alizadahossein](https://www.instagram.com
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-02-05_22-14-22_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-02-05_22-14-22_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

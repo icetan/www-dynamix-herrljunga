@@ -6,8 +6,8 @@ excerpt: |
   Träningsschema för vårterminen 2023. Vi mjukstartar på måndag 9/1 för de som tränat sen tidigare. Löpande nybörjarintag från 16/1. Välkomna nya som gamla medlemmar.
 date:   2023-01-06 17:42:18 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-01-06_17-42-18_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2023-01-06_17-42-18_UTC.jpg
+background: /instagram/dynamixherrljunga/2023-01-06_17-42-18_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-01-06_17-42-18_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CnFR4eHDY34
 ---
@@ -15,4 +15,4 @@ Träningsschema för vårterminen 2023. Vi mjukstartar på måndag 9/1 för de s
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-01-06_17-42-18_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-01-06_17-42-18_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

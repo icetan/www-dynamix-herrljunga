@@ -6,8 +6,8 @@ excerpt: |
   Tider sportju-jutsu för nästa termin.  
 date:   2020-08-08 09:46:26 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2020-08-08_09-46-26_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2020-08-08_09-46-26_UTC.jpg
+background: /instagram/dynamixherrljunga/2020-08-08_09-46-26_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2020-08-08_09-46-26_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CDn7GRwpPrL
 ---
@@ -15,4 +15,4 @@ Tider sportju-jutsu för nästa termin. [#sjj](https://www.instagram.com/explore
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-08-08_09-46-26_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-08-08_09-46-26_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

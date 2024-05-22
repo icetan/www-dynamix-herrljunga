@@ -6,8 +6,8 @@ excerpt: |
   Gradering och avslutningsdag med finbesök.   
 date:   2019-12-14 15:54:17 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B6DwAOhpF-z
 ---
@@ -15,10 +15,10 @@ Gradering och avslutningsdag med finbesök. [#bjj](https://www.instagram.com/exp
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_3.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-12-14_15-54-17_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

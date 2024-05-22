@@ -6,8 +6,8 @@ excerpt: |
   Dagens gladaste bronsmedalj, Elena Velin. 
 date:   2023-06-10 16:34:35 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-06-10_16-34-35_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2023-06-10_16-34-35_UTC.jpg
+background: /instagram/dynamixherrljunga/2023-06-10_16-34-35_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-06-10_16-34-35_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CtURWGkNCuU
 ---
@@ -15,4 +15,4 @@ Dagens gladaste bronsmedalj, Elena Velin. [#dynamixherrljunga](https://www.insta
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-06-10_16-34-35_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-06-10_16-34-35_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

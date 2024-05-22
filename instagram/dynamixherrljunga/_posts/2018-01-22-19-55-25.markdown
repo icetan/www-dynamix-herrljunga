@@ -6,8 +6,8 @@ excerpt: |
   Dagens pass var nej. Dagens teknik var    
 date:   2018-01-22 19:55:25 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BeQ6TqBhhqd
 ---
@@ -15,4 +15,4 @@ Dagens pass var nej. Dagens teknik var [#leglasso](https://www.instagram.com/exp
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-01-22_19-55-25_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

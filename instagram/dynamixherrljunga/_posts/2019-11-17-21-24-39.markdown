@@ -6,8 +6,8 @@ excerpt: |
   Dag 2 på Swedish Open. Guld till Naim och Elise, silver till Litea och brons till Olle och Peter. En bra dag för vår lilla klubb på Skandinaviens största bjj-tävling.
 date:   2019-11-17 21:24:39 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/B4-0WP_JL2B
 ---
@@ -15,16 +15,16 @@ Dag 2 på Swedish Open. Guld till Naim och Elise, silver till Litea och brons ti
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_3.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_4.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_4.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_5.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2019-11-17_21-24-39_UTC_5.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

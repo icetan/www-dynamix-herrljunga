@@ -6,8 +6,8 @@ excerpt: |
   Besök från Floda ikväll på träningen. @thebarrens92 fick uppleva hur det är hos oss med en fyraåring i rosa dräkt som skall göra x-pass. Välkommen!   
 date:   2021-12-22 20:14:36 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2021-12-22_20-14-36_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2021-12-22_20-14-36_UTC.jpg
+background: /instagram/dynamixherrljunga/2021-12-22_20-14-36_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2021-12-22_20-14-36_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CXzFPasMSrp
 ---
@@ -15,4 +15,4 @@ Besök från Floda ikväll på träningen. [@thebarrens92](https://www.instagram
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-12-22_20-14-36_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-12-22_20-14-36_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

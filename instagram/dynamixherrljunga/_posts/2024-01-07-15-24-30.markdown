@@ -6,8 +6,8 @@ excerpt: |
   Kom och träna med oss! Terminsstart vecka 3, löpande nybörjarstart från vecka 4.    
 date:   2024-01-07 15:24:30 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2024-01-07_15-24-30_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2024-01-07_15-24-30_UTC.jpg
+background: /instagram/dynamixherrljunga/2024-01-07_15-24-30_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-01-07_15-24-30_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/C1zdDXsNGob
 ---
@@ -15,4 +15,4 @@ Kom och träna med oss! Terminsstart vecka 3, löpande nybörjarstart från veck
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-01-07_15-24-30_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2024-01-07_15-24-30_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

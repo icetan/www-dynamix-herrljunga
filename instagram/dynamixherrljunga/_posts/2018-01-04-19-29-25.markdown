@@ -6,8 +6,8 @@ excerpt: |
   Vår trogne medlem Joakim tog fina kort på gårdagens bjj-pass som på ett bra sätt visar hur kul det var. 😁😁🤙
 date:   2018-01-04 19:29:25 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BdihBjEBSxA
 ---
@@ -15,4 +15,4 @@ Vår trogne medlem Joakim tog fina kort på gårdagens bjj-pass som på ett bra 
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-01-04_19-29-25_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

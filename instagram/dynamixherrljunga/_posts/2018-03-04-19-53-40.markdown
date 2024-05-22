@@ -6,8 +6,8 @@ excerpt: |
   Vissa söndagar har vi extra träning för det bjj-kids som förbereder sig för tävling.   
 date:   2018-03-04 19:53:40 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-03-04_19-53-40_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-03-04_19-53-40_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-03-04_19-53-40_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-03-04_19-53-40_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bf6esvNhZ56
 ---
@@ -15,4 +15,4 @@ Vissa söndagar har vi extra träning för det bjj-kids som förbereder sig för
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-03-04_19-53-40_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-03-04_19-53-40_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

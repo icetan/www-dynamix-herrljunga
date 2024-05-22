@@ -6,8 +6,8 @@ excerpt: |
   20 barn som körde räkor idag.   
 date:   2018-08-30 20:39:58 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-08-30_20-39-58_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-08-30_20-39-58_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-08-30_20-39-58_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-08-30_20-39-58_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BnHeSd0lal0
 ---
@@ -15,4 +15,4 @@ instagram_url: https://www.instagram.com/dynamixherrljunga/p/BnHeSd0lal0
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-08-30_20-39-58_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-08-30_20-39-58_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

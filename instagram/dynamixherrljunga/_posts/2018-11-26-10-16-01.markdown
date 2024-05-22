@@ -6,8 +6,8 @@ excerpt: |
   Vi ses väl ikväll? @dynamixherrljunga 
 date:   2018-11-26 10:16:01 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bqo81lnAiGx
 ---
@@ -15,4 +15,4 @@ Vi ses väl ikväll? [@dynamixherrljunga](https://www.instagram.com/dynamixherrl
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-11-26_10-16-01_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

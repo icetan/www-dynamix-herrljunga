@@ -6,8 +6,8 @@ excerpt: |
   Kvällens bjj-pass. Starkt att vara fyra stycken trots all frånvaro. På torsdag kör vi nogi. 😊🤙  
 date:   2018-04-16 17:39:01 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-04-16_17-39-01_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-04-16_17-39-01_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-04-16_17-39-01_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-04-16_17-39-01_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bho9eKYFqFB
 ---
@@ -15,4 +15,4 @@ Kvällens bjj-pass. Starkt att vara fyra stycken trots all frånvaro. På torsda
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-04-16_17-39-01_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-04-16_17-39-01_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

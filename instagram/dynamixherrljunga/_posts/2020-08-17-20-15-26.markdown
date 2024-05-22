@@ -6,8 +6,8 @@ excerpt: |
   Då var terminen igång. Vi följer givetvis FHM:s riktlinjer från 14/6 gällande kontaktsporter.    
 date:   2020-08-17 20:15:26 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2020-08-17_20-15-26_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2020-08-17_20-15-26_UTC.jpg
+background: /instagram/dynamixherrljunga/2020-08-17_20-15-26_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2020-08-17_20-15-26_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CEAOPD0pZt9
 ---
@@ -15,4 +15,4 @@ Då var terminen igång. Vi följer givetvis FHM:s riktlinjer från 14/6 gällan
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-08-17_20-15-26_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-08-17_20-15-26_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

@@ -6,8 +6,8 @@ excerpt: |
   Terminen är igång. Först ut var barnen och sen vuxna. Gemensamt pass för BJJ och SJJ.   
 date:   2018-08-20 19:53:25 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-08-20_19-53-25_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-08-20_19-53-25_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-08-20_19-53-25_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-08-20_19-53-25_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BmtpAyJFs7W
 ---
@@ -15,4 +15,4 @@ Terminen är igång. Först ut var barnen och sen vuxna. Gemensamt pass för BJJ
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-08-20_19-53-25_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-08-20_19-53-25_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

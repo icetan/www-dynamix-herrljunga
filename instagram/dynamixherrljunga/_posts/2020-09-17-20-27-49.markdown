@@ -6,8 +6,8 @@ excerpt: |
   "If you're looking for trouble, you came to the right place." Nya bälten för Olle och Clara ikväll. Stripes till övriga.   
 date:   2020-09-17 20:27:49 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2020-09-17_20-27-49_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2020-09-17_20-27-49_UTC.jpg
+background: /instagram/dynamixherrljunga/2020-09-17_20-27-49_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2020-09-17_20-27-49_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CFQES4VJnBD
 ---
@@ -15,4 +15,4 @@ instagram_url: https://www.instagram.com/dynamixherrljunga/p/CFQES4VJnBD
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-09-17_20-27-49_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-09-17_20-27-49_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

@@ -6,8 +6,8 @@ excerpt: |
   Idag har Linus Graderats till blått bälte i Sportjujutsu!   
 date:   2023-12-09 18:26:13 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/C0pGzCTtK0u
 ---
@@ -15,7 +15,7 @@ Idag har Linus Graderats till blått bälte i Sportjujutsu! [#mölndalfightcamp]
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-12-09_18-26-13_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

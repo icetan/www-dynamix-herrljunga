@@ -6,8 +6,8 @@ excerpt: |
   Enter the Matrix....kul pass med @espenmathiesen
 date:   2022-08-13 15:22:03 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2022-08-13_15-22-03_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2022-08-13_15-22-03_UTC.jpg
+background: /instagram/dynamixherrljunga/2022-08-13_15-22-03_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-08-13_15-22-03_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/ChNFxilDlPR
 ---
@@ -15,4 +15,4 @@ Enter the Matrix....kul pass med [@espenmathiesen](https://www.instagram.com/esp
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-08-13_15-22-03_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-08-13_15-22-03_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

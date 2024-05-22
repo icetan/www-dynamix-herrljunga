@@ -6,8 +6,8 @@ excerpt: |
   När Henke kom försent och missade uppvärmningen för 10e gången blev han ett riktigt lilabälte. Skämt åsido. Mycket välförtjänt! Grattis kompis!    
 date:   2024-05-16 20:17:10 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2024-05-16_20-17-10_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2024-05-16_20-17-10_UTC.jpg
+background: /instagram/dynamixherrljunga/2024-05-16_20-17-10_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-05-16_20-17-10_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/C7Ct4scN8WT
 ---
@@ -15,4 +15,4 @@ När Henke kom försent och missade uppvärmningen för 10e gången blev han ett
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2024-05-16_20-17-10_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2024-05-16_20-17-10_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

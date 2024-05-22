@@ -6,8 +6,8 @@ excerpt: |
   Välbesökt pass bjj/sjj för @farbrorpete  Nedtagningar från distans och lite stryp från ryggen.    
 date:   2020-10-05 19:13:24 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2020-10-05_19-13-24_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2020-10-05_19-13-24_UTC.jpg
+background: /instagram/dynamixherrljunga/2020-10-05_19-13-24_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2020-10-05_19-13-24_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CF-SFiyJeBl
 ---
@@ -15,4 +15,4 @@ Välbesökt pass bjj/sjj för [@farbrorpete](https://www.instagram.com/farbrorpe
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2020-10-05_19-13-24_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2020-10-05_19-13-24_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

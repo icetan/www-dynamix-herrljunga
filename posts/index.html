@@ -9,7 +9,7 @@ background: /instagram/dynamixherrljunga/2024-01-15_21-20-53_UTC_1.jpg
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     {% if post.thumbnail %}
-      <div class="post-image" style=" background-image: url('{{ site.baseurl }}/{{ post.thumbnail }}');">&nbsp;</div>
+      <div class="post-image" style=" background-image: url('{{ post.thumbnail | prepend: site.baseurl | replace: '//', '/' }}');">&nbsp;</div>
     {% endif %}
     {% if post.instagram_url %}
       <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h4>

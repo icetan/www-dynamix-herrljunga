@@ -6,8 +6,8 @@ excerpt: |
   Silver för Gabriel i Malmö. Gabbe var vår enda tävlande på Malmö International Bjj Open idag. Tre bra matcher gav ett välförtjänt silver. Bra jobbat!   
 date:   2023-11-12 10:30:16 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-11-12_10-30-16_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2023-11-12_10-30-16_UTC.jpg
+background: /instagram/dynamixherrljunga/2023-11-12_10-30-16_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-11-12_10-30-16_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Cziu3YbsCj-
 ---
@@ -15,4 +15,4 @@ Silver för Gabriel i Malmö. Gabbe var vår enda tävlande på Malmö Internati
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-11-12_10-30-16_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-11-12_10-30-16_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

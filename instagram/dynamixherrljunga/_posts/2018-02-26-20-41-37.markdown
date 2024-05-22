@@ -6,8 +6,8 @@ excerpt: |
   Grej of the day - bjj  
 date:   2018-02-26 20:41:37 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-02-26_20-41-37_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-02-26_20-41-37_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-02-26_20-41-37_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-02-26_20-41-37_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BfrHaopBiXz
 ---
@@ -15,4 +15,4 @@ Grej of the day - bjj [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dyna
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-02-26_20-41-37_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-02-26_20-41-37_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

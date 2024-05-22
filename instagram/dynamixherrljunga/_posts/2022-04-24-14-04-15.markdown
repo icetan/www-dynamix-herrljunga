@@ -6,8 +6,8 @@ excerpt: |
   En dag i Jönköping med träning för Teta och Renato.   
 date:   2022-04-24 14:04:15 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2022-04-24_14-04-15_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2022-04-24_14-04-15_UTC.jpg
+background: /instagram/dynamixherrljunga/2022-04-24_14-04-15_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-04-24_14-04-15_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CcvIoj6D0NW
 ---
@@ -15,4 +15,4 @@ En dag i Jönköping med träning för Teta och Renato. [#bjj](https://www.insta
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-04-24_14-04-15_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-04-24_14-04-15_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

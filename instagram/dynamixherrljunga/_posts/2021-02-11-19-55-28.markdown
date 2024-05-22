@@ -6,8 +6,8 @@ excerpt: |
   Barngruppen är igång och tränar med begränsat antal och re
 date:   2021-02-11 19:55:28 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2021-02-11_19-55-28_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2021-02-11_19-55-28_UTC.jpg
+background: /instagram/dynamixherrljunga/2021-02-11_19-55-28_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2021-02-11_19-55-28_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CLKhclbD9KH
 ---
@@ -15,4 +15,4 @@ Barngruppen är igång och tränar med begränsat antal och re
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2021-02-11_19-55-28_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2021-02-11_19-55-28_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

@@ -6,8 +6,8 @@ excerpt: |
   Idag tävlade Love, Arvid, Henrik och Miguel på Nordic Open i Nacka! Brons till Henrik och GULD till Miguel! Bra jobbat samtliga!    @nordicbjjopen
 date:   2023-03-25 14:31:39 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_1.jpg
-thumbnail: instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_1.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CqNyEYLD-uU
 ---
@@ -15,10 +15,10 @@ Idag tävlade Love, Arvid, Henrik och Miguel på Nordic Open i Nacka! Brons till
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_1.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_2.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_3.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-03-25_14-31-39_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

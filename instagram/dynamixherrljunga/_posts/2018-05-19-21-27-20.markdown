@@ -6,8 +6,8 @@ excerpt: |
   Guld till @alizadahossein i sin viktklass. Två fotlås varav det ena 4 sekunder....   
 date:   2018-05-19 21:27:20 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-05-19_21-27-20_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-05-19_21-27-20_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-05-19_21-27-20_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-05-19_21-27-20_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bi-V1PTF8iM
 ---
@@ -15,4 +15,4 @@ Guld till [@alizadahossein](https://www.instagram.com/alizadahossein/) i sin vik
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-05-19_21-27-20_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-05-19_21-27-20_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

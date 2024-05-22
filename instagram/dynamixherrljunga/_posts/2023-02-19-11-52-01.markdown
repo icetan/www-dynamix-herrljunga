@@ -6,8 +6,8 @@ excerpt: |
   Gabbe och Elena på Bjj-nation i Mölndal idag. Silver och Brons. Bra jobbat!!    
 date:   2023-02-19 11:52:01 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-02-19_11-52-01_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2023-02-19_11-52-01_UTC.jpg
+background: /instagram/dynamixherrljunga/2023-02-19_11-52-01_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-02-19_11-52-01_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Co18xbHjWDp
 ---
@@ -15,4 +15,4 @@ Gabbe och Elena på Bjj-nation i Mölndal idag. Silver och Brons. Bra jobbat!! [
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-02-19_11-52-01_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-02-19_11-52-01_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

@@ -6,8 +6,8 @@ excerpt: |
   Extrapass bjj ikväll. Omoplatas, kul pass.  
 date:   2018-01-08 22:42:39 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-01-08_22-42-39_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-01-08_22-42-39_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-01-08_22-42-39_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-01-08_22-42-39_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BdtKUQOhKSY
 ---
@@ -15,4 +15,4 @@ Extrapass bjj ikväll. Omoplatas, kul pass. [#bjj](https://www.instagram.com/exp
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-01-08_22-42-39_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-01-08_22-42-39_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

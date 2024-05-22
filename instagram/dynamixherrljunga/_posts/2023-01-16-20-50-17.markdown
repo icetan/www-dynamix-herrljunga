@@ -6,8 +6,8 @@ excerpt: |
   Terminen är igång! SJJ/BJJ med @farbrorpete på måndagar.    
 date:   2023-01-16 20:50:17 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2023-01-16_20-50-17_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2023-01-16_20-50-17_UTC.jpg
+background: /instagram/dynamixherrljunga/2023-01-16_20-50-17_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2023-01-16_20-50-17_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CnfXV_7D0pI
 ---
@@ -15,4 +15,4 @@ Terminen är igång! SJJ/BJJ med [@farbrorpete](https://www.instagram.com/farbro
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2023-01-16_20-50-17_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2023-01-16_20-50-17_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

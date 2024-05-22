@@ -6,8 +6,8 @@ excerpt: |
   Ibland på BJJ:n så händer det att vi känner oss tuffa.   
 date:   2022-04-07 20:15:03 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2022-04-07_20-15-03_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2022-04-07_20-15-03_UTC.jpg
+background: /instagram/dynamixherrljunga/2022-04-07_20-15-03_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2022-04-07_20-15-03_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/CcEBjfUDZtc
 ---
@@ -15,4 +15,4 @@ Ibland på BJJ:n så händer det att vi känner oss tuffa. [#bjj](https://www.in
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2022-04-07_20-15-03_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2022-04-07_20-15-03_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

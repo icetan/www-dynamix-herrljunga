@@ -6,8 +6,8 @@ excerpt: |
   Vår bjj-instruktör @farbrorpete mottog idag pris för årets ungdomsledare i Herrljunga kommun. Ett fint pris för Peter och klubben. Peter är instruktör på bjj-passen (med hjälp av Melker) och på bjj-kids (med hjälp av Hossein och Tobbe). Grattis!  
 date:   2018-06-06 15:37:20 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-06-06_15-37-20_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-06-06_15-37-20_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-06-06_15-37-20_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-06-06_15-37-20_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BjsEFgwF7La
 ---
@@ -15,4 +15,4 @@ Vår bjj-instruktör [@farbrorpete](https://www.instagram.com/farbrorpete/) mott
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-06-06_15-37-20_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-06-06_15-37-20_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

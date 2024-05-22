@@ -6,8 +6,8 @@ excerpt: |
   Peter & Emma var iväg och tränade hos Borås Geappling. Tack @borasgrappling
 date:   2018-10-13 13:08:59 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/Bo39p0alJ-E
 ---
@@ -15,4 +15,4 @@ Peter & Emma var iväg och tränade hos Borås Geappling. Tack [@borasgrappling]
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-10-13_13-08-59_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

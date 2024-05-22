@@ -6,8 +6,8 @@ excerpt: |
   Tobbe är klar!   
 date:   2018-02-18 09:29:36 +0000
 categories: instagram
-background: instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg
-thumbnail: instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg
+background: /instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg
 
 instagram_url: https://www.instagram.com/dynamixherrljunga/p/BfVUJqmhQnU
 ---
@@ -15,4 +15,4 @@ Tobbe är klar! [#faxiapreta](https://www.instagram.com/explore/tags/faxiapreta/
 
 
 
-<img src='{{ site.baseurl }}/instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg' class='img-fluid' />
+<img src='{{ '/instagram/dynamixherrljunga/2018-02-18_09-29-36_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
