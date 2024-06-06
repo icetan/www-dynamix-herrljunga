@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Herrljunga Ju-Jutsu
-logo: "/img/hej-logo.png"
+logo: "/img/hej-logo-dynamix.png"
 email: info@dynamixherrljunga.se
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Träna Brazilian Jiu-Jitsu och Sport Ju-Justu!
