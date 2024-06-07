@@ -2,6 +2,12 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
   <div class="container">
     <a class="navbar-brand" href="{{"/" | relative_url }}">{{ site.title | escape }}</a>
+    {% if site.email %}
+    <a class="navbar-social" href="mailto:{{ site.email }}">
+      <i class="far fa-envelope fa-inverse show-wide"></i>
+      <i class="far fa-envelope show-narrow"></i>
+    </a>
+    {% endif %}
     {% if site.facebook_username %}
     <a class="navbar-social" href="https://www.facebook.com/{{ site.facebook_username }}">
       <i class="fab fa-facebook fa-inverse show-wide"></i>
