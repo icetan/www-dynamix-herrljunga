@@ -1,0 +1,21 @@
+---
+layout: post
+title: |
+  Barnavslutning och vuxenavslutning men barnavslutning är roligast för där kör vi zomieleken och äter glass
+excerpt: |
+  Barnavslutning och vuxenavslutning men barnavslutning är roligast för där kör vi zomieleken och äter glass. Det är sen gammalt...   
+date:   2024-06-06 22:02:46 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2024-06-06_22-02-46_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-06-06_22-02-46_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/C74-qjxt75m
+---
+Barnavslutning och vuxenavslutning men barnavslutning är roligast för där kör vi zomieleken och äter glass. Det är sen gammalt...[#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-06-06_22-02-46_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-06-06_22-02-46_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
