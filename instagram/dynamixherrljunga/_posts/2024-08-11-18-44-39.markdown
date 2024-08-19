@@ -1,0 +1,21 @@
+---
+layout: post
+title: |
+  Vecka 35 kör vi igång höstterminen för nya såväl som gamla medlemmar
+excerpt: |
+  Vecka 35 kör vi igång höstterminen för nya såväl som gamla medlemmar. Välkomna!    
+date:   2024-08-11 18:44:39 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2024-08-11_18-44-39_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-08-11_18-44-39_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/C-ikdOptzKF
+---
+Vecka 35 kör vi igång höstterminen för nya såväl som gamla medlemmar. Välkomna! [#bjj](https://www.instagram.com/explore/tags/bjj/) [#sportjujutsu](https://www.instagram.com/explore/tags/sportjujutsu/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-11_18-44-39_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-11_18-44-39_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
