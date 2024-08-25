@@ -1,0 +1,24 @@
+---
+layout: post
+title: |
+  På gårdagens Herrljungafestival flyttade vi ut mattorna och tränade mitt på Storgatan
+excerpt: |
+  På gårdagens Herrljungafestival flyttade vi ut mattorna och tränade mitt på Storgatan. Först Bjj kids sen vuxna och sist sportju-jutsu. Ett ypperligt tillfälle att visa upp vår klubb.    
+date:   2024-08-25 14:29:13 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2024-08-25_14-29-13_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-08-25_14-29-13_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/C_GKWpeNdSH
+---
+På gårdagens Herrljungafestival flyttade vi ut mattorna och tränade mitt på Storgatan. Först Bjj kids sen vuxna och sist sportju-jutsu. Ett ypperligt tillfälle att visa upp vår klubb. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-25_14-29-13_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-25_14-29-13_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-25_14-29-13_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

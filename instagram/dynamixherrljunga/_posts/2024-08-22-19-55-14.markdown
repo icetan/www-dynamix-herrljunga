@@ -1,0 +1,26 @@
+---
+layout: post
+title: |
+  Kom och titta på när vi tränar på Storgatan på lördag
+excerpt: |
+  Kom och titta på när vi tränar på Storgatan på lördag! Brazilian jiu-jitsu och Sport ju-jutsu. 
+  På måndag 26/8 startar terminen med BJJ för barn 17.45 och kombinerat pass SJJ/BJJ 19.00. Ett ypperligt tillfälle att träna något som är både idrott, motion och självförsvar. Välkomna!       
+date:   2024-08-22 19:55:14 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2024-08-22_19-55-14_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-08-22_19-55-14_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/C-_BR2PN-oL
+---
+Kom och titta på när vi tränar på Storgatan på lördag! Brazilian jiu-jitsu och Sport ju-jutsu. 
+På måndag 26/8 startar terminen med BJJ för barn 17.45 och kombinerat pass SJJ/BJJ 19.00. Ett ypperligt tillfälle att träna något som är både idrott, motion och självförsvar. Välkomna! [#bjj](https://www.instagram.com/explore/tags/bjj/) [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#sjj](https://www.instagram.com/explore/tags/sjj/) [#sportjujutsu](https://www.instagram.com/explore/tags/sportjujutsu/) [#brazilianjiujitsu](https://www.instagram.com/explore/tags/brazilianjiujitsu/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-22_19-55-14_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-22_19-55-14_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-22_19-55-14_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
