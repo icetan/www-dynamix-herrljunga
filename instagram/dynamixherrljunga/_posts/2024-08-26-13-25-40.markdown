@@ -1,0 +1,24 @@
+---
+layout: post
+title: |
+  🧡🤗Kursstart idag
+excerpt: |
+  🧡🤗Kursstart idag!! Så härligt att få mötas igen i kraftkällan. Efter en energi fylld helg med festival och så många möten med härliga människor känns det fantastisk att nu äntligen få komma igång med höstens termin🧡🤗 Vill passa på och tacka @dynamixherrljunga För att ni hängde med mig på Fasciella manöver 🧡 Tack!! Det finns fortfarande några platser lediga på tisdagens yang flow och onsdagens sensing yoga. Varmt välkomna till en spännande 🍂 ♥️🧡  
+date:   2024-08-26 13:25:40 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2024-08-26_13-25-40_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-08-26_13-25-40_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/C_In4CDiL_O
+---
+🧡🤗Kursstart idag!! Så härligt att få mötas igen i kraftkällan. Efter en energi fylld helg med festival och så många möten med härliga människor känns det fantastisk att nu äntligen få komma igång med höstens termin🧡🤗 Vill passa på och tacka [@dynamixherrljunga](https://www.instagram.com/dynamixherrljunga/) För att ni hängde med mig på Fasciella manöver 🧡 Tack!! Det finns fortfarande några platser lediga på tisdagens yang flow och onsdagens sensing yoga. Varmt välkomna till en spännande 🍂 ♥️🧡[#sensingyoga](https://www.instagram.com/explore/tags/sensingyoga/) [#kursstart#yoga#fascia#psoas#herrljunga](https://www.instagram.com/explore/tags/kursstart#yoga#fascia#psoas#herrljunga/) [#heladukroppsjälochhälsa](https://www.instagram.com/explore/tags/heladukroppsjälochhälsa/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-26_13-25-40_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-26_13-25-40_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-08-26_13-25-40_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
