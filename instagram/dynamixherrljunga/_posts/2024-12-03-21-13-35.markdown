@@ -1,0 +1,27 @@
+---
+layout: post
+title: |
+  Terminsavslutning med nya bälten till några av våra duktiga ungdomar och ett välförtjänt blått bälte till Malin
+excerpt: |
+  Terminsavslutning med nya bälten till några av våra duktiga ungdomar och ett välförtjänt blått bälte till Malin. En bra termin till ända.   
+date:   2024-12-03 21:13:35 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2024-12-03_21-13-35_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-12-03_21-13-35_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DDIYHzmRUGc
+---
+Terminsavslutning med nya bälten till några av våra duktiga ungdomar och ett välförtjänt blått bälte till Malin. En bra termin till ända. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-12-03_21-13-35_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-12-03_21-13-35_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-12-03_21-13-35_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-12-03_21-13-35_UTC_4.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

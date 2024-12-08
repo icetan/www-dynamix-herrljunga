@@ -1,0 +1,21 @@
+---
+layout: post
+title: |
+  Sportju-jutsu gänget iväg på Wermland Ju-jitsu open
+excerpt: |
+  Sportju-jutsu gänget iväg på Wermland Ju-jitsu open. Medaljer och bra jobbat av samtliga men guld (som vanligt) till Patrik Fondin som dammat av sin gamla gi och vann i stor stil! Grymt jobbat!  
+date:   2024-12-03 21:10:46 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2024-12-03_21-10-46_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-12-03_21-10-46_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DDIXzJORZWG
+---
+Sportju-jutsu gänget iväg på Wermland Ju-jitsu open. Medaljer och bra jobbat av samtliga men guld (som vanligt) till Patrik Fondin som dammat av sin gamla gi och vann i stor stil! Grymt jobbat! [#sportjujutsu](https://www.instagram.com/explore/tags/sportjujutsu/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-12-03_21-10-46_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-12-03_21-10-46_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
