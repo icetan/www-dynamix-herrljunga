@@ -1,0 +1,24 @@
+---
+layout: post
+title: |
+  Installation av en bättre begagnad matta i vår dojo
+excerpt: |
+  Installation av en bättre begagnad matta i vår dojo. Tack @nackadojo . Vi passade även på att sortera vår kakförsäljning. Tack alla som stöttat!    
+date:   2024-12-15 11:30:03 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2024-12-15_11-30-03_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2024-12-15_11-30-03_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DDmO4bit36m
+---
+Installation av en bättre begagnad matta i vår dojo. Tack [@nackadojo](https://www.instagram.com/nackadojo/) . Vi passade även på att sortera vår kakförsäljning. Tack alla som stöttat! [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#sjj](https://www.instagram.com/explore/tags/sjj/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-12-15_11-30-03_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-12-15_11-30-03_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2024-12-15_11-30-03_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
