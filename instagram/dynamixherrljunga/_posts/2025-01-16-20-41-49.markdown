@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Första veckan på terminen avslutas med Bjj-torsdag
+excerpt: |
+  Första veckan på terminen avslutas med Bjj-torsdag.   
+date:   2025-01-16 20:41:49 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-01-16_20-41-49_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-01-16_20-41-49_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DE5ndmfxSHh
+---
+Första veckan på terminen avslutas med Bjj-torsdag. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-01-16_20-41-49_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

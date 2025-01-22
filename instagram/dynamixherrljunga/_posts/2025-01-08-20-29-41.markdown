@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Måndag vecka 3 börjar vi vårterminen
+excerpt: |
+  Måndag vecka 3 börjar vi vårterminen. Välkomna!    
+date:   2025-01-08 20:29:41 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-01-08_20-29-41_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-01-08_20-29-41_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DEk_tzSRDMV
+---
+Måndag vecka 3 börjar vi vårterminen. Välkomna! [#bjj](https://www.instagram.com/explore/tags/bjj/) [#sjj](https://www.instagram.com/explore/tags/sjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-01-08_20-29-41_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

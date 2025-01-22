@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Idag var det nybörjarstart för barngruppen
+excerpt: |
+  Idag var det nybörjarstart för barngruppen. 30 barn på mattan. Fantastiskt.   
+date:   2025-01-20 19:58:50 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-01-20_19-58-50_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-01-20_19-58-50_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DFD1uShxbt4
+---
+Idag var det nybörjarstart för barngruppen. 30 barn på mattan. Fantastiskt. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-01-20_19-58-50_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
