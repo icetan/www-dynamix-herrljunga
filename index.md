@@ -1,6 +1,6 @@
 ---
 layout: home
-background: /instagram/dynamixherrljunga/2024-01-15_21-20-53_UTC_1.jpg
+background: /instagram/dynamixherrljunga/2025-03-27_20-39-53_UTC.jpg
 ---
 
 **Adress till vår träningslokal:** Sveagatan 3, 524 31 Herrljunga
