@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Kvällens teknik "Mermaid sweep" med Matilda och Pelle
+excerpt: |
+  Kvällens teknik "Mermaid sweep" med Matilda och Pelle. Snyggt jobbat!     
+date:   2025-02-20 21:40:23 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-02-20_21-40-23_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-02-20_21-40-23_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DGT1y_Psv9C
+---
+Kvällens teknik "Mermaid sweep" med Matilda och Pelle. Snyggt jobbat! [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#mermaidsweep](https://www.instagram.com/explore/tags/mermaidsweep/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-02-20_21-40-23_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

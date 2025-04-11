@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  SM guld till vår "still going strong" @patrikfondin 👍👍
+excerpt: |
+  SM guld till vår "still going strong" @patrikfondin 👍👍
+date:   2025-04-05 17:06:24 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-04-05_17-06-24_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-04-05_17-06-24_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DIEpm_nMYDG
+---
+SM guld till vår "still going strong" [@patrikfondin](https://www.instagram.com/patrikfondin/) 👍👍
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-04-05_17-06-24_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

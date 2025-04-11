@@ -1,0 +1,27 @@
+---
+layout: post
+title: |
+  Idag har vi tejpat och förseglat den nya mattan så nu har vi en helt sömlös matta som är redo för terminen
+excerpt: |
+  Idag har vi tejpat och förseglat den nya mattan så nu har vi en helt sömlös matta som är redo för terminen.    
+date:   2025-02-01 20:35:14 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-02-01_20-35-14_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-02-01_20-35-14_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DFizbezMp8D
+---
+Idag har vi tejpat och förseglat den nya mattan så nu har vi en helt sömlös matta som är redo för terminen. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#sportjujutsu](https://www.instagram.com/explore/tags/sportjujutsu/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-02-01_20-35-14_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-02-01_20-35-14_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-02-01_20-35-14_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-02-01_20-35-14_UTC_4.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
