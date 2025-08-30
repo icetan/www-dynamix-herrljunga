@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Fullt ös på måndagar och torsdagar 19
+excerpt: |
+  Fullt ös på måndagar och torsdagar 19.00.    
+date:   2025-05-08 19:23:45 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-05-08_19-23-45_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-05-08_19-23-45_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DJZ3j2AolTS
+---
+Fullt ös på måndagar och torsdagar 19.00. [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamix](https://www.instagram.com/explore/tags/dynamix/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-05-08_19-23-45_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

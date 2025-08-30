@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Sommarträning ur grodperspektiv med finbesök av @fars4n 
+excerpt: |
+  Sommarträning ur grodperspektiv med finbesök av @fars4n   
+date:   2025-06-16 18:13:52 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-06-16_18-13-52_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-06-16_18-13-52_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DK-KkGwINC7
+---
+Sommarträning ur grodperspektiv med finbesök av [@fars4n](https://www.instagram.com/fars4n/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-06-16_18-13-52_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

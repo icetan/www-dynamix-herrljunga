@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Level up för Martin som återvänt till mammas gata efter några år i Växjö
+excerpt: |
+  Level up för Martin som återvänt till mammas gata efter några år i Växjö.   
+date:   2025-08-25 18:51:05 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-08-25_18-51-05_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-08-25_18-51-05_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DNyeeAmUDlS
+---
+Level up för Martin som återvänt till mammas gata efter några år i Växjö. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-25_18-51-05_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Välbesökt torsdagspass
+excerpt: |
+  Välbesökt torsdagspass!   
+date:   2025-08-28 18:58:48 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-08-28_18-58-48_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-08-28_18-58-48_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DN6NrcdiG6V
+---
+Välbesökt torsdagspass! [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-28_18-58-48_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

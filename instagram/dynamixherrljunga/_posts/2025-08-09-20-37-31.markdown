@@ -1,0 +1,77 @@
+---
+layout: post
+title: |
+  Summercamp 2025 👊⭐️ Fem stjärnor från Herrljunga lär sig nya tekniker med fantastiska människor och otroligt grymma instruktörer/coacher
+excerpt: |
+  Summercamp 2025 👊⭐️ Fem stjärnor från Herrljunga lär sig nya tekniker med fantastiska människor och otroligt grymma instruktörer/coacher. Fantastiskt roligt och lärorikt!!! 
+   
+date:   2025-08-09 20:37:31 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DNJd7iAIv5d
+---
+Summercamp 2025 👊⭐️ Fem stjärnor från Herrljunga lär sig nya tekniker med fantastiska människor och otroligt grymma instruktörer/coacher. Fantastiskt roligt och lärorikt!!! 
+[#dynamix](https://www.instagram.com/explore/tags/dynamix/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_4.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_5.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_6.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_7.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_8.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_9.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_10.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_11.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_12.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_13.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_14.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_15.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_16.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_17.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_18.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_19.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-09_20-37-31_UTC_20.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

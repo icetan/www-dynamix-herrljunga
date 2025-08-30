@@ -1,0 +1,53 @@
+---
+layout: post
+title: |
+  Summercamp 2025 söndag 👊
+excerpt: |
+  Summercamp 2025 söndag 👊
+  
+  Tack för ett fantastiskt läger 😍 Otroliga instruktörer och deltagare 🙏🏻⭐️
+  
+    
+date:   2025-08-12 17:40:40 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_1.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_1.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DNQ4E50Idp2
+---
+Summercamp 2025 söndag 👊
+
+Tack för ett fantastiskt läger 😍 Otroliga instruktörer och deltagare 🙏🏻⭐️
+
+[#dynamix](https://www.instagram.com/explore/tags/dynamix/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#nackadojo](https://www.instagram.com/explore/tags/nackadojo/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_4.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_5.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_6.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_7.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_8.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_9.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-12_17-40-40_UTC_10.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

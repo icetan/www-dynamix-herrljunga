@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Idag börjar höstterminen
+excerpt: |
+  Idag börjar höstterminen. Välkomna nya som gamla medlemmar!    
+date:   2025-08-25 09:57:36 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-08-25_09-57-36_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-08-25_09-57-36_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DNxhaoA0J09
+---
+Idag börjar höstterminen. Välkomna nya som gamla medlemmar! [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#sjj](https://www.instagram.com/explore/tags/sjj/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-08-25_09-57-36_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
