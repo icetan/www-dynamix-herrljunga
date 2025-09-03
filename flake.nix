@@ -4,15 +4,11 @@
     systems.url = "github:nix-systems/default";
   };
 
-  outputs = { self, nixpkgs, systems, ... } @ inputs:
+  outputs = { nixpkgs, systems, ... }:
     let
       forEachSystem = nixpkgs.lib.genAttrs (import systems);
     in
     {
-      # packages = forEachSystem (system: {
-      #   devenv-up = self.devShells.${system}.default.config.procfileScript;
-      # });
-
       devShells = forEachSystem
         (system:
           let
