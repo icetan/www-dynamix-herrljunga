@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Nytt från denna veckan är att Martin kommer att ha ett pass på tisdagar 18
+excerpt: |
+  Nytt från denna veckan är att Martin kommer att ha ett pass på tisdagar 18.00. Detta gör att det nu finns ett till renodlat BJJ-pass för dem som vill träna lite mer.
+date:   2025-09-02 19:49:23 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-09-02_19-49-23_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-09-02_19-49-23_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DOHLgCHiHWs
+---
+Nytt från denna veckan är att Martin kommer att ha ett pass på tisdagar 18.00. Detta gör att det nu finns ett till renodlat BJJ-pass för dem som vill träna lite mer.
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-09-02_19-49-23_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
