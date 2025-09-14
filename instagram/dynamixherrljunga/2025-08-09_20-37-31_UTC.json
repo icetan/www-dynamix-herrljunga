@@ -1,1 +1,888 @@
-{"node":{"shortcode":"DNJd7iAIv5d"}}
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.11"
+    },
+    "node": {
+        "__typename": "GraphSidecar",
+        "accessibility_caption": "Photo shared by Dynamix Herrljunga on August 09, 2025 tagging @tobnik, and @mboqvist91. May be an image of 3 people, fondue, sushi, chopsticks, buffet and text.",
+        "coauthor_producers": [],
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 810,
+            "width": 1080
+        },
+        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530269888_18522127558048508_1671400841269059728_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=4JSq0DgcE6YQ7kNvwEwIeqN&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4Mzk4NzgxNjg5OA%3D%3D.3-ccb7-5&oh=00_AfacZpzgc56uL-3KKoXFzLv9K6yBVtcAJ7qTE52PhaeKPQ&oe=68C5FE90&_nc_sid=8b3546",
+        "edge_liked_by": {
+            "count": 52
+        },
+        "edge_media_preview_like": {
+            "count": 52
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Summercamp 2025 \ud83d\udc4a\u2b50\ufe0f Fem stj\u00e4rnor fr\u00e5n Herrljunga l\u00e4r sig nya tekniker med fantastiska m\u00e4nniskor och otroligt grymma instrukt\u00f6rer/coacher. Fantastiskt roligt och l\u00e4rorikt!!! \n#dynamix #dynamixherrljunga"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 4
+        },
+        "edge_media_to_tagged_user": {
+            "edges": [
+                {
+                    "node": {
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "Malin Boqvist \ud83c\udf38",
+                            "id": "240213511",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/527000790_18523475794021512_4379481262344601109_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=vbZSHundp5YQ7kNvwHATv0O&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfbSP-nhS1SJIMESO1zzCBvsE69tXl-z7hP1SIBisA0YqQ&oe=68C62205&_nc_sid=8b3546",
+                            "username": "mboqvist91"
+                        },
+                        "x": 0.8575063613,
+                        "y": 0.5113378685000001
+                    }
+                },
+                {
+                    "node": {
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "Tobias Niklasson",
+                            "id": "53618785",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/11274430_387675158083057_4221977_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=opwEizmCsKkQ7kNvwHekcs6&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfbSQU8tYje-mRwEUrl9uW5bwYZrub81otac7cUqSkONMg&oe=68C5FA24&_nc_sid=8b3546",
+                            "username": "tobnik"
+                        },
+                        "x": 0.11789650950000001,
+                        "y": 0.5124716380000001
+                    }
+                }
+            ]
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo shared by Dynamix Herrljunga on August 09, 2025 tagging @tobnik, and @mboqvist91. May be an image of 3 people, fondue, sushi, chopsticks, buffet and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530269888_18522127558048508_1671400841269059728_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=4JSq0DgcE6YQ7kNvwEwIeqN&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4Mzk4NzgxNjg5OA%3D%3D.3-ccb7-5&oh=00_AfacZpzgc56uL-3KKoXFzLv9K6yBVtcAJ7qTE52PhaeKPQ&oe=68C5FE90&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "Malin Boqvist \ud83c\udf38",
+                                            "id": "240213511",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/527000790_18523475794021512_4379481262344601109_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=vbZSHundp5YQ7kNvwHATv0O&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfbSP-nhS1SJIMESO1zzCBvsE69tXl-z7hP1SIBisA0YqQ&oe=68C62205&_nc_sid=8b3546",
+                                            "username": "mboqvist91"
+                                        },
+                                        "x": 0.8575063613,
+                                        "y": 0.5113378685000001
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "user": {
+                                            "followed_by_viewer": false,
+                                            "full_name": "Tobias Niklasson",
+                                            "id": "53618785",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/11274430_387675158083057_4221977_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=opwEizmCsKkQ7kNvwHekcs6&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfbSQU8tYje-mRwEUrl9uW5bwYZrub81otac7cUqSkONMg&oe=68C5FA24&_nc_sid=8b3546",
+                                            "username": "tobnik"
+                                        },
+                                        "x": 0.11789650950000001,
+                                        "y": 0.5124716380000001
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616583987816898",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogssqFNkmNp9T/ACpqbU+Veg4rF+1bgFk529Dyev1qW2uCDz0P3RipLNwPVXUCWhIAycim+eB9B37fTPqO9VLyc4wvr257foKkDNAYjdjj1reislKKT1KjP5VhGXKBB+P0zn9a0xq4HG39f/rVTuGhnm1LIGTknB7CrNsUhBEmCD6E5/LpUcTpsw4PHvgUssqMu1MDn26Une9h6WuWRdoECljk9wMkDPQ9B09KjnmEg+Qbhzn5SOfXPTPtUD3LSAKdoAx0x24/D39amS6BJ3dwOAB159/Sh6CRR8sbS+4Edv8A6/of0qtipZFUudnTNHlH2/OqJZ//2Q==",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7PyounC"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 4 people and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530280640_18522127633048508_1095740749370454919_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=mJEE94k-KdMQ7kNvwGblI2g&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4Mzk4Nzc1MzU3Nw%3D%3D.3-ccb7-5&oh=00_AfYzF3hLBtOM86oEKJIWCKAyq02JXqL6Bura1wvNAqa8Ww&oe=68C5FC4E&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616583987753577",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogv277ULEAkcHHX8fX39PeoLqXOO59veqEd3t/Gq5uyckKSAeeuOvesk5PToOxowSgOA3I6j61pSuNmRxWJbkyjcB0Jz/P61Zju1KHIY844AOfrzxjvmk+azitgt1ElJXrmqO4/wB3NXGcyDjoBg1Fj61mtNGJoaIYk9ZD+QqlcoyMeysN2B09MVrrHiorlC6EDn/Hjp9eh9a6h3bIbJZGidVYLzx9e/I5GabJYSKMpyD1AwCPXr1BrRgi2lj03EH9AKsMcCgEQ6dIvlbMYZMbhjue/v8AWr22M9l/IVlxBo53kHKkqpA7Bhnd+B6+xPpWnxRYVz//2Q==",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7PyofJp"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 4 people and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/529151251_18522127645048508_2264747010035459840_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=jWaLzlYhay8Q7kNvwFfwFba&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4Mzk4NzcxNDExOA%3D%3D.3-ccb7-5&oh=00_AfZ7MrHCDSVOIk4NdbdkLloBZk_qpVOZV48jXwqq1IMg-w&oe=68C5FC3D&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616583987714118",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogbA0O3cRljwccD8vf1qzd7MAjnjr9P5mspJREePxxThcCRiOfYD9ffrWd3t0CxoW0o3c9ulXLh8Abe/51ixvhjww287j6D6f54qyL2No+SQwIwOO4yDyen+fepfNblWw7dSGeTGQe/Yf5/Oqu9vQ/5/Grr5kO7BAbpketQ8jipWiExPKjBy+Sx/hHA/E1AVYTYjG0kZPoPcen/wCur8cRPJ/M1KsA3Fj1OBjtgZ/zjpXQBnRxESFY2Kq25RnJ6AMfwPTipXsNsYbowznuMAfhzx1rTSBQd3fOfz61K4yMGgBtnc/aIwxGMcevSrWxPQflVW2iWFdi5xkn8+as5FFkFz//2Q==",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7PyoVhG"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphVideo",
+                        "accessibility_caption": null,
+                        "dash_info": {
+                            "is_dash_eligible": false,
+                            "number_of_qualities": 0,
+                            "video_dash_manifest": null
+                        },
+                        "dimensions": {
+                            "height": 562,
+                            "width": 750
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/529143815_18522127594048508_6091143723860884768_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=u4nhA-pgD8YQ7kNvwENpM1D&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfaPjYUXlXi-zAJTlD7N9s0YqBYs6PTSygixEkAk3obd8A&oe=68C60133&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_audio": false,
+                        "has_upcoming_event": false,
+                        "id": "3695615756921228184",
+                        "is_video": true,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogla2BODEp9xkfyP8ASmNZoBnawx6Nn+YqWedlK4bAyfX+99Kie8kWcIPudSe+M8/QD86QyL7EuOCw+q/4H+lTxqIlwWB5zzkevqD61CNRdpHTGAM4Pfjv07/4VYSVmGWOc5GDz+OeKVhiFd3Ix+BHv70mz1B/KlWQMp4HBPaotx/2f++aVhsneHeOe31+tQtbtu3Zxxj9c96ug1HLH5q7elWQZ8KBJHc5weM4yD0/zmnMWZgD8qg9fUY9OMfr+lRI72zkONw9D/Q9vpVx3hZfMXaCOxXnP4YOfccUhiJBGxBDHI7Zx+Yqf7OPeqSXG/5Sm/8AEn9TnH51Ltf+43/fZpAf/9k=",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJdvNhoEuY",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYTMxYzExYmY2YTQ4NGE1MWJlOTY3NmE4YzdlN2Q1ZDQzNjk1NjE1NzU2OTIxMjI4MTg0In0sInNpZ25hdHVyZSI6IiJ9",
+                        "video_url": "https://scontent-cph2-1.cdninstagram.com/o1/v/t16/f2/m84/AQMsEq2Pnj6li8ulCCzG51nLP-wB82ausZnAhtscnKI0ybXCp_nOCgYv8PuHXSdbRu_9SOBde6VJf2kSwR3pgC53MCzdg9KIGIu4ers.mp4?stp=dst-mp4&efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLmNhcm91c2VsX2l0ZW0uYzIuOTYwLmJhc2VsaW5lIn0&_nc_cat=103&vs=24079524155031397_3434479688&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8xNDQyOTExRTg3MkEyQ0ZEMjlBRTI3RDhDQ0Y0NTM4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsAFQAAJoa18Zvx%2FJBAFQIoAkMzLBdAIszMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB17gdlxJ4BAA%3D%3D&ccb=9-4&oh=00_AfbdyvpYJy0hefTvwxhJIWoyOl8DiXV2tkj-3NHr3J0fxw&oe=68C218CE&_nc_sid=8b3546",
+                        "video_view_count": 60
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 2 people and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/529218087_18522127666048508_2028284765794936503_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=jgYZjWLHlx8Q7kNvwHPfN1V&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDAwNDUxMzUyOA%3D%3D.3-ccb7-5&oh=00_AfaehqwGGM37LcoYhcQzLSblMRTiPS5HQher4LmK2V1AUA&oe=68C61258&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584004513528",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogr2lyUyp5XH8un/6qd9tfORgj0/z/ADqjGN1TCI54GenrwfTp9aE29E9hcvUsG8Z+nH05qCa5MmM0n2aQD5VYg8Z569PSomt3jAZ1YDOOeP1I7+9J36sEie1uPKJz0PX/AOt/nmtobiMhTg/T/Gs0WS7Udc5YZIJBGfy6VpiRscKB7f5FCk0gcbmYjRNIECKo6bs5APX0HPbFXwI4gTnnuAOh7ceuM8+hqEqpOcAn1xUgz2o06fmUV5ZbjdiLJTC84x7nBOM+/wCVRut1KDuIGe34g8dfTir+KOKAKMFvJERlsqBjHP8AnrVrb9akzRSA/9k=",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7Pzoa74"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 11 people, people performing martial arts and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/527592939_18522127678048508_5228325606636545077_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=kESYlhxLCN0Q7kNvwFqgGay&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDAxMjkwOTA3NA%3D%3D.3-ccb7-5&oh=00_AfbKBixWmgbybhBLY3YloI3OG_-6BUdmatpXBv5-mNdsog&oe=68C602E2&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584012909074",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogjSQqecEHoP0/z/So2y+T09OeD2//AF1IbQxAF22hsZ469zj6e/59qrpEWIwRknHP+fesOW2oWJlXb/CSPf8AXFDAfezwPpn9KZHFt6tlsHAzxkHGOf5+1WFgdzlNpDd8jrjkcf4fSlsFhVbZjPzKf1+vvTTIc8MQPTnj9aiQPuwQcg47469qYyJk/u5evoK1WgrGjfyCQqSp+UkBfU/h+fbisooOH5IZsAA459Mk5445x+NdUyhs7gASMZzz07f41ztzFIJDztQsWBA6DjBx6cdOvBxVeRXyIWiPCEc/N3z05b8fT16VNasYJFO75SAxHXjGfbGemfwqv5ZK7yw4baSDnr3Hr396Rl3IGLZAO0+3ofce3FIo6AfMMgkg5Oc/5+lM2N6n8zVawkWM+QxOeo7jOBkZ/WtPI9T+VJ+RNj//2Q==",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7P0IcoS"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 11 people, people performing martial arts, people standing and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530675632_18522127702048508_1219900960485759218_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=zjrsrNpC2zkQ7kNvwGKYsjn&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4Mzk5NjE3ODY3Mg%3D%3D.3-ccb7-5&oh=00_AfbsntrfSiVPTMP5IcXTEdQu6IJJV6IzQilwtLo7BlQSFw&oe=68C61786&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616583996178672",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogzo2KnI6/41qfbD5YPRjxn/61Y0eScHj+VaKWUrrlR2yO306+3P5UldbE2uS/bWXggH3pv2llOSev5cen+eagng8pgkhGeCPXn8McmoJCGwS2B3/Ent+FTeXdj5RzSbz0/wA+1N3H/Jq1a20UxI3nOM44/PnNWzpqA9T+n+FTcqxWuFhWPCKFPb5gf0BNX4pf3YBbHygcE+nt+WPx60ojQdAB+AqQEVrd2sLrcx72FppNyDI2gdD1/Gq/2KcjhcH8q6HdRk0hmZZW0sLlmGPlx29a0tzev8qQOG7/AIU7FJoD/9k=",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7PzIoDw"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphVideo",
+                        "accessibility_caption": null,
+                        "dash_info": {
+                            "is_dash_eligible": false,
+                            "number_of_qualities": 0,
+                            "video_dash_manifest": null
+                        },
+                        "dimensions": {
+                            "height": 562,
+                            "width": 750
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530640784_18522127585048508_1093087749951306584_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=-cdmE-QPHdQQ7kNvwF9SOvr&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfaFHMc40ceDU0WD2TOfujsTWT1nVi4Kfn6KfEGAS-hWxw&oe=68C5F50C&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_audio": false,
+                        "has_upcoming_event": false,
+                        "id": "3695615741092081852",
+                        "is_video": true,
+                        "media_overlay_info": null,
+                        "media_preview": "ACog0ZbUScg9s/j/AF/n71lPp754waZaTSyqewHGR/n071K91JEdpXJGOuOc8f5xSGNS2eEHd0bA+uOalSLd7Y6k9BSSSyKyhhhfmJ49OwojuY7hmGOFx+Ofp+VAAZkgyFBlkPIAGB+f/wBaqx1Wb/nmP1rT2qpwox2P0qDcvpQBDHqKI+Au1WY7j7Hoce38qju4ZLiXehGzGFI9vX8c1S+zMG2Hrxz2C/4mtyM5AHTFVJroJX6lW6tvOCliQVGOO/rWc0ckDgx5K5B/+sfrW5J0qmRn8Of8+v0qRluSZfuqQWYfkPT6mqdWbiNJT8wyRjnofYZH+c1RNuP7z/8AfVAH/9k=",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJdu-yIrC8",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYTMxYzExYmY2YTQ4NGE1MWJlOTY3NmE4YzdlN2Q1ZDQzNjk1NjE1NzQxMDkyMDgxODUyIn0sInNpZ25hdHVyZSI6IiJ9",
+                        "video_url": "https://scontent-cph2-1.cdninstagram.com/o1/v/t16/f2/m84/AQMvPn1zKZEaRob4O1DSmJACEp6Yd6KmJ1AdwMN3Jb3Mvr29U9kC9zYz9vs3GF5fUazosEjDodCEec_Ms2LnlHDY0839YK0B0lDPplA.mp4?stp=dst-mp4&efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLmNhcm91c2VsX2l0ZW0uYzIuOTYwLmJhc2VsaW5lIn0&_nc_cat=105&vs=1813140232650616_681333495&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9FQzQ5ODJFNDMzNzIxRTk1RDQzQkU1NUE1QTdGOTU5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsAFQAAJrKA1eKisss%2FFQIoAkMzLBdAJAAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB17gdlxJ4BAA%3D%3D&ccb=9-4&oh=00_AfY4p9lOArL3yWvgrxynVYrwidmeclvrkNOGIqLGG0HKAw&oe=68C21B98&_nc_sid=8b3546",
+                        "video_view_count": 32
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 8 people, people performing martial arts, mat, belt and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/528969267_18522127705048508_4677448732760855335_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=KF3BdCOjeDcQ7kNvwFQB0-N&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4Mzk5NjAyNzA1MA%3D%3D.3-ccb7-5&oh=00_AfbWC_o8Feqcc0aUIoh1SLlzGxYSqqWFKDNCsd11wrkCAQ&oe=68C5F574&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616583996027050",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACog0XtwzADgHPB5GeMYz0/CqzWpGe+Mfr/nv+dQS3nl8g5IyeDSx6jknqenUfjSGU5YGz0NPt4mQkkYBXHI9xV43fPzDkngDv8ASo57kqvQn5gMfyz+NAgVc8VN9nb2oV1bpwRwfYf5FL5C+/6f4UAcxkZGTkHqK6O2ijceaFxkAZznjHtx9axbq3W2cbctxn5sYJ/D+Va+nnEYHY5PP+A6D05rR23JKF3Kz3AjwMKwA7ccZ/8A11evUkYDysYByc9/T8qtvGrHJAJ9xSP0rMswGUwAmTJZ/fgEd81ALtwMZPFbcsayrhhkVnGKD+6/5GmB/9k=",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7PzIDCq"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphVideo",
+                        "accessibility_caption": null,
+                        "dash_info": {
+                            "is_dash_eligible": false,
+                            "number_of_qualities": 0,
+                            "video_dash_manifest": null
+                        },
+                        "dimensions": {
+                            "height": 562,
+                            "width": 750
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530231863_18522127576048508_5570476536489987579_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=Yq4w3RuxwkMQ7kNvwGd1P7N&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfZXpOl5eMvEqaKVErdGk0p_aOCOAldSAzz7QCmRYyfAVw&oe=68C6226A&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_audio": false,
+                        "has_upcoming_event": false,
+                        "id": "3695615728064639084",
+                        "is_video": true,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogulzGM9sg/kasrIJ1PY9x6cYyD/I1jy3YT5ZOnrjj8xTYr0MW2HaT0/xpDNJ7ZSuCTgEnr647/hUBtYx1J/76NLHJuG5gCuBj3PQn8aoG/wAnC4J7fKP8P6UAXRZRH/8AXUTRQKSMDjj/ADzUkUzMu5gACOOB61N8h5x/6D/hRYRnXcyxrtIyG4x/Wsu0iMjFgcBPmJPp3q9cwNPyO1TabB5UkiEZBUDJ9+opjJrUmcAnIUEjaMY6evU/jUNvZmInIBIbrkjjAwRWjtCEBAAo7Cnk0AQFOff60BCBjA49zUhpKBH/2Q==",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJduypo7Bs",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYTMxYzExYmY2YTQ4NGE1MWJlOTY3NmE4YzdlN2Q1ZDQzNjk1NjE1NzI4MDY0NjM5MDg0In0sInNpZ25hdHVyZSI6IiJ9",
+                        "video_url": "https://scontent-cph2-1.cdninstagram.com/o1/v/t16/f2/m84/AQMjGJs4orK_ao9O-nV9WJAqOB3LJ9Y3lJtNHROlYU2lsPk5IlpRLlEY84FsLSWbbCDiCmD-UM56XEjyCXhzqqY9VSKUYIct2E5ZJ4A.mp4?stp=dst-mp4&efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLmNhcm91c2VsX2l0ZW0uYzIuOTYwLmJhc2VsaW5lIn0&_nc_cat=111&vs=3842493596050922_172117597&_nc_vs=HBkcFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC81NTQ0QzNBM0FERDhGMDJBNjcyNDVCNjU0RjY4RkFCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsAFQAAJs708KDk9aRAFQIoAkMzLBdALogxJul41RgSZGFzaF9iYXNlbGluZV8xX3YxEQB17gdlxJ4BAA%3D%3D&ccb=9-4&oh=00_Afbz7Mh6Y8DwtuLODrUckWXtmyf4LQL5fGUX-YRSEihwAA&oe=68C212ED&_nc_sid=8b3546",
+                        "video_view_count": 36
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 7 people, belt and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530220410_18522127714048508_4340812489358830837_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=lVLRa5J_hT4Q7kNvwGTkUqK&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDAwNDYxOTA1OQ%3D%3D.3-ccb7-5&oh=00_AfZaJT846D-XyLI1WW8eJkQa37VttjztyRak5Rsgf4XtKw&oe=68C5F74A&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584004619059",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogna/kQZI/NSP8+p9Dx70w6jJnGwe3B/z/AIVVvrsuihTgOevoKZb3pUqDznjJ69eOn5d80Wb2HdF1NRJGSg98ZHb9P8jtSi+EoI8rIxk/MP8ACob22JDrGcGNd5HqGzkfzNTQWAiiGzl2xuznuO2PTNQVoQSzAj5ImVj3yMfnVMzPn7p/P/69QXeIZGjQlkUnGeef896RXbAqkm9ibrqTXIIj/ED6VHDhZELdAwz+Bq+Y9ylT0PWqYiY9v4jzWkXoyWjcnkCqXO4oUyenQ5GM/jwKdZ7mijYMRuGG/LjrxxjHTJ9aryYNuRnJKKu33BPNTW52eUvYIzfy/wATWZRzVxtDMOS284PbGTnPfJqDefU1o/ZS3zN1OTgdOaT7O3bGPoapPzCx/9k=",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7Pzo0sz"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 6 people, belt and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530923127_18522127723048508_5935867634760593111_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=mUlMtvIcUe8Q7kNvwFFWWof&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDAxMjgzMTczOA%3D%3D.3-ccb7-5&oh=00_AfbAui9S34g9RPO0_K7TpiFl5QzuMCbue1vXhhZbXUZS0Q&oe=68C60FCA&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584012831738",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogseW7NtAI98cCpUtWbOT0OOlOgvRJGxLAlM57ceuOmM1StdR3fIBuwScngkdv8nmpKND7Ki/eP5mnbYU4yM/5NZEs6s5JbYSRwecDjk9ePbrx7Ux5Y4xjeGwRyoz7jvzzzk/j6UAbQKSHCcnr0I4qTyq5uK5V2VTnJzn6n+WfbinmYKceYwxxj5uPakVbzKiMyk7e64I65B/zmp9Ni3zEuOBz+JIA4/GqhYKPlJ+YAHjv1x/9erWnOxdo14LgYP8AunNay3M0XNTtUVDIowykfiCcfp2rHjmMYJABLAgH0z3rY1MssZGdwfByTzwegxx9ay/PJG1gCMAdOn0PrUoZAGxgjgg9f5UxiWJJ5JOasQMVBTIxIMHPOMe38jTTDg8EH3z1oCx//9k=",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7P0IJv6"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 2 people, blonde hair and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/529805311_18522127735048508_3902803963381284451_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=Otae59ShJ9AQ7kNvwErW314&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDAwNDQ2NDAwOQ%3D%3D.3-ccb7-5&oh=00_AfZyXmaxgh8UI7BqehNPh-c-BDM08vDS1UiYFkzaYuYVHg&oe=68C614C6&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584004464009",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACog3MY6UtRmQduao3ty6KFXgt/KkBpZFQyTonU1gCKYfOCQa2bONWjDkDcep6nI+uaV7lNNbh5zyf6tTj1PA/M/4UoSU87l/I/41bphQUySEkL1IH1qtdqCoYdj+hqBSCN78k+tI+ASo/iHT37Ur30NOW3vXDcWGBx9au2ZIyvYc/iev51lxyhzgnleDRNcPCBJEcDOD7j/APXUrcuTujoKK5s6rJn0/H/61S/2u3+V/wDr1Zgf/9k=",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7PzoO2J"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 8 people, people performing martial arts, mat, belt and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/528686725_18522127756048508_3273700619509393756_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=mURZiSABb5gQ7kNvwEv_Ay-&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDAwNDQzNDczOQ%3D%3D.3-ccb7-5&oh=00_AfZ9nOsLYk1ghp903alGCtQFvYJfAp8XyoKxOSmv7F2ywg&oe=68C60B71&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584004434739",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACog0Jpmxg8gkfzpfMY9SaxmJb14OetU47h/n3dskfnU2GaF3dTJJtToAD0z9ea0gwx1H51iW8u+PLfeB+g6cZP61GJiIt/VySPoB3x+nNFgN9nXHUfnSbx6j8xWHLPtVcDDEZI/p9Kb57nnA/Mf40+ULmp9kI6GqhsHBYjHzVs5ooAwvs0qRCMDndknNVjBIsewg/ez+ldNijYKAOYm3PtyMcY6UnlL7105iB7U37OvpTuxH//Z",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7PzoHsz"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 8 people, people performing martial arts, mat, belt and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/529963588_18522127765048508_6308753604843427790_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=SJUWRZXWnyUQ7kNvwFweTqA&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDAwNDU4Njg5NQ%3D%3D.3-ccb7-5&oh=00_AfYbKZka0XWVnQF0A8Dy7QZ_Ux9ir_tHyYdocsls0B4Vjg&oe=68C60D27&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584004586895",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACog2YrqN87TuwcHHr+NNeYFlI6jPX6VjW7CBm2jqe5q2CWJkPpx6A4zx9cc1Iy+ZXPtWPNfyrMUwMBsZ6nH58VUfVmOduRyMdOnerKyo+CSQzjLHsOOmfX6/l0oA2cgdSBSeYnqPzrmTeMRxydxH4dv8+1a6quB/jRYdyn5bk/dP5VYTABUj+E8e+OOPXFaqoo//WaXaPSmI417dxnCt1wPl7VoEYRFAPCkdDwT/X0rosCjAoA4wowUHByGz0PNaIuGx0/nXRbRS7B6UxH/2Q==",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7Pzos2P"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 3 people, belt and text that says 'Tat JR E ES VII AIII NACKA DO SINCE SINCE1982 1982 169'.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530224597_18522127774048508_5810013118850883260_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=ELUd7W3PuvAQ7kNvwFjX8AH&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDM1Njc0OTcwOA%3D%3D.3-ccb7-5&oh=00_AfbDMbpG5WeTWQHrInNekTZy9j-kszBo5qJm6jTKqqr1mQ&oe=68C6236F&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584356749708",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACog055FyuTjDE1N56evWs9ws3r8p9x/+sUy8hbydwyCAc4PQYJBz7HGfrU2GaIukPIyaBdKTtAORXKpdsD8vyrgcdRkDk/ieaalzJ5wYE5LDv2J6fSny9QudZKwkUoRgMMVQ+xL6mq3zFnO9kxJtX+6CfX0HanCC4xyz578igC3uplwFkhkZvvAYHUduM88/jWl5YqJ4AwK9j1oA49Eyu7tnH9anthtmGQMbgM9wSMj+VdCmmxKuzHHWkbTY+NvykMrf98//W4qr6WFYpz2xJLIA245IJPX25x+fPvThHOBj5B+L/41r+SvpR5Q9KkZ/9k=",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7QIoGGM"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 3 people, belt and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/529023798_18522127786048508_2998670621668587603_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=u6jgkEL_DJwQ7kNvwHGaDvv&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4Mzk5NjAyNzIwMQ%3D%3D.3-ccb7-5&oh=00_AfZcvLoUrYRW2Gcg-NNvI2jWqgLqGV4hElddGKFVFRvkhg&oe=68C5FF69&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616583996027201",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACog3qWofN9qa1wFGSKzKLFJUInBGQOtMa6CnaR149uelAFmkqPzT6UnmH2p2AqT3CwAbup6D/PQVki8a5cqSFABIHUHAzz65ApuobjKxPRcD8KzF4NVYb00RtLfoUGCRheR78fgTVeW/LPuTgDgH1x3I/pWcqtyRzTSNvFFkTdm+uol4t6gBgwBHbkZyKlFxcH/AJZH8jWLACIj6FgPxwa6oTRgY3L+YoA//9k=",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7PzIDFB"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 5 people and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/529119432_18522127804048508_8760621312830794804_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=8JuG82rf6p4Q7kNvwEZoQTR&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDA3MTYxOTI3Nw%3D%3D.3-ccb7-5&oh=00_AfYAMQtG_G5nMa5n5-m7Ab6k0gDD0GHW83fQ1UVoagvC9A&oe=68C616E0&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584071619277",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogzhC5wSCPr/OrUUQUhiSSCDwKmSBGQxsxY5yOTx6AdTkCqazyEsnBK9SO46H8R/Q1nY0tY6FmDDI5zVZ6oR3OGCsdgAxtOOecZB9u46/WrhIPQ1ZLVgZsAk09dPBALEgnr9e9V1nRmXkFd2D+Hc+1afnxf31/76H+NAtjNdV69COmKrANEd6cknpjr6//AFqeWxwaQyEgD06f59fekNOxlTgiT5s7s859atJOWbB6E46460kiKXycg9seuR/9enO3ZuTnII4wehJHfNALuRS2vzbYM8noeo/+t6HpWyNLt8cg5+tNW5ZOCAwHHHDYHT61B/aY/uNQDP/Z",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7P3oaLN"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 3 people and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530231861_18522127816048508_9185739398749641612_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=OAJWizycUdAQ7kNvwHfRWK0&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDAwNDQ0ODY5NA%3D%3D.3-ccb7-5&oh=00_AfbgumNYJ74bevz6vmJJT-6azgAF0RnPZcCNKGOwNzrp_w&oe=68C61CEF&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584004448694",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogzGtJHHYHv1/rWjpKNESGx1z+nP8AKqDxFOvGTVqK6XbsPA249M9iB+HI9/WkxpXJroR+ZuOz5uerevfH9KqqyqBv2ng4DE/3m6Y+n61PPA7sPLw6AcHp+WOtQyQmJlzhgF7Z6g5PXp1/GoTRo426k0ThyoUIMsOFyTjPqeKvlSxzjrzUFqDISVHB5GOnA7e9Tm82fLnGOPyouyWjHu3wR3602CEXA+Y4WPpxgkk56mnsqn73+NER8xtoGQOnYgVpvsRexpKqjp26YPtz/hTHjAQk/OOpXnPJqMnaMPgY9hUaMWBVRtycqTx+X1/xrKxpcuWdzCnDFU28Yz09se1VHyWJAUgk1nvDJvLDByfXHP41Z3sOqnP0qyT/2Q==",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7PzoLG2"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Dynamix Herrljunga on August 09, 2025. May be an image of 1 person, pizza and text.",
+                        "dimensions": {
+                            "height": 810,
+                            "width": 1080
+                        },
+                        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530173977_18522127825048508_8095526638607129152_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=J-GT9jm9us4Q7kNvwGFKU9u&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4NDAwNDU4NDU0NA%3D%3D.3-ccb7-5&oh=00_AfbhVk49FBi1YYoLkWchDOkP0cBK13miO2SW_f5d6DZMXg&oe=68C604E7&_nc_sid=8b3546",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "has_upcoming_event": false,
+                        "id": "3695616584004584544",
+                        "is_video": false,
+                        "media_overlay_info": null,
+                        "media_preview": "ACogsDPakKsegp+3jK4IxnqOaZsY8NxnBB9Mdsd/r/hU833FcunmQFHznH0qnMrSfKBluuPpXQBeODnPXvx+HNU5GZiSBtC8Ejtjt+FJuyvuxJXZiSs75Hl7S5GT0HB7Cj7CfU/lWuCCD3x1FIEOP/rVEZt7qxco+YwSKpIUYye39B+vYe1WIlwuT1781i7HGXlGPTH+Ip4upl65x23U3G+3UadtzZYnqDjHf+n1qurE8EdTk9aqRXxVgX5AOSPXj1q1DKkhJBHJ9+PYD+tFuVDT5mTcAeg4z/Wjzoxxn9GoJ2n0A6//AK6qGVs8Yx2qYu19LjlFd7H/2Q==",
+                        "owner": {
+                            "id": "804400507",
+                            "username": "dynamixherrljunga"
+                        },
+                        "sharing_friction_info": {
+                            "bloks_app_url": null,
+                            "should_have_sharing_friction": false
+                        },
+                        "shortcode": "DNJd7PzosRg"
+                    }
+                }
+            ]
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_upcoming_event": false,
+        "id": "3695616603541667421",
+        "is_video": false,
+        "like_and_view_counts_disabled": false,
+        "location": {
+            "has_public_page": true,
+            "id": "612156217",
+            "name": "Nacka Dojo",
+            "slug": "nacka-dojo"
+        },
+        "media_overlay_info": null,
+        "media_preview": null,
+        "nft_asset_info": null,
+        "owner": {
+            "ai_agent_owner_username": null,
+            "ai_agent_type": null,
+            "bio_links": [
+                {
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fwww.dynamixherrljunga.se%2F&e=AT1YX409J-gzmQiCnMZVjUbCCT_v2jlNgN6-3slkCnl9k4TI2ynv7g4m02DCxW9hJh1RF51mDMcE1u225za5h9efhK4hPLmf",
+                    "title": "",
+                    "url": "http://www.dynamixherrljunga.se/"
+                }
+            ],
+            "biography": "Kampsportf\u00f6rening i Herrljunga. Sysslar med BJJ och SJJ.",
+            "biography_with_entities": {
+                "entities": [],
+                "raw_text": "Kampsportf\u00f6rening i Herrljunga. Sysslar med BJJ och SJJ."
+            },
+            "blocked_by_viewer": false,
+            "business_address_json": "{\"city_name\": null, \"city_id\": null, \"latitude\": null, \"longitude\": null, \"street_address\": null, \"zip_code\": null}",
+            "business_category_name": null,
+            "business_contact_method": "UNKNOWN",
+            "business_email": null,
+            "business_phone_number": null,
+            "category_enum": "ACTIVITY_GENERAL",
+            "category_name": null,
+            "country_block": false,
+            "edge_follow": {
+                "count": 667
+            },
+            "edge_followed_by": {
+                "count": 670
+            },
+            "edge_mutual_followed_by": {
+                "count": 0,
+                "edges": []
+            },
+            "edge_related_profiles": {
+                "edges": []
+            },
+            "eimu_id": "119950199392650",
+            "external_url": "http://www.dynamixherrljunga.se/",
+            "external_url_linkshimmed": "https://l.instagram.com/?u=http%3A%2F%2Fwww.dynamixherrljunga.se%2F&e=AT1uYIbOFtEmi412X37ktmEdO3GoTJ79agCEdnns8CxUsJQ359-xSqoOKy4p_uVfM7AYXCTEE736f62rLbqmW9e4RjRiPhi6",
+            "fb_profile_biolink": null,
+            "fbid": "17841401455222568",
+            "followed_by_viewer": false,
+            "follows_viewer": false,
+            "full_name": "Dynamix Herrljunga",
+            "group_metadata": null,
+            "guardian_id": null,
+            "has_ar_effects": false,
+            "has_blocked_viewer": false,
+            "has_channel": false,
+            "has_clips": true,
+            "has_guides": false,
+            "has_onboarded_to_text_post_app": false,
+            "has_requested_viewer": false,
+            "hide_like_and_view_counts": false,
+            "highlight_reel_count": 0,
+            "id": "804400507",
+            "is_business_account": true,
+            "is_embeds_disabled": false,
+            "is_guardian_of_viewer": false,
+            "is_joined_recently": false,
+            "is_private": false,
+            "is_professional_account": true,
+            "is_regulated_c18": false,
+            "is_supervised_by_viewer": false,
+            "is_supervised_user": false,
+            "is_supervision_enabled": false,
+            "is_verified": false,
+            "is_verified_by_mv4b": false,
+            "overall_category_name": null,
+            "pinned_channels_list_count": 0,
+            "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/28157412_174230413217000_3883626531326525440_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=eQSuXUhI_6gQ7kNvwFiMBSS&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfYAVRYhxSyoUTG8CPJ7VW170mrS7s6ZBrfsCeXT6I75Ew&oe=68C613B4&_nc_sid=8b3546",
+            "profile_pic_url_hd": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/28157412_174230413217000_3883626531326525440_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=eQSuXUhI_6gQ7kNvwFiMBSS&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfZLU-M6PtEE9ezH9SD1pj225VN6do360NVhXeb5nao9rw&oe=68C613B4&_nc_sid=8b3546",
+            "pronouns": [],
+            "remove_message_entrypoint": false,
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "should_show_category": true,
+            "should_show_public_contacts": true,
+            "show_account_transparency_details": true,
+            "show_text_post_app_badge": null,
+            "transparency_label": null,
+            "transparency_product": null,
+            "username": "dynamixherrljunga"
+        },
+        "pinned_for_users": [],
+        "profile_grid_thumbnail_fitting_style": "UNSET",
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "shortcode": "DNJd7iAIv5d",
+        "taken_at_timestamp": 1754771851,
+        "tall_profile_grid_crop": null,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530269888_18522127558048508_1671400841269059728_n.jpg?se=-1&stp=c180.0.1080.1080a_dst-jpg_e35_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEwODAuaGRyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=4JSq0DgcE6YQ7kNvwEwIeqN&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfZVuk60S3N4QcyVAgYu56Vt4hoir4zUWntCljuI1qyn2w&oe=68C5FE90&_nc_sid=8b3546"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530269888_18522127558048508_1671400841269059728_n.jpg?se=-1&stp=c180.0.1080.1080a_dst-jpg_e35_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEwODAuaGRyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=4JSq0DgcE6YQ7kNvwEwIeqN&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfavBeQ_a0TcrTwyfuWPxxUEvUenTACH0wic_E9Z7oM13A&oe=68C5FE90&_nc_sid=8b3546"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530269888_18522127558048508_1671400841269059728_n.jpg?se=-1&stp=c180.0.1080.1080a_dst-jpg_e35_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEwODAuaGRyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=4JSq0DgcE6YQ7kNvwEwIeqN&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfYm8F1_bbWYqH289FuC0S9E7egfzn5P2F7kH3ks13MBNg&oe=68C5FE90&_nc_sid=8b3546"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530269888_18522127558048508_1671400841269059728_n.jpg?se=-1&stp=c180.0.1080.1080a_dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEwODAuaGRyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=4JSq0DgcE6YQ7kNvwEwIeqN&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfaxFAukmeTulWqQT_Uj6mtrLRZAP4ZDhEs1xpUTnjti6g&oe=68C5FE90&_nc_sid=8b3546"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530269888_18522127558048508_1671400841269059728_n.jpg?se=-1&stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEwODAuaGRyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=4JSq0DgcE6YQ7kNvwEwIeqN&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfaEwyYDTT0Ag-TR4_LB8qCh8a0I27pFQ_q1h83qH03DXw&oe=68C5FE90&_nc_sid=8b3546"
+            }
+        ],
+        "thumbnail_src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530269888_18522127558048508_1671400841269059728_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=4JSq0DgcE6YQ7kNvwEwIeqN&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4Mzk4NzgxNjg5OA%3D%3D.3.c-ccb7-5&oh=00_AfaEwyYDTT0Ag-TR4_LB8qCh8a0I27pFQ_q1h83qH03DXw&oe=68C5FE90&_nc_sid=8b3546",
+        "thumbnail_tall_src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/530269888_18522127558048508_1671400841269059728_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=4JSq0DgcE6YQ7kNvwEwIeqN&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY5NTYxNjU4Mzk4NzgxNjg5OA%3D%3D.3-ccb7-5&oh=00_AfaqpciUQc6aEa4bvt6zLIhrHENV4b-PQmv2hrPAYXVZhw&oe=68C5FE90&_nc_sid=8b3546",
+        "viewer_can_reshare": true
+    }
+}

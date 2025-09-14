@@ -1,1 +1,218 @@
-{"node":{"shortcode":"DGT1y_Psv9C"}}
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.11"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "clips_music_attribution_info": {
+            "artist_name": "Bob Marley & The Wailers",
+            "audio_id": "207348940150074",
+            "should_mute_audio": false,
+            "should_mute_audio_reason": "",
+            "song_name": "Buffalo Soldier",
+            "uses_original_audio": false
+        },
+        "coauthor_producers": [],
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1136,
+            "width": 640
+        },
+        "display_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/481096268_636082369008681_6679110324735701894_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=UXOQupEDtesQ7kNvwEoiGoR&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfYfIaMd_IHI9hEdFkCGVx-FnmTOLM5pD2crTZryMwoE6g&oe=68C60C29&_nc_sid=8b3546",
+        "edge_liked_by": {
+            "count": 17
+        },
+        "edge_media_preview_like": {
+            "count": 17
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Kv\u00e4llens teknik \"Mermaid sweep\" med Matilda och Pelle. Snyggt jobbat! #bjj #dynamixherrljunga #dynamixfightingsports #bjjkids #mermaidsweep"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "edge_media_to_tagged_user": {
+            "edges": [
+                {
+                    "node": {
+                        "user": {
+                            "followed_by_viewer": false,
+                            "full_name": "Peter Korp\u00e5s",
+                            "id": "345294608",
+                            "is_verified": false,
+                            "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/301017605_148178857540658_8426117239937905513_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDQuYzIifQ&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=XkSB4_Iu55QQ7kNvwFgvz5i&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfZN7Uyp0pcQF1D_bXviiiWZd7v0K-mi9__xuCTucP1bEA&oe=68C60BF5&_nc_sid=8b3546",
+                            "username": "farbrorpete"
+                        },
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "felix_profile_grid_crop": null,
+        "gating_info": null,
+        "has_audio": true,
+        "has_upcoming_event": false,
+        "id": "3572435529782984514",
+        "is_video": true,
+        "like_and_view_counts_disabled": false,
+        "location": {
+            "has_public_page": true,
+            "id": "901473976",
+            "name": "Dynamix Herrljunga",
+            "slug": "dynamix-herrljunga"
+        },
+        "media_overlay_info": null,
+        "media_preview": "ABgqZABjAOdvGasoPSqKxgewqeP92SFwc1IyciioDI3rRTsFyvO+zA5x3x244/XGabbzgj5zlj7YH09KknhMgyOCOlU+YxtIAJ5J6/l2rRJMk0jRTIyqRrySzdiOlFQMlFTeXkZqEVdH+r/KgCiw/SilaigD/9k=",
+        "nft_asset_info": null,
+        "owner": {
+            "ai_agent_owner_username": null,
+            "ai_agent_type": null,
+            "bio_links": [
+                {
+                    "link_type": "external",
+                    "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fwww.dynamixherrljunga.se%2F&e=AT1YX409J-gzmQiCnMZVjUbCCT_v2jlNgN6-3slkCnl9k4TI2ynv7g4m02DCxW9hJh1RF51mDMcE1u225za5h9efhK4hPLmf",
+                    "title": "",
+                    "url": "http://www.dynamixherrljunga.se/"
+                }
+            ],
+            "biography": "Kampsportf\u00f6rening i Herrljunga. Sysslar med BJJ och SJJ.",
+            "biography_with_entities": {
+                "entities": [],
+                "raw_text": "Kampsportf\u00f6rening i Herrljunga. Sysslar med BJJ och SJJ."
+            },
+            "blocked_by_viewer": false,
+            "business_address_json": "{\"city_name\": null, \"city_id\": null, \"latitude\": null, \"longitude\": null, \"street_address\": null, \"zip_code\": null}",
+            "business_category_name": null,
+            "business_contact_method": "UNKNOWN",
+            "business_email": null,
+            "business_phone_number": null,
+            "category_enum": "ACTIVITY_GENERAL",
+            "category_name": null,
+            "country_block": false,
+            "edge_follow": {
+                "count": 667
+            },
+            "edge_followed_by": {
+                "count": 670
+            },
+            "edge_mutual_followed_by": {
+                "count": 0,
+                "edges": []
+            },
+            "edge_related_profiles": {
+                "edges": []
+            },
+            "eimu_id": "119950199392650",
+            "external_url": "http://www.dynamixherrljunga.se/",
+            "external_url_linkshimmed": "https://l.instagram.com/?u=http%3A%2F%2Fwww.dynamixherrljunga.se%2F&e=AT1uYIbOFtEmi412X37ktmEdO3GoTJ79agCEdnns8CxUsJQ359-xSqoOKy4p_uVfM7AYXCTEE736f62rLbqmW9e4RjRiPhi6",
+            "fb_profile_biolink": null,
+            "fbid": "17841401455222568",
+            "followed_by_viewer": false,
+            "follows_viewer": false,
+            "full_name": "Dynamix Herrljunga",
+            "group_metadata": null,
+            "guardian_id": null,
+            "has_ar_effects": false,
+            "has_blocked_viewer": false,
+            "has_channel": false,
+            "has_clips": true,
+            "has_guides": false,
+            "has_onboarded_to_text_post_app": false,
+            "has_requested_viewer": false,
+            "hide_like_and_view_counts": false,
+            "highlight_reel_count": 0,
+            "id": "804400507",
+            "is_business_account": true,
+            "is_embeds_disabled": false,
+            "is_guardian_of_viewer": false,
+            "is_joined_recently": false,
+            "is_private": false,
+            "is_professional_account": true,
+            "is_regulated_c18": false,
+            "is_supervised_by_viewer": false,
+            "is_supervised_user": false,
+            "is_supervision_enabled": false,
+            "is_verified": false,
+            "is_verified_by_mv4b": false,
+            "overall_category_name": null,
+            "pinned_channels_list_count": 0,
+            "profile_pic_url": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/28157412_174230413217000_3883626531326525440_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=eQSuXUhI_6gQ7kNvwFiMBSS&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfYAVRYhxSyoUTG8CPJ7VW170mrS7s6ZBrfsCeXT6I75Ew&oe=68C613B4&_nc_sid=8b3546",
+            "profile_pic_url_hd": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/28157412_174230413217000_3883626531326525440_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=eQSuXUhI_6gQ7kNvwFiMBSS&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfZLU-M6PtEE9ezH9SD1pj225VN6do360NVhXeb5nao9rw&oe=68C613B4&_nc_sid=8b3546",
+            "pronouns": [],
+            "remove_message_entrypoint": false,
+            "requested_by_viewer": false,
+            "restricted_by_viewer": null,
+            "should_show_category": true,
+            "should_show_public_contacts": true,
+            "show_account_transparency_details": true,
+            "show_text_post_app_badge": null,
+            "transparency_label": null,
+            "transparency_product": null,
+            "username": "dynamixherrljunga"
+        },
+        "pinned_for_users": [],
+        "product_type": "clips",
+        "profile_grid_thumbnail_fitting_style": "UNSET",
+        "sharing_friction_info": {
+            "bloks_app_url": null,
+            "should_have_sharing_friction": false
+        },
+        "shortcode": "DGT1y_Psv9C",
+        "taken_at_timestamp": 1740087623,
+        "tall_profile_grid_crop": {
+            "crop_bottom": 0.0,
+            "crop_left": 0.0,
+            "crop_right": 0.0,
+            "crop_top": 0.0
+        },
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/481096268_636082369008681_6679110324735701894_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=UXOQupEDtesQ7kNvwEoiGoR&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfbL9x9knrQ3XGFLXv3jgkgn3KJmx-HnWLJ8_y8qhe0UAQ&oe=68C60C29&_nc_sid=8b3546"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/481096268_636082369008681_6679110324735701894_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_s240x240_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=UXOQupEDtesQ7kNvwEoiGoR&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfZejKNendenervDavbDsOE1Rvpw3hhmciM0zP6eaxbgxA&oe=68C60C29&_nc_sid=8b3546"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/481096268_636082369008681_6679110324735701894_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=UXOQupEDtesQ7kNvwEoiGoR&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfYy11Oz60TWIa4dthzuLHcvzpHCCySC2nMtPBiEv8MHlg&oe=68C60C29&_nc_sid=8b3546"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/481096268_636082369008681_6679110324735701894_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=UXOQupEDtesQ7kNvwEoiGoR&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfbXY2myphS6UVOF00yNdqa-pbb1sggV0Ww3VeFEsNAH1g&oe=68C60C29&_nc_sid=8b3546"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/481096268_636082369008681_6679110324735701894_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=UXOQupEDtesQ7kNvwEoiGoR&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfZNnkL4w9sn79fPVYs1_pFyIdtRPDRMAASvyOti7J24pA&oe=68C60C29&_nc_sid=8b3546"
+            }
+        ],
+        "thumbnail_src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/481096268_636082369008681_6679110324735701894_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=UXOQupEDtesQ7kNvwEoiGoR&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfZNnkL4w9sn79fPVYs1_pFyIdtRPDRMAASvyOti7J24pA&oe=68C60C29&_nc_sid=8b3546",
+        "thumbnail_tall_src": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-15/481096268_636082369008681_6679110324735701894_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFBENxdm28UEiwK2sBBUkl1G13nRXzTb5urAq9wUq9q_3YAfE4AlyAxrzfBVX0GTKM&_nc_ohc=UXOQupEDtesQ7kNvwEoiGoR&_nc_gid=PWazuECCCy5M41xAzJJQMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfYfIaMd_IHI9hEdFkCGVx-FnmTOLM5pD2crTZryMwoE6g&oe=68C60C29&_nc_sid=8b3546",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYTMxYzExYmY2YTQ4NGE1MWJlOTY3NmE4YzdlN2Q1ZDQzNTcyNDM1NTI5NzgyOTg0NTE0In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_url": "https://scontent-cph2-1.cdninstagram.com/o1/v/t16/f2/m86/AQPqfBMmLYHtrJizw67ckhLgu1bX5Ji4ubvUtqyVdZqpObvr6PC2XnBTcBR40oiRGyhABgY_3Gz0otw4t1THvuscunO-6rmOHXgebDw.mp4?stp=dst-mp4&efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLmNsaXBzLmMyLjM2MC5iYXNlbGluZSJ9&_nc_cat=101&vs=1362941751548276_3989533955&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRTRBNEY0MUU2MjVGNEFDRDdCQjk3OUI1OUM0M0ZBN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSVF6ckJ5R2xJUUI2MndEQUpraHJuT3VMZTkxYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqTX8qCvgeQ%2FFQIoAkMzLBdANKIMSbpeNRgSZGFzaF9iYXNlbGluZV8zX3YxEQB1%2Fgdl5p0BAA%3D%3D&ccb=9-4&oh=00_AfbHAkEDeZORvw4m_qCps84DLVJyaqmQdx3HnDxJfJQ38Q&oe=68C215DC&_nc_sid=8b3546",
+        "video_view_count": 191,
+        "viewer_can_reshare": true
+    }
+}
