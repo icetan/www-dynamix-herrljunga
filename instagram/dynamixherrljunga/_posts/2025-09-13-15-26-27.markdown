@@ -1,0 +1,27 @@
+---
+layout: post
+title: |
+  Idag var två av våra duktiga ungdomar ocv tävlade på BJJ Kids nation i Mölndal
+excerpt: |
+  Idag var två av våra duktiga ungdomar ocv tävlade på BJJ Kids nation i Mölndal. Silver till Lia och brons till Elena efter fin fina matcher. Grymma tjejer!    
+date:   2025-09-13 15:26:27 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-09-13_15-26-27_UTC_3.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-09-13_15-26-27_UTC_3.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DOjCJ2zCEFZ
+---
+Idag var två av våra duktiga ungdomar ocv tävlade på BJJ Kids nation i Mölndal. Silver till Lia och brons till Elena efter fin fina matcher. Grymma tjejer! [#bjj](https://www.instagram.com/explore/tags/bjj/) [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-09-13_15-26-27_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-09-13_15-26-27_UTC_4.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-09-13_15-26-27_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-09-13_15-26-27_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
