@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Lite lasso/spider på kvällens pass
+excerpt: |
+  Lite lasso/spider på kvällens pass. @emmasaren och @ronjakallmark övar.   
+date:   2025-10-02 21:02:35 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2025-10-02_21-02-35_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2025-10-02_21-02-35_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DPUjuWICGJ9
+---
+Lite lasso/spider på kvällens pass. [@emmasaren](https://www.instagram.com/emmasaren/) och [@ronjakallmark](https://www.instagram.com/ronjakallmark/) övar. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2025-10-02_21-02-35_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
