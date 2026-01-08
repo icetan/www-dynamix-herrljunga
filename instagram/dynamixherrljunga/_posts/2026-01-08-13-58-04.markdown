@@ -1,0 +1,24 @@
+---
+layout: post
+title: |
+  Terminsstart vecka 4
+excerpt: |
+  Terminsstart vecka 4, 19 januari. Välkomna gamla och nya medlemmar. Vi ses på mattan!    
+date:   2026-01-08 13:58:04 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2026-01-08_13-58-04_UTC_3.jpg
+thumbnail: /instagram/dynamixherrljunga/2026-01-08_13-58-04_UTC_3.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DTQJC3mCFP3
+---
+Terminsstart vecka 4, 19 januari. Välkomna gamla och nya medlemmar. Vi ses på mattan! [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-01-08_13-58-04_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-01-08_13-58-04_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-01-08_13-58-04_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
