@@ -1,0 +1,18 @@
+---
+layout: post
+title: |
+  Då vårterminen 2026 igång
+excerpt: |
+  Då vårterminen 2026 igång. Vi börjar lite lätt med Bjj kids - 20 deltagare    
+date:   2026-01-19 17:03:54 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2026-01-19_17-03-54_UTC.jpg
+thumbnail: /instagram/dynamixherrljunga/2026-01-19_17-03-54_UTC.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DTszDofiFS5
+---
+Då vårterminen 2026 igång. Vi börjar lite lätt med Bjj kids - 20 deltagare [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-01-19_17-03-54_UTC.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
