@@ -1,0 +1,24 @@
+---
+layout: post
+title: |
+  Idag tävlade Eridon
+excerpt: |
+  Idag tävlade Eridon, Sara och Emma. Eridon tog guld i nogi och silver i gi. Grattis!!! Både Sara och Emma gjorde tävlingsdebut och fick med sig varsitt brons. Mycket bra jobbat!    
+date:   2026-02-15 20:10:16 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2026-02-15_20-10-16_UTC_2.jpg
+thumbnail: /instagram/dynamixherrljunga/2026-02-15_20-10-16_UTC_2.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DUyp2K-iCdL
+---
+Idag tävlade Eridon, Sara och Emma. Eridon tog guld i nogi och silver i gi. Grattis!!! Både Sara och Emma gjorde tävlingsdebut och fick med sig varsitt brons. Mycket bra jobbat! [#bjjkids](https://www.instagram.com/explore/tags/bjjkids/) [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-02-15_20-10-16_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-02-15_20-10-16_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-02-15_20-10-16_UTC_3.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

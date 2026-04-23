@@ -1,0 +1,21 @@
+---
+layout: post
+title: |
+  I morse hade vi Anpassad grundskola @agshorsby på besök
+excerpt: |
+  I morse hade vi Anpassad grundskola @agshorsby på besök. Barnen fick en introduktion till jiujitsu med vår huvudinströktör @farbrorpete . En bra start på fredagen för alla inblandade.  
+date:   2026-03-06 12:26:47 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2026-03-06_12-26-47_UTC_2.jpg
+thumbnail: /instagram/dynamixherrljunga/2026-03-06_12-26-47_UTC_2.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DViv6NCiHPC
+---
+I morse hade vi Anpassad grundskola [@agshorsby](https://www.instagram.com/agshorsby/) på besök. Barnen fick en introduktion till jiujitsu med vår huvudinströktör [@farbrorpete](https://www.instagram.com/farbrorpete/) . En bra start på fredagen för alla inblandade. [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-03-06_12-26-47_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-03-06_12-26-47_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />

@@ -1,0 +1,21 @@
+---
+layout: post
+title: |
+  I helgen var @tobnik och @farbrorpete på kickoff med vårt team i Nacka
+excerpt: |
+  I helgen var @tobnik och @farbrorpete på kickoff med vårt team i Nacka. Mycket lyckat och mycket bra kunskaper med hem till Herrljunga igen....   
+date:   2026-03-08 16:25:27 +0000
+categories: instagram
+background: /instagram/dynamixherrljunga/2026-03-08_16-25-27_UTC_2.jpg
+thumbnail: /instagram/dynamixherrljunga/2026-03-08_16-25-27_UTC_2.jpg
+
+instagram_url: https://www.instagram.com/dynamixherrljunga/p/DVoU0BuiJR4
+---
+I helgen var [@tobnik](https://www.instagram.com/tobnik/) och [@farbrorpete](https://www.instagram.com/farbrorpete/) på kickoff med vårt team i Nacka. Mycket lyckat och mycket bra kunskaper med hem till Herrljunga igen.... [#bjj](https://www.instagram.com/explore/tags/bjj/) [#dynamixherrljunga](https://www.instagram.com/explore/tags/dynamixherrljunga/) [#dynamixfightingsports](https://www.instagram.com/explore/tags/dynamixfightingsports/)
+
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-03-08_16-25-27_UTC_2.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
+
+
+<img src='{{ '/instagram/dynamixherrljunga/2026-03-08_16-25-27_UTC_1.jpg' | prepend: site.baseurl | replace: '//', '/' }}' class='img-fluid' />
